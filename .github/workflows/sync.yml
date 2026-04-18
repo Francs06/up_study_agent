@@ -1,0 +1,50 @@
+name: UP Study Agent
+
+on:
+  schedule:
+    # Runs at 06:00 and 13:00 SAST (UTC+2) — so 04:00 and 11:00 UTC
+    - cron: "0 4 * * *"
+    - cron: "0 11 * * *"
+  workflow_dispatch: # Allow manual runs from the GitHub Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run study agent
+        env:
+          UP_USERNAME: ${{ secrets.UP_USERNAME }}
+          UP_PASSWORD: ${{ secrets.UP_PASSWORD }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+        run: python main.py
+
+      - name: Upload login failure screenshot (if any)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: login-failure-screenshot
+          path: login_failure.png
+          if-no-files-found: ignore
