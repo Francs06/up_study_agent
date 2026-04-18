@@ -34,6 +34,7 @@ EVENT_TYPE_LABELS = {
     "GB:DUE": "Gradebook Item Due",
     "SC:DUE": "SCORM Item Due",
     "ANNOUNCEMENT": "From Announcement",
+    "GRADEBOOK": "Reading Assignment / Quiz",
 }
 
 
@@ -109,7 +110,7 @@ def sync_to_calendar(deadlines: list[dict]) -> dict:
                     "source": AGENT_TAG,
                 }
             },
-            "colorId": "11" if event_type != "ANNOUNCEMENT" else "5",  # Red for deadlines, banana for announcements
+            "colorId": "11" if event_type not in ("ANNOUNCEMENT", "GRADEBOOK") else ("5" if event_type == "ANNOUNCEMENT" else "2"),  # Red for deadlines, banana for announcements
         }
 
         try:
