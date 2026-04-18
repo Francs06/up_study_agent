@@ -13,7 +13,7 @@ from datetime import datetime
 
 from auth.blackboard_login import get_session_cookie
 from parser.stream_parser import fetch_stream, parse_stream
-from calendar.google_calendar import sync_to_calendar
+from gcalendar.google_calendar import sync_to_calendar
 from tasks.google_tasks import sync_to_tasks
 
 logging.basicConfig(
