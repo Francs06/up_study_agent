@@ -98,3 +98,56 @@ def parse_stream(raw: dict) -> tuple[list[dict], list]:
 
     log.info(f"Parsed {len(deadlines)} deduplicated deadlines from {len(entries)} entries.")
     return deadlines, []
+
+
+def parse_announcements(raw: dict) -> list[dict]:
+    """
+    Separately extract announcement entries from the stream
+    for Claude processing.
+    """
+    entries = raw.get("sv_streamEntries", [])
+    course_names = {}
+    for c in raw.get("sv_extras", {}).get("sx_courses", []):
+        course_names[c["id"]] = c.get("name", c["id"])
+
+    now = datetime.now(tz=timezone.utc)
+    cutoff = now - timedelta(days=14)
+    seen_ids = set()
+    announcements = []
+
+    for entry in entries:
+        se_id = entry.get("se_id")
+        if se_id in seen_ids:
+            continue
+        seen_ids.add(se_id)
+
+        event_type = (entry.get("extraAttribs") or {}).get("event_type", "")
+        if event_type not in ("AN:AN_AVAIL",):
+            continue
+
+        timestamp = _ms_to_dt(entry.get("se_timestamp", 0))
+        if timestamp and timestamp < cutoff:
+            continue
+
+        isd = entry.get("itemSpecificData", {}) or {}
+        nd = isd.get("notificationDetails") or {}
+        course_id = entry.get("se_courseId", "")
+        course_name = course_names.get(course_id, course_id)
+        title = nd.get("announcementTitle", "Untitled")
+        body_html = (nd.get("announcementBody") or "")
+
+        # Strip HTML tags
+        import re
+        body_text = re.sub(r"<[^>]+>", " ", body_html)
+        body_text = re.sub(r"\s+", " ", body_text).strip()
+
+        announcements.append({
+            "se_id": se_id,
+            "course_name": course_name,
+            "course_id": course_id,
+            "title": title,
+            "body": body_text,
+        })
+
+    log.info(f"Found {len(announcements)} announcements for Claude processing.")
+    return announcements

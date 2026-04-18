@@ -6,19 +6,20 @@ Syncs deadline items to Google Calendar.
 import json
 import logging
 import os
-from datetime import timedelta, datetime, date
+from datetime import timedelta, date
 
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+import pytz
 
 log = logging.getLogger(__name__)
 
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
 CALENDAR_ID = os.environ.get("GOOGLE_CALENDAR_ID", "primary")
 AGENT_TAG = "up-study-agent"
+SAST = pytz.timezone("Africa/Johannesburg")
 
-# Human-readable labels for event types
 EVENT_TYPE_LABELS = {
     "AS:DUE": "Assignment Due",
     "UA:DUE": "Assignment Due",
@@ -32,6 +33,7 @@ EVENT_TYPE_LABELS = {
     "TE:TE_AVAIL": "Test Available",
     "GB:DUE": "Gradebook Item Due",
     "SC:DUE": "SCORM Item Due",
+    "ANNOUNCEMENT": "From Announcement",
 }
 
 
@@ -64,37 +66,35 @@ def sync_to_calendar(deadlines: list[dict]) -> dict:
             continue
 
         due = item.get("due")
+        duration_hours = item.get("duration_hours", 1)
+
         if due:
             start = {"dateTime": due.isoformat(), "timeZone": "Africa/Johannesburg"}
-            end_dt = due + timedelta(hours=1)
+            end_dt = due + timedelta(hours=duration_hours)
             end = {"dateTime": end_dt.isoformat(), "timeZone": "Africa/Johannesburg"}
+
+            # Reminder: day before at 07:30 SAST
+            due_sast = due.astimezone(SAST)
+            prev_day_0730 = due_sast.replace(hour=7, minute=30, second=0, microsecond=0) - timedelta(days=1)
+            minutes_before = int((due_sast - prev_day_0730).total_seconds() / 60)
         else:
             today = date.today().isoformat()
             start = {"date": today}
             end = {"date": today}
+            minutes_before = 24 * 60
 
-        # Human-readable type label
         event_type = item.get("event_type", "")
         type_label = EVENT_TYPE_LABELS.get(event_type, event_type)
+        extra_desc = item.get("description", "")
 
-        # Reminder: day before at 07:30 SAST
-        # Calculate minutes from due time back to 07:30 the previous day
-        if due:
-            from datetime import timezone
-            import pytz
-            sast = pytz.timezone("Africa/Johannesburg")
-            due_sast = due.astimezone(sast)
-            prev_day_0730 = due_sast.replace(hour=7, minute=30, second=0, microsecond=0) - timedelta(days=1)
-            minutes_before = int((due_sast - prev_day_0730).total_seconds() / 60)
-        else:
-            minutes_before = 24 * 60  # fallback: 24 hours
+        description = type_label
+        if extra_desc:
+            description += f"\n\n{extra_desc}"
+        description += "\n\nSynced by UP Study Agent."
 
         event_body = {
             "summary": item["title"],
-            "description": (
-                f"{type_label}\n"
-                f"Synced by UP Study Agent."
-            ),
+            "description": description,
             "start": start,
             "end": end,
             "reminders": {
@@ -109,7 +109,7 @@ def sync_to_calendar(deadlines: list[dict]) -> dict:
                     "source": AGENT_TAG,
                 }
             },
-            "colorId": "11",  # Tomato red
+            "colorId": "11" if event_type != "ANNOUNCEMENT" else "5",  # Red for deadlines, banana for announcements
         }
 
         try:
