@@ -2,10 +2,9 @@ name: UP Study Agent
 
 on:
   schedule:
-    # Runs at 06:00 and 13:00 SAST (UTC+2) — so 04:00 and 11:00 UTC
     - cron: "0 4 * * *"
     - cron: "0 11 * * *"
-  workflow_dispatch: # Allow manual runs from the GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   sync:
@@ -40,7 +39,7 @@ jobs:
           UP_PASSWORD: ${{ secrets.UP_PASSWORD }}
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
           GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
-        run: python main.py
+        run: python debug_stream.py
 
       - name: Upload login failure screenshot (if any)
         if: failure()
