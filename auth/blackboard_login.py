@@ -1,11 +1,9 @@
 """
 auth/blackboard_login.py
 Headless login to clickup.up.ac.za using Playwright.
-Fetches the activity stream directly within the browser session to avoid
-XSRF token issues with external requests.
+Grabs the XSRF token from cookies and includes it in the stream request header.
 """
 
-import json
 import logging
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
@@ -22,9 +20,7 @@ STREAM_PAYLOAD = {
 
 def get_stream_data(username: str, password: str) -> dict:
     """
-    Logs in via Playwright and fetches the activity stream directly
-    from within the browser session, bypassing XSRF issues.
-    Returns the parsed stream JSON.
+    Logs in via Playwright, extracts the XSRF token, and fetches the stream.
     """
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -40,34 +36,53 @@ def get_stream_data(username: str, password: str) -> dict:
         try:
             log.info(f"Navigating to {LOGIN_URL}")
             page.goto(LOGIN_URL, wait_until="networkidle", timeout=30000)
-
             page.fill("#user_id", username)
             page.fill("#password", password)
             page.click("#entry-login")
-
             page.wait_for_url("**/ultra/**", timeout=20000)
             log.info("Login redirect detected — authenticated.")
-
         except PlaywrightTimeout as e:
             page.screenshot(path="login_failure.png")
             raise RuntimeError(f"Login timed out. Screenshot saved. Error: {e}")
 
-        # Use the browser's fetch API — automatically includes cookies and XSRF
-        log.info("Fetching activity stream via browser session...")
+        # Extract XSRF token from cookies
+        cookies = context.cookies()
+        cookie_dict = {c["name"]: c["value"] for c in cookies}
+        log.info(f"Cookies available: {list(cookie_dict.keys())}")
+
+        xsrf_token = (
+            cookie_dict.get("XSRF-TOKEN")
+            or cookie_dict.get("xsrf")
+            or cookie_dict.get("bb-xsrf-token")
+            or ""
+        )
+        log.info(f"XSRF token found: {'yes' if xsrf_token else 'NO - will try without'}")
+
+        # Fetch stream with explicit XSRF header
+        log.info("Fetching activity stream...")
         result = page.evaluate(
-            """async ([url, payload]) => {
+            """async ([url, payload, xsrf]) => {
+                const headers = {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json',
+                };
+                if (xsrf) {
+                    headers['X-Blackboard-XSRF'] = xsrf;
+                    headers['X-XSRF-TOKEN'] = xsrf;
+                }
                 const response = await fetch(url, {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
+                    headers: headers,
                     body: JSON.stringify(payload),
                     credentials: 'include'
                 });
                 if (!response.ok) {
-                    throw new Error('Stream fetch failed: ' + response.status + ' ' + response.statusText);
+                    const text = await response.text();
+                    throw new Error('Stream fetch failed: ' + response.status + ' ' + text.substring(0, 200));
                 }
                 return await response.json();
             }""",
-            [STREAM_URL, STREAM_PAYLOAD],
+            [STREAM_URL, STREAM_PAYLOAD, xsrf_token],
         )
 
         browser.close()
