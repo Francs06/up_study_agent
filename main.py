@@ -7,12 +7,11 @@ and syncs deadlines/tasks to Google Calendar and Google Tasks.
 
 import os
 import sys
-import json
 import logging
 from datetime import datetime
 
-from auth.blackboard_login import get_session_cookie
-from parser.stream_parser import fetch_stream, parse_stream
+from auth.blackboard_login import get_stream_data
+from parser.stream_parser import parse_stream
 from gcalendar.google_calendar import sync_to_calendar
 from tasks.google_tasks import sync_to_tasks
 
@@ -28,20 +27,15 @@ def main():
     log.info("=== UP Study Agent starting ===")
     log.info(f"Run time: {datetime.now().isoformat()}")
 
-    # ── 1. Authenticate ──────────────────────────────────────────────────────
-    log.info("Logging into clickup.up.ac.za...")
-    cookie = get_session_cookie(
+    # ── 1. Login + fetch stream in one browser session ────────────────────────
+    log.info("Logging in and fetching stream...")
+    raw = get_stream_data(
         username=os.environ["UP_USERNAME"],
         password=os.environ["UP_PASSWORD"],
     )
-    log.info("Authentication successful.")
+    log.info(f"Stream fetched. Total entries: {len(raw.get('sv_streamEntries', []))}")
 
-    # ── 2. Fetch stream ──────────────────────────────────────────────────────
-    log.info("Fetching activity stream...")
-    raw = fetch_stream(cookie)
-    log.info(f"Stream fetched. Total stream entries: {len(raw.get('sv_streamEntries', []))}")
-
-    # ── 3. Parse actionable items ────────────────────────────────────────────
+    # ── 2. Parse actionable items ─────────────────────────────────────────────
     log.info("Parsing actionable items...")
     deadlines, tasks = parse_stream(raw)
     log.info(f"Found {len(deadlines)} calendar events and {len(tasks)} tasks.")
@@ -50,13 +44,13 @@ def main():
         log.info("Nothing new to sync. All done.")
         return
 
-    # ── 4. Sync to Google Calendar ───────────────────────────────────────────
+    # ── 3. Sync to Google Calendar ────────────────────────────────────────────
     if deadlines:
         log.info("Syncing deadlines to Google Calendar...")
         cal_results = sync_to_calendar(deadlines)
         log.info(f"Calendar: {cal_results['created']} created, {cal_results['skipped']} already existed.")
 
-    # ── 5. Sync to Google Tasks ──────────────────────────────────────────────
+    # ── 4. Sync to Google Tasks ───────────────────────────────────────────────
     if tasks:
         log.info("Syncing tasks to Google Tasks...")
         task_results = sync_to_tasks(tasks)
