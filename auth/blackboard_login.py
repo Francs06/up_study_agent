@@ -1,16 +1,19 @@
 """
 auth/blackboard_login.py
 Headless login to clickup.up.ac.za using Playwright.
-Grabs the XSRF token from cookies and includes it in the stream request header.
+Navigates to the stream page first to establish session context,
+then intercepts the actual stream API response.
 """
 
+import json
 import logging
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
 log = logging.getLogger(__name__)
 
 LOGIN_URL = "https://clickup.up.ac.za/webapps/login/"
-STREAM_URL = "https://clickup.up.ac.za/learn/api/v1/streams/ultra"
+STREAM_PAGE_URL = "https://clickup.up.ac.za/ultra/stream"
+STREAM_API_URL = "https://clickup.up.ac.za/learn/api/v1/streams/ultra"
 STREAM_PAYLOAD = {
     "sv_provider": "all",
     "forOverview": False,
@@ -20,7 +23,8 @@ STREAM_PAYLOAD = {
 
 def get_stream_data(username: str, password: str) -> dict:
     """
-    Logs in via Playwright, extracts the XSRF token, and fetches the stream.
+    Logs in, navigates to the stream page, and intercepts the stream API call
+    that the page makes automatically on load.
     """
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -31,7 +35,20 @@ def get_stream_data(username: str, password: str) -> dict:
                 "Chrome/122.0.0.0 Safari/537.36"
             )
         )
+
+        # Intercept and capture the stream API response
+        captured = {}
+
+        def handle_response(response):
+            if STREAM_API_URL in response.url and response.request.method == "POST":
+                try:
+                    captured["data"] = response.json()
+                    log.info(f"Intercepted stream API response ({response.status})")
+                except Exception as e:
+                    log.warning(f"Could not parse intercepted response: {e}")
+
         page = context.new_page()
+        page.on("response", handle_response)
 
         try:
             log.info(f"Navigating to {LOGIN_URL}")
@@ -45,46 +62,21 @@ def get_stream_data(username: str, password: str) -> dict:
             page.screenshot(path="login_failure.png")
             raise RuntimeError(f"Login timed out. Screenshot saved. Error: {e}")
 
-        # Extract XSRF token from cookies
-        cookies = context.cookies()
-        cookie_dict = {c["name"]: c["value"] for c in cookies}
-        log.info(f"Cookies available: {list(cookie_dict.keys())}")
+        # Navigate to the stream page — this triggers the API call automatically
+        log.info("Navigating to stream page to trigger API call...")
+        page.goto(STREAM_PAGE_URL, wait_until="networkidle", timeout=30000)
 
-        xsrf_token = (
-            cookie_dict.get("XSRF-TOKEN")
-            or cookie_dict.get("xsrf")
-            or cookie_dict.get("bb-xsrf-token")
-            or ""
-        )
-        log.info(f"XSRF token found: {'yes' if xsrf_token else 'NO - will try without'}")
-
-        # Fetch stream with explicit XSRF header
-        log.info("Fetching activity stream...")
-        result = page.evaluate(
-            """async ([url, payload, xsrf]) => {
-                const headers = {
-                    'Content-Type': 'application/json',
-                    'Accept': 'application/json',
-                };
-                if (xsrf) {
-                    headers['X-Blackboard-XSRF'] = xsrf;
-                    headers['X-XSRF-TOKEN'] = xsrf;
-                }
-                const response = await fetch(url, {
-                    method: 'POST',
-                    headers: headers,
-                    body: JSON.stringify(payload),
-                    credentials: 'include'
-                });
-                if (!response.ok) {
-                    const text = await response.text();
-                    throw new Error('Stream fetch failed: ' + response.status + ' ' + text.substring(0, 200));
-                }
-                return await response.json();
-            }""",
-            [STREAM_URL, STREAM_PAYLOAD, xsrf_token],
-        )
+        # Give it a moment for any lazy-loaded requests
+        page.wait_for_timeout(3000)
 
         browser.close()
-        log.info("Stream fetched successfully.")
-        return result
+
+        if "data" in captured:
+            log.info("Stream data captured successfully.")
+            return captured["data"]
+
+        # Fallback: if interception missed it, raise a clear error
+        raise RuntimeError(
+            "Stream API call was not intercepted. "
+            "The page may have changed structure."
+        )
