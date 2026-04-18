@@ -31,7 +31,8 @@ jobs:
         run: |
           pip install -r requirements.txt
           playwright install chromium
-          playwright install-deps chromium
+          playwright install-deps chromium || true
+          sudo apt-get install -y libasound2t64
 
       - name: Run study agent
         env:
