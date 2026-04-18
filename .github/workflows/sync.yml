@@ -41,10 +41,10 @@ jobs:
           GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
         run: python debug_stream.py
 
-      - name: Upload login failure screenshot (if any)
-        if: failure()
+      - name: Upload debug output
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: login-failure-screenshot
-          path: login_failure.png
+          name: debug-output
+          path: debug_output.txt
           if-no-files-found: ignore
