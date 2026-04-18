@@ -1,8 +1,7 @@
 """
 auth/blackboard_login.py
-Headless login to clickup.up.ac.za using Playwright.
-Navigates to the stream page first to establish session context,
-then intercepts the actual stream API response.
+Logs into clickup.up.ac.za and intercepts the full activity stream.
+Waits for all paginated responses before returning.
 """
 
 import json
@@ -14,17 +13,12 @@ log = logging.getLogger(__name__)
 LOGIN_URL = "https://clickup.up.ac.za/webapps/login/"
 STREAM_PAGE_URL = "https://clickup.up.ac.za/ultra/stream"
 STREAM_API_URL = "https://clickup.up.ac.za/learn/api/v1/streams/ultra"
-STREAM_PAYLOAD = {
-    "sv_provider": "all",
-    "forOverview": False,
-    "sv_streamEntries": [],
-}
 
 
 def get_stream_data(username: str, password: str) -> dict:
     """
-    Logs in, navigates to the stream page, and intercepts the stream API call
-    that the page makes automatically on load.
+    Logs in, navigates to the stream page, and intercepts all stream API
+    responses. Merges paginated responses into a single result.
     """
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -36,16 +30,23 @@ def get_stream_data(username: str, password: str) -> dict:
             )
         )
 
-        # Intercept and capture the stream API response
-        captured = {}
+        all_entries = []
+        providers = None
+        last_raw = {}
 
         def handle_response(response):
+            nonlocal providers, last_raw
             if STREAM_API_URL in response.url and response.request.method == "POST":
                 try:
-                    captured["data"] = response.json()
-                    log.info(f"Intercepted stream API response ({response.status})")
+                    data = response.json()
+                    entries = data.get("sv_streamEntries", [])
+                    all_entries.extend(entries)
+                    if providers is None:
+                        providers = data.get("sv_providers")
+                    last_raw = data
+                    log.info(f"Intercepted stream response ({response.status}): {len(entries)} entries")
                 except Exception as e:
-                    log.warning(f"Could not parse intercepted response: {e}")
+                    log.warning(f"Could not parse stream response: {e}")
 
         page = context.new_page()
         page.on("response", handle_response)
@@ -60,23 +61,22 @@ def get_stream_data(username: str, password: str) -> dict:
             log.info("Login redirect detected — authenticated.")
         except PlaywrightTimeout as e:
             page.screenshot(path="login_failure.png")
-            raise RuntimeError(f"Login timed out. Screenshot saved. Error: {e}")
+            raise RuntimeError(f"Login timed out. Error: {e}")
 
-        # Navigate to the stream page — this triggers the API call automatically
-        log.info("Navigating to stream page to trigger API call...")
+        # Navigate to stream page — triggers the API calls
+        log.info("Navigating to stream page...")
         page.goto(STREAM_PAGE_URL, wait_until="networkidle", timeout=30000)
 
-        # Give it a moment for any lazy-loaded requests
-        page.wait_for_timeout(3000)
+        # Wait generously for all lazy-loaded stream requests to complete
+        page.wait_for_timeout(6000)
 
         browser.close()
 
-        if "data" in captured:
-            log.info("Stream data captured successfully.")
-            return captured["data"]
+        log.info(f"Stream capture complete. Total entries: {len(all_entries)}")
 
-        # Fallback: if interception missed it, raise a clear error
-        raise RuntimeError(
-            "Stream API call was not intercepted. "
-            "The page may have changed structure."
-        )
+        # Return a merged result dict
+        merged = dict(last_raw)
+        merged["sv_streamEntries"] = all_entries
+        if providers:
+            merged["sv_providers"] = providers
+        return merged
