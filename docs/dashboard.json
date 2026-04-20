@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-04-20T06:22:27.092611+00:00",
-  "generated_at_human": "20 April 2026 at 06:22 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have **two submissions due TODAY (April 20)**: MOW 217's P3 Design Explanation & 3D CAD, and MSD 210's RAE21. Since P3 only allows one submission and is peer-reviewed, prioritize finishing that first\u2014no room for revisions. Knock out RAE21 immediately after if you haven't already.",
-  "total_upcoming_deadlines": 19,
+  "generated_at": "2026-04-20T06:53:11.028182+00:00",
+  "generated_at_human": "20 April 2026 at 06:53 SAST",
+  "focus_today": "**Franco, focus on this NOW:**\n\nYou have **TWO deadlines TODAY (Monday, 20 April)** \u2014 the MOW 217 P3 CAD submission and MSD 210 RAE21 assignment. Get these submitted before end of day, then shift to Quiz 8 prep (due Wednesday).",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
+        {
+          "title": "ultraDocumentBody: MOW 217 Semester Test 1 - submission deadline (end of test)",
+          "due_date": "2026-03-18",
+          "due_time": null,
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "From document",
+          "event_type": "DOCUMENT"
+        },
+        {
+          "title": "ultraDocumentBody: Semester Test 1",
+          "due_date": "2026-03-18",
+          "due_time": null,
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "From document",
+          "event_type": "DOCUMENT"
+        },
         {
           "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD (Individual Submission, Peer Reviewed, Only One Submission is Possible)",
           "due_date": "2026-04-20",
@@ -58,9 +76,150 @@
           "label": "GRADEBOOK:Assignment.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "ultraDocumentBody: Semester Test 2 - MOW 217",
+          "due_date": "2026-05-09",
+          "due_time": null,
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "From document",
+          "event_type": "DOCUMENT"
         }
       ],
-      "new_documents": []
+      "new_documents": [
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "MOW 217 S1 2026 course contact and support information for Mechanical Engineering students, including module coordinator Isaac Setshedi and teaching assistants for CAD practicals and project mentoring.",
+          "key_requirements": [
+            "Email Isaac Setshedi in advance to book consultation appointments",
+            "Contact appropriate teaching assistant based on group assignment (Groups 1-15: Devon Nell; CAD Practicals: Yanga Mkhize)",
+            "Attend tutorials/practicals on Thursdays for teaching assistant support"
+          ],
+          "important_notes": [
+            "Module Coordinator: Isaac Setshedi (isaac.setshedi@up.ac.za, 012 420 2014)",
+            "Consultation hours: Wed 10:30-11:20, Thu 13:30-14:20, Fri 10:30-11:20 (book via email)",
+            "Teaching Assistant office: Eng I Room 9-9, Thursday 10:30-17:20 available",
+            "Devon Nell is Project Mentor for Groups 1-15",
+            "WhatsApp contact available: 082 926 6380"
+          ]
+        },
+        {
+          "filename": "SolidWorks download instructions",
+          "type": "guidelines",
+          "summary": "Instructions for installing SolidWorks Student Premium edition (2025 version) on personal devices running Windows 10/11, with serial number provided. Installation is optional as SolidWorks is available in campus computer labs.",
+          "key_requirements": [
+            "Download SolidWorks from www.solidworks.com/studentpremium",
+            "Use Student Premium Serial Number: 90200084810156779TQRZN9D",
+            "Install version 2025 (unless older version required)",
+            "Create 3DEXPERIENCE ID account using student email address",
+            "Access MySolidWorks at my.solidworks.com/account/student-access",
+            "Requires Windows 10 or 11 operating system",
+            "Requires strong internet connection and substantial download time"
+          ],
+          "important_notes": [
+            "Installation is NOT mandatory - SolidWorks available in Mining Study Center, Natural Sciences II, and Informatorium labs",
+            "CRITICAL: Only install SolidWorks PDM and SolidWorks Electrical if Microsoft SQL Server Instance is already created - failure to do so will prevent installation",
+            "Must use student email when creating 3DEXPERIENCE ID for certification accreditation",
+            "SolidWorks 2020 was last version compatible with Windows 7"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "YouTube playlist containing drawing lecture videos for MOW 217 S1 2026.",
+          "key_requirements": [
+            "Access and review drawing lecture videos from provided playlist"
+          ],
+          "important_notes": [
+            "Video playlist link provided for self-study or lecture review"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "test_scope",
+          "summary": "Semester Test 1 for MOW 217 on 18 March 2026 from 14:50 to 18:10, comprising a 180-minute CAD and drawing-based test with three parts (Part 1 on ClickUP, Parts 2-3 on UP A3 drawing sheets).",
+          "key_requirements": [
+            "Submit all test files in PDF format",
+            "Part 1 completed on ClickUP (available in Tests and Exam/Semester Test 1 folder)",
+            "Parts 2 and 3 completed on UP A3 drawing sheet",
+            "Write computer and student numbers on yellow slips",
+            "Access additional files from H:/K: drive in folder mow217test1",
+            "Open ClickUP, SOLIDWORKS and read question paper in first 10 minutes",
+            "Submit files to ClickUP in last 10 minutes before 18:10"
+          ],
+          "important_notes": [
+            "Open-book test (print material allowed, no electronic media/general internet)",
+            "No students may enter after 30 minutes from start time (14:50)",
+            "No students may leave before 18:10 (end time)",
+            "Extra-time students start at 14:05 and 14:20",
+            "Printed question paper will be provided",
+            "Department representatives available to answer technical questions",
+            "ClickUP access permitted, but not general internet"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "test_scope",
+          "summary": "Semester test 1 scheduled for Wednesday, 18 March 2026 from 14:50 to 18:10 (180 minutes). Venue allocation based on surname initial.",
+          "key_requirements": [
+            "Arrive 10 minutes before session start time (14:40)",
+            "Locate assigned venue based on surname: A-Mb in Eng I MISC Computer Labs, Mc-Z in NSII Computer Labs 1-3",
+            "Students with extra time report to NSII Computer Lab 4 at 14:05 (15 min/hour) or 14:20 (10 min/hour)",
+            "Bring extra-time letter if applicable"
+          ],
+          "important_notes": [
+            "Test duration: 180 minutes",
+            "Venue allocation is by surname initial - know your assigned location",
+            "Extra time students must bring documentation to exam venue",
+            "Early arrival (10 min before) is mandatory"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "test_scope",
+          "summary": "Semester Test 2 for MOW 217 scheduled for 09 May 2026 from 14:40 to 18:00, comprising 4 parts with specific submission requirements and venue rules.",
+          "key_requirements": [
+            "Arrive 15 minutes early at test venue",
+            "Part 1 (FBD) - complete on provided paper sheet",
+            "Part 2 (quiz questions) - complete on ClickUP",
+            "Parts 3 & 4 - complete on UP A3 drawing sheet",
+            "Submit all files in PDF format via ClickUP",
+            "Save files regularly to H:/K:/T: drive (e.g., H:\\mow217test2)",
+            "Write computer and student numbers on yellow slips",
+            "Cannot enter after 30 minutes from start time",
+            "Cannot leave before 18:00"
+          ],
+          "important_notes": [
+            "Test duration: 180 minutes (excluding 10 min setup and 10 min submission buffer)",
+            "Extra-time students start at 13:55 and 14:10",
+            "Open-book test - hardcopy materials and written/typed notes allowed; NO electronic media, USBs, cell phones, or laptops",
+            "ClickUP access available during test; general internet NOT allowed",
+            "Printed question paper will be provided",
+            "CAD drawing submission links and Parts 3 & 4 available on ClickUP under Tests and Exam/Semester Test 2 folder",
+            "Department representatives available to answer technical questions",
+            "Standard university late arrival and early departure rules apply"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "test_scope",
+          "summary": "Semester test 2 scheduled for Saturday, 09 May 2026 from 14:40 to 18:00 (180 minutes) with venue allocation based on surname initial.",
+          "key_requirements": [
+            "Arrive 10 minutes before 14:40 session start time",
+            "Identify correct venue based on surname first letter (A-Mb: Eng I MISC Computer Labs; Mc-Z: NSII Computer Labs 1-3)",
+            "Students with extra time report to NSII computer lab 4 (13:55 for 15 min/hour extra or 14:10 for 10 min/hour extra)",
+            "Bring extra-time letter if applicable"
+          ],
+          "important_notes": [
+            "Test duration is 180 minutes (3 hours)",
+            "Venue location varies by surname initial",
+            "Extra time students must bring documentation letter",
+            "Arrive early to allow time for seating and instructions"
+          ]
+        }
+      ]
     },
     "_188765_1": {
       "name": "MSD 210",
@@ -155,14 +314,569 @@
       "full_name": "WTW 256 S1 2026 \u2014 Differential Equations",
       "color": "#8B1A2B",
       "deadlines": [],
-      "new_documents": []
+      "new_documents": [
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "Office consultation hours for WTW 256 S1 2026 instructor are available Monday through Friday, with specific times Monday-Wednesday and appointment-based availability Thursday-Friday.",
+          "key_requirements": [
+            "Contact instructor during office hours for consultation",
+            "Thursday and Friday meetings require prior appointment"
+          ],
+          "important_notes": [
+            "Monday: 14:30-16:30",
+            "Tuesday: 13:30-16:00",
+            "Wednesday: 10:30-11:30",
+            "Thursday & Friday: By appointment only"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "Lecturer's consultation hours are available on Monday and Thursday from 12:30 to 14:00, with flexibility for appointments outside these times.",
+          "key_requirements": [
+            "Schedule consultations during Monday 12:30-14:00 or Thursday 12:30-14:00",
+            "Make an appointment to ensure availability outside consultation hours"
+          ],
+          "important_notes": [
+            "Lecturer may be available outside stated hours but appointment is recommended",
+            "Office location not specified - confirm before visiting"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "Course orientation document for WTW 256 S1 2026 emphasizing the importance of reading the study guide and consistent practice, with contact information for consultations and class representatives.",
+          "key_requirements": [
+            "Read the STUDY GUIDE document",
+            "Practice problems consistently",
+            "Contact class representatives for course-related issues"
+          ],
+          "important_notes": [
+            "Lecturer consultation available Wednesdays 1:30 PM - 3:30 PM",
+            "Class representatives: Ella Ezeonwuachusi, Leva Aghighian, Musaab Ali",
+            "Practice is emphasized as critical for success"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture on differential equations covering classification by type, order, and linearity, with emphasis on general and particular solutions, initial value problems, and verification methods applied to scientific and financial contexts.",
+          "key_requirements": [
+            "Understand classification of differential equations by type, order, and linearity",
+            "Distinguish between general and particular solutions",
+            "Understand initial value problems",
+            "Learn verification methods for solutions",
+            "Apply concepts to scientific and financial applications",
+            "Watch introductory video: 1.1 Basic Ideas"
+          ],
+          "important_notes": [
+            "Video content is mandatory starting point for this lecture",
+            "Focus on both theoretical classification and practical problem-solving applications"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "This unit covers separable differential equations, initial value problems, existence and uniqueness theorems, and applications including natural growth, decay, and Newton's Law of Cooling.",
+          "key_requirements": [
+            "Understand separable differential equations and variable isolation",
+            "Learn to solve initial value problems",
+            "Understand existence and uniqueness theorems",
+            "Apply models for natural growth and decay",
+            "Apply Newton's Law of Cooling",
+            "Watch the introductory video"
+          ],
+          "important_notes": [
+            "Video must be watched as a starting point for this unit",
+            "Focus on variable separation technique for integration"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Pre-lecture material for WTW 256 S1 2026 course.",
+          "key_requirements": [],
+          "important_notes": [
+            "Review pre-lecture PDF before attending lectures"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Prelecture PDF document for WTW 256 S1 2026 course; specific content details not visible in document structure.",
+          "key_requirements": [],
+          "important_notes": [
+            "Document is a prelecture material - review before attending lectures",
+            "File name: wtw_256 (41).pdf"
+          ]
+        }
+      ]
     },
     "_190953_1": {
       "name": "WTW 258",
       "full_name": "WTW 258 S1 2026 \u2014 Calculus",
       "color": "#F4736A",
-      "deadlines": [],
-      "new_documents": []
+      "deadlines": [
+        {
+          "title": "ultraDocumentBody: Tutorial sessions start",
+          "due_date": "2026-02-16",
+          "due_time": null,
+          "course_id": "_190953_1",
+          "course_name": "WTW 258 S1 2026 \u2014 Calculus",
+          "label": "From document",
+          "event_type": "DOCUMENT"
+        },
+        {
+          "title": "ultraDocumentBody: Test - WTW 258 S1 2026",
+          "due_date": "2026-03-14",
+          "due_time": null,
+          "course_id": "_190953_1",
+          "course_name": "WTW 258 S1 2026 \u2014 Calculus",
+          "label": "From document",
+          "event_type": "DOCUMENT"
+        },
+        {
+          "title": "ultraDocumentBody: Sick Test 1",
+          "due_date": "2026-03-24",
+          "due_time": null,
+          "course_id": "_190953_1",
+          "course_name": "WTW 258 S1 2026 \u2014 Calculus",
+          "label": "From document",
+          "event_type": "DOCUMENT"
+        }
+      ],
+      "new_documents": [
+        {
+          "filename": "ultraDocumentBody",
+          "type": "tutorial_info",
+          "summary": "Students must report to their assigned tutorial venue at the designated time according to their study program and surname. Tutorial group assignments and venue details are provided in a separate PDF document.",
+          "key_requirements": [
+            "Report to correct venue according to study program",
+            "Check surname grouping if applicable",
+            "Attend at designated time",
+            "Consult WTW258 Tutorial groups (time and venue).pdf for specific assignments"
+          ],
+          "important_notes": [
+            "Venue and time assignments are study program-specific",
+            "Some groupings may be based on surname",
+            "Detailed schedule available in linked PDF document"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "Contact information and consultation hours for WTW 258 S1 2026 course instructors (Mrs Mostert, Dr Moubandjo, Dr Ramanantoanina, Dr Van der Merwe, and Dr Yizengaw).",
+          "key_requirements": [
+            "Contact Mrs Mostert via email (leonie.mostert@up.ac.za) with work questions",
+            "Consult other lecturers if urgent matters arise",
+            "Available consultation hours for each instructor listed"
+          ],
+          "important_notes": [
+            "Mrs Mostert is not on campus full time - prefer email communication",
+            "Multiple instructors available for consultation at different times throughout the week",
+            "Tuesday and Wednesday mornings have consultation options with Mrs Mostert",
+            "All instructors have offices in Mathematics building (rooms specified)"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture content divided by group covering learning units 3.2-3.4, with tutorial preparation on LU 3.2 and Test 6 covering parametrization of curves and line integrals.",
+          "key_requirements": [
+            "Group 1, 4, 5: Attend lectures on LU 3.3 and LU 3.4",
+            "Group 2, 3: Attend lectures on LU 3.2 and LU 3.3",
+            "Prepare LU 3.2 for tutorial",
+            "Master parametrization of curves",
+            "Master line integrals along curves for f(x,y) and f(x,y,z)"
+          ],
+          "important_notes": [
+            "Verify your group assignment (1, 2, 3, 4, or 5) to attend correct lectures",
+            "Test 6 specifically covers Part 1 of LU 3.2 content",
+            "Test date not specified - check course calendar or announcement board"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "Course schedule for WTW 258 S1 2026 indicating lecture content split by groups (LU 3.1 and 3.2) and tutorial preparation on LU 2.5 with an upcoming test.",
+          "key_requirements": [
+            "Prepare LU 2.5 for tutorial",
+            "Complete Test 5 on LU 2.5",
+            "Group 1, 4, 5: Attend 2 periods on LU 3.2",
+            "Group 2, 3: Attend 0.5 period on LU 3.1 and 1.5 periods on LU 3.2"
+          ],
+          "important_notes": [
+            "Different lecture schedules apply to different groups",
+            "Test 5 date not specified - confirm with course coordinator"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "Special timetable adjustments for week of April 7-10, 2026: Tuesday follows Monday schedule, Wednesday follows Friday schedule. Lectures cover LU 2.5, 3.1, and 3.2 depending on group. Tutorials focus on LU 2.4 preparation with test example to be posted.",
+          "key_requirements": [
+            "Prepare LU 2.4 for tutorials",
+            "Group 1, 4, 5: Attend lectures on LU 2.5 (1 period), LU 3.1 (0.5 period), LU 3.2 (0.5 period)",
+            "Group 2, 3: Attend lecture on LU 2.5 (1 period)",
+            "Friday tutorial sessions moved to Wednesday 08 April",
+            "No tutorial sessions on Friday 10 April"
+          ],
+          "important_notes": [
+            "Tuesday 07 April follows Monday timetable",
+            "Wednesday 08 April follows Friday timetable",
+            "Week has 2 Fridays but no Tuesday and Wednesday in normal schedule",
+            "Students from Tuesday/Wednesday groups may join any tutorial session if needed",
+            "Tutorial test example on LU 2.4 will be posted"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "WTW 258 S1 2026 schedule showing lectures on LU 2.4, tutorial preparation for LU 2.2 and LU 2.3, Test 4, and Sick Test 1 details.",
+          "key_requirements": [
+            "Prepare learning units LU 2.2 and LU 2.3 for tutorial",
+            "Attend lectures on LU 2.4 (2 periods)",
+            "Complete Test 4 covering LU 2.2 and LU 2.3"
+          ],
+          "important_notes": [
+            "Sick Test 1: Tuesday 24 March at 10:00 (90 minutes) in Math 1-8",
+            "Test 4 date not specified in document"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "test_scope",
+          "summary": "Test scheduled for Saturday 14 March at 10:00 (90 minutes) covering Theme 1 and Learning Unit 2.1, with venue allocation by surname.",
+          "key_requirements": [
+            "Attend test on 14 March 2026 at 10:00",
+            "Find correct venue based on surname (A-GOU in Eng III-1, GOV-KAR in Eng III-2, etc.)",
+            "Study Theme 1 and Learning Unit 2.1",
+            "Duration: 90 minutes",
+            "Extra time students attend Eng II 3-40"
+          ],
+          "important_notes": [
+            "Venue allocation is by surname - verify your assigned venue before test date",
+            "Test scope is limited to Theme 1 and LU 2.1 only",
+            "Early arrival recommended to locate correct venue"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "Week's lecture covers 1.5 periods on Learning Unit 2.2 and 0.5 period on LU 2.3, with tutorial preparation on LU 2.1 and Test 3 scheduled on LU 2.1.",
+          "key_requirements": [
+            "Attend lectures covering LU 2.2 (1.5 periods) and LU 2.3 (0.5 period)",
+            "Prepare Learning Unit 2.1 for tutorial",
+            "Complete Test 3 on LU 2.1"
+          ],
+          "important_notes": [
+            "Test 3 assesses LU 2.1 content",
+            "Tutorial preparation on LU 2.1 is required before test"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "Weekly schedule indicating 2 lecture periods on Learning Unit 2.1 and tutorial preparation for Learning Unit 1.6.",
+          "key_requirements": [
+            "Attend 2 lecture periods covering LU 2.1",
+            "Prepare Learning Unit 1.6 before tutorial session"
+          ],
+          "important_notes": [
+            "Preparation for LU 1.6 is required before the tutorial"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "Course schedule for WTW 258 S1 2026 indicating 2 lecture periods on LU 1.6 and tutorial preparation on LU 1.5 with Test 2 assessment.",
+          "key_requirements": [
+            "Attend 2 lecture periods covering LU 1.6",
+            "Prepare LU 1.5 for tutorial",
+            "Complete Test 2 on LU 1.5"
+          ],
+          "important_notes": [
+            "Test 2 date not specified - confirm with course coordinator",
+            "Tutorial requires preparation on LU 1.5 before attending"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "WTW 258 S1 2026 course structure with 2 lecture periods on LU 1.5 and tutorials covering LU 1.1-1.4 with Test 1 assessment.",
+          "key_requirements": [
+            "Prepare problems from LU 1.1, LU 1.2, LU 1.3, and LU 1.4 before tutorial session",
+            "Attend tutorial at assigned venue and designated time",
+            "Complete Test 1 covering LU 1.1 and LU 1.4"
+          ],
+          "important_notes": [
+            "Check Tutorial groups section for your assigned venue and time",
+            "Test 1 covers only LU 1.1 and LU 1.4, not all tutorial material",
+            "Preparation of all four learning units required before tutorial attendance"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "schedule",
+          "summary": "Course structure for WTW 258 S1 2026 Week 1 includes lectures on LU 1.1 and LU 1.4, with LU 1.2 and LU 1.3 designated as self-study. Tutorial sessions begin on 16 February.",
+          "key_requirements": [
+            "Attend lectures on Lecture Unit 1.1 and LU 1.4",
+            "Complete self-study for LU 1.2 and LU 1.3",
+            "Begin tutorial sessions from 16 February onwards"
+          ],
+          "important_notes": [
+            "No tutorial sessions in Week 1",
+            "LU 1.2 and LU 1.3 are self-study (not lectured)"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Document contains links to lecture/learning unit materials (Class LU 1.1 and LU 1.1) for WTW 258 S1 2026.",
+          "key_requirements": [
+            "Access and review Class LU 1.1.pdf",
+            "Access and review LU 1.1.pdf"
+          ],
+          "important_notes": [
+            "Documents are provided as PDF files - ensure PDF reader is available",
+            "These appear to be foundational materials for Learning Unit 1.1"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Document contains links to lecture unit materials (LU 1.5) for WTW 258 S1 2026, including class notes for sessions 1 and 2.",
+          "key_requirements": [
+            "Review LU 1.5 class 1 and 2 lecture notes",
+            "Review LU 1.5 complete lecture material"
+          ],
+          "important_notes": [
+            "Document contains only file links with no explicit deadlines or assessment information provided"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Learning Unit 2.1 lecture content on classes with preparatory material and examples to review before the next lecture.",
+          "key_requirements": [
+            "Study LU 2.1 classes.pdf",
+            "Review Example 2 evaluations and associated comments",
+            "Read LU 2.1 class 1.pdf before next lecture",
+            "Review LU 2.1.pdf main content"
+          ],
+          "important_notes": [
+            "Preparation required before next lecture - review all three documents",
+            "Focus on Example 2 evaluations and comments as these are specifically called out"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Document contains lecture materials for Learning Unit 2.3 of WTW 258 S1 2026, including class notes and reference material.",
+          "key_requirements": [
+            "Review LU 2.3 class.pdf for lecture notes",
+            "Study LU 2.3.pdf for reference material"
+          ],
+          "important_notes": [
+            "Two versions of LU 2.3 materials provided - class version and reference version"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Learning Unit 2.4 lecture content divided into two parts with corresponding class and introductory materials for WTW 258 S1 2026.",
+          "key_requirements": [
+            "Study LU 2.4 part 1 class material",
+            "Study LU 2.4 part 2 introductory material",
+            "Review LU 2.4 part 1 lecture notes",
+            "Review LU 2.4 part 2 lecture notes"
+          ],
+          "important_notes": [
+            "Four related PDF documents for Learning Unit 2.4 - ensure all parts are covered",
+            "Class materials and introductory/lecture notes are provided separately for each part"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Document contains lecture content files (3.1 class.pdf and 3.1.pdf) for WTW 258 S1 2026, but actual content is not accessible from the provided HTML structure.",
+          "key_requirements": [],
+          "important_notes": [
+            "PDF files are linked but content not extractable from provided document structure",
+            "Review 3.1 class.pdf and 3.1.pdf files directly from course portal"
+          ]
+        },
+        {
+          "filename": "Lecture unit 1.4",
+          "type": "lecture_content",
+          "summary": "Lecture unit 1.4 covers implicit differentiation using the chain rule for WTW 258. Two reference documents are provided: lecture content and chain rule theory material.",
+          "key_requirements": [
+            "Study implicit differentiation techniques",
+            "Understand and apply the chain rule",
+            "Review provided lecture unit and theory documents"
+          ],
+          "important_notes": [
+            "This is lecture content material - requires engagement with provided PDFs",
+            "Chain rule theory is foundational for implicit differentiation"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture content for WTW 258 Unit 2.4 Part 1 covering introductory material, available as video on YouTube or downloadable MP4.",
+          "key_requirements": [
+            "Watch Unit 2.4 - part 1_ Introduction lecture video"
+          ],
+          "important_notes": [
+            "Video available on YouTube at https://youtu.be/ewT5AmebkUU",
+            "Video also downloadable as MP4 file (22.1 MB)"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Watch lecture video for Unit 2.4 part 1 covering Examples, available on Blackboard or YouTube.",
+          "key_requirements": [
+            "Watch Unit 2.4 - part 1: Examples lecture video",
+            "Video available on Blackboard link or YouTube (https://youtu.be/4XsnTCJ61uw)"
+          ],
+          "important_notes": [
+            "Video file size is 46.1 MB",
+            "Content focuses on worked examples for Unit 2.4"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Learning Unit 1.1 lecture content for WTW 258 with skeleton and full notes provided; includes update on traces and level curves.",
+          "key_requirements": [
+            "Review LU 1.1 Skeleton notes",
+            "Review LU 1.1 Full notes",
+            "Study traces and level curves content on Page 9 of updated material"
+          ],
+          "important_notes": [
+            "Page 9 contains updates on traces and level curves - ensure this section is studied carefully"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Learning Unit 1.4 covers chain rule (revision of first year calculus) and implicit differentiation with two cases each. Skeleton and full lecture notes are provided along with a video lecture with timestamped sections.",
+          "key_requirements": [
+            "Study chain rule for one variable (revision)",
+            "Master chain rule Case 1 and Case 2",
+            "Understand implicit differentiation Case 1 and Case 2",
+            "Review skeleton and full lecture notes",
+            "Watch video lecture with focus on timestamped sections"
+          ],
+          "important_notes": [
+            "Chain rule content is a revision of first year material",
+            "Video lecture has timestamped sections for easy navigation",
+            "Both skeleton notes and full notes are provided - use skeleton notes to actively engage before reviewing full notes"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture content for WTW 258 S1 2026 covering Learning Units 1.5 and 2.5, including skeleton notes and full lecture notes on tangent planes and normal lines with interactive Desmos visualization.",
+          "key_requirements": [
+            "Download and review LU 1.5 Part 1 skeleton notes",
+            "Download and review LU 1.5 Part 2 skeleton notes",
+            "Download and review LU 2.5 full notes",
+            "Study tangent plane and normal line concepts",
+            "Use Desmos 3D interactive tool to visualize tangent plane and normal line examples"
+          ],
+          "important_notes": [
+            "Equations for tangent plane and normal line must be established from PDF lecture notes before using Desmos",
+            "Interactive Desmos 3D visualization available at: https://www.desmos.com/3d/1dbd48e0f4"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture content for LU 1.6 covering extrema on closed regions with emphasis on analyzing functions along curves. Friday 27 lecture will use different examples with no skeleton note provided.",
+          "key_requirements": [
+            "Master the ability to analyze f along various curves when finding extrema on closed regions",
+            "Practice isolating curves and finding their respective extreme values as a standalone procedure",
+            "Review Step 2 of the Example on Page 11 of the Full note",
+            "Study the class example on finding extreme values of a function on a curve (Page 16 of Full note)"
+          ],
+          "important_notes": [
+            "No skeleton note available for Friday 27 Lecture - different examples will be worked through in class",
+            "Critical component: analyzing functions along curves is essential for closed region extrema problems"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture content materials for WTW 258 Learning Unit 2.1, including skeleton notes and full lecture notes in multiple parts.",
+          "key_requirements": [
+            "Review LU 2.1 Skeleton note",
+            "Study LU 2.1 Part 1 Full note",
+            "Study LU 2.1 Part 2 Full note",
+            "Note: No skeleton note available for Friday 6 March lecture"
+          ],
+          "important_notes": [
+            "Friday 6 March lecture has no skeleton note provided",
+            "Full lecture notes available in two parts for LU 2.1"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Learning Unit 2.2 lecture materials provided in two formats: skeleton notes and full notes for independent study.",
+          "key_requirements": [
+            "Review LU 2.2 Skeleton note for guided learning structure",
+            "Review LU 2.2 Full note for comprehensive content coverage"
+          ],
+          "important_notes": [
+            "Two note formats available - use skeleton notes for self-guided learning or full notes for complete reference"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture content for Learning Unit 2.3 with skeleton and full lecture notes provided as PDF resources.",
+          "key_requirements": [
+            "Review LU 2.3 Skeleton note",
+            "Review LU 2.3 Full note"
+          ],
+          "important_notes": [
+            "Two versions of notes available - skeleton version for active note-taking and full version for reference"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Learning Unit 2.4 lecture materials covering cylindrical and spherical coordinate systems with both skeleton and full lecture notes provided.",
+          "key_requirements": [
+            "Study LU 2.4 Part 1: Cylindrical coordinates",
+            "Study LU 2.4 Part 2: Spherical coordinates",
+            "Review skeleton notes for quick reference",
+            "Review full notes for comprehensive understanding"
+          ],
+          "important_notes": [
+            "Both skeleton (summary) and full notes versions are available",
+            "Material covers coordinate system transformations essential for mechanical engineering"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "lecture_content",
+          "summary": "Lecture content for Learning Unit 3.2 in WTW 258 S1 2026, provided in skeleton note format (3 parts) and full note format for self-study and lecture preparation.",
+          "key_requirements": [
+            "Study LU 3.2 Part 1, Part 2, and Part 3 skeleton notes",
+            "Review corresponding full notes for each part",
+            "Complete self-study using provided materials"
+          ],
+          "important_notes": [
+            "Skeleton notes are provided for lecture preparation",
+            "Full notes available for comprehensive understanding",
+            "Learning Unit 3.2 spans 3 parts - ensure all sections are covered"
+          ]
+        }
+      ]
     },
     "_189590_1": {
       "name": "MJJ 210",
@@ -230,7 +944,63 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
         }
       ],
-      "new_documents": []
+      "new_documents": [
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "Study guide for MJJ 210 S1 2026 containing all module information with multiple knowledge checks to complete before lectures commence.",
+          "key_requirements": [
+            "Read the MJJ 210 Study Guide 2026.pdf completely",
+            "Complete all knowledge checks (at least 7 checks identified in document)"
+          ],
+          "important_notes": [
+            "Knowledge checks must be completed before lectures start",
+            "Study guide contains all information required for the module"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "All course submissions require a cover page and a signed plagiarism declaration document.",
+          "key_requirements": [
+            "Include cover page on all submissions",
+            "Attach signed plagiarism declaration to all submissions",
+            "Download and sign Plagiarism Declaration.docx"
+          ],
+          "important_notes": [
+            "Submissions without plagiarism declaration may not be accepted",
+            "Declaration must be signed (not just printed)"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "Document provides a Generative AI Usage Declaration form for assignments in MJJ 210 S1 2026, requiring students to declare their use of AI tools.",
+          "key_requirements": [
+            "Complete GEN AI USAGE DECLARATION FOR ASSIGNMENTS form",
+            "Declare any generative AI tool usage in assignments",
+            "Submit declaration with assignment submissions"
+          ],
+          "important_notes": [
+            "AI usage declaration is mandatory for assignments",
+            "Failure to declare AI usage may constitute academic misconduct",
+            "Check specific assignment deadlines for when declaration is due"
+          ]
+        },
+        {
+          "filename": "ultraDocumentBody",
+          "type": "guidelines",
+          "summary": "A technical report template document is provided for use in the final technical report submission for MJJ 210.",
+          "key_requirements": [
+            "Use the provided Technical Report Template.docx for final technical report",
+            "Follow the template format and structure"
+          ],
+          "important_notes": [
+            "Template file must be downloaded and used for report preparation",
+            "This is a mandatory format for the final technical report"
+          ]
+        }
+      ]
     },
     "_189473_1": {
       "name": "MPR 213",
@@ -330,6 +1100,33 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "ultraDocumentBody: Semester Test 2 - MOW 217",
+      "due_date": "2026-05-09",
+      "due_time": null,
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "From document",
+      "event_type": "DOCUMENT"
+    },
+    {
+      "title": "ultraDocumentBody: File submission deadline (end of extra 10 minutes)",
+      "due_date": "2026-05-09",
+      "due_time": null,
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "From document",
+      "event_type": "DOCUMENT"
+    },
+    {
+      "title": "ultraDocumentBody: Semester Test 2",
+      "due_date": "2026-05-09",
+      "due_time": null,
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "From document",
+      "event_type": "DOCUMENT"
     },
     {
       "title": "MSD 210 S1 2026: RAE25: Work-Energy",
