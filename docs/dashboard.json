@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-20T07:08:20.962356+00:00",
-  "generated_at_human": "20 April 2026 at 07:08 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou have TWO submissions due TODAY (April 20): the MOW 217 P3 CAD project and the MSD 210 RAE21 assignment. Since MOW 217 only allows one submission and is peer-reviewed, make sure your P3 is finalized before you submit\u2014no revisions possible after. Knock out both of these before end of day.",
-  "total_upcoming_deadlines": 19,
+  "generated_at": "2026-04-20T12:04:28.362460+00:00",
+  "generated_at_human": "20 April 2026 at 12:04 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou have **two assignments due TODAY (April 20)**: MOW 217 P3 (3D CAD explanation) and MSD 210 RAE21 (plane motion examples). The MOW 217 submission is individual with no resubmission allowed\u2014prioritize finishing and submitting that first, then tackle the MSD reading assignment.",
+  "total_upcoming_deadlines": 21,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -236,7 +236,28 @@
       "name": "MPR 213",
       "full_name": "MPR 213 S1 2026 \u2014 Programming & IT",
       "color": "#2952A3",
-      "deadlines": [],
+      "deadlines": [
+        {
+          "title": "MPR 213 S1 2026: Problem Set 6",
+          "due_date": "2026-04-24",
+          "due_time": "21:59",
+          "course_id": "_189473_1",
+          "course_name": "MPR 213 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MPR 213 S1 2026: Problem Set 6",
+          "due_date": "2026-04-24",
+          "due_time": "21:59",
+          "course_id": "_189473_1",
+          "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
+          "label": "GRADEBOOK:Tutorial Assignment",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
+        }
+      ],
       "new_documents": []
     }
   },
@@ -292,6 +313,16 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
+      "title": "MPR 213 S1 2026: Problem Set 6",
+      "due_date": "2026-04-24",
+      "due_time": "21:59",
+      "course_id": "_189473_1",
+      "course_name": "MPR 213 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
+      "url": null
+    },
+    {
       "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
       "due_date": "2026-04-24",
       "due_time": "09:00",
@@ -320,6 +351,16 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MPR 213 S1 2026: Problem Set 6",
+      "due_date": "2026-04-24",
+      "due_time": "21:59",
+      "course_id": "_189473_1",
+      "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
+      "label": "GRADEBOOK:Tutorial Assignment",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
       "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
