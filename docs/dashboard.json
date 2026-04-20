@@ -1,8 +1,435 @@
 {
-  "generated_at": null,
-  "generated_at_human": "Not yet generated",
-  "focus_today": "Run the agent to generate your dashboard.",
-  "total_upcoming_deadlines": 0,
-  "courses": {},
-  "all_deadlines": []
+  "generated_at": "2026-04-20T06:22:27.092611+00:00",
+  "generated_at_human": "20 April 2026 at 06:22 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have **two submissions due TODAY (April 20)**: MOW 217's P3 Design Explanation & 3D CAD, and MSD 210's RAE21. Since P3 only allows one submission and is peer-reviewed, prioritize finishing that first\u2014no room for revisions. Knock out RAE21 immediately after if you haven't already.",
+  "total_upcoming_deadlines": 19,
+  "courses": {
+    "_190939_1": {
+      "name": "MOW 217",
+      "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "color": "#F5C518",
+      "deadlines": [
+        {
+          "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD (Individual Submission, Peer Reviewed, Only One Submission is Possible)",
+          "due_date": "2026-04-20",
+          "due_time": "21:59",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "PE:PE_AVAIL",
+          "event_type": "PE:PE_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Quiz 8",
+          "due_date": "2026-04-22",
+          "due_time": "05:30",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "TE:TE_AVAIL",
+          "event_type": "TE:TE_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Quiz 8",
+          "due_date": "2026-04-22",
+          "due_time": "05:30",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Quiz.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
+          "due_date": "2026-04-24",
+          "due_time": "09:00",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
+          "due_date": "2026-04-24",
+          "due_time": "09:00",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        }
+      ],
+      "new_documents": []
+    },
+    "_188765_1": {
+      "name": "MSD 210",
+      "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "color": "#3B6EC4",
+      "deadlines": [
+        {
+          "title": "MSD 210 S1 2026: RAE21: General plane motion, yet more examples",
+          "due_date": "2026-04-20",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE22: Translation",
+          "due_date": "2026-04-22",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE23: Fixed-axis rotation",
+          "due_date": "2026-04-24",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
+          "due_date": "2026-04-29",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE25: Work-Energy",
+          "due_date": "2026-05-11",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
+          "due_date": "2026-05-13",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
+          "due_date": "2026-05-18",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
+          "due_date": "2026-05-20",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        }
+      ],
+      "new_documents": []
+    },
+    "_191012_1": {
+      "name": "WTW 256",
+      "full_name": "WTW 256 S1 2026 \u2014 Differential Equations",
+      "color": "#8B1A2B",
+      "deadlines": [],
+      "new_documents": []
+    },
+    "_190953_1": {
+      "name": "WTW 258",
+      "full_name": "WTW 258 S1 2026 \u2014 Calculus",
+      "color": "#F4736A",
+      "deadlines": [],
+      "new_documents": []
+    },
+    "_189590_1": {
+      "name": "MJJ 210",
+      "full_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+      "color": "#9EA8B3",
+      "deadlines": [
+        {
+          "title": "MJJ 210 S1 2026: Assignment : Technical Report Topic Proposal",
+          "due_date": "2026-04-19",
+          "due_time": "21:59",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        },
+        {
+          "title": "MJJ 210 S1 2026: Assignment : Oral Presentation Topic Proposal",
+          "due_date": "2026-04-19",
+          "due_time": "21:59",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        },
+        {
+          "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
+          "due_date": "2026-05-30",
+          "due_time": "21:59",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026",
+          "label": "UA:DUE",
+          "event_type": "UA:DUE",
+          "url": null
+        },
+        {
+          "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
+          "due_date": "2026-05-30",
+          "due_time": "21:59",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        },
+        {
+          "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
+          "due_date": "2026-05-30",
+          "due_time": "21:59",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        },
+        {
+          "title": "MJJ 210 S1 2026: Capstone Assignment : Final Technical Report (No Late Submissions Will be Accepted)",
+          "due_date": "2026-05-30",
+          "due_time": "21:59",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        }
+      ],
+      "new_documents": []
+    },
+    "_189473_1": {
+      "name": "MPR 213",
+      "full_name": "MPR 213 S1 2026 \u2014 Programming & IT",
+      "color": "#2952A3",
+      "deadlines": [],
+      "new_documents": []
+    }
+  },
+  "all_deadlines": [
+    {
+      "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD (Individual Submission, Peer Reviewed, Only One Submission is Possible)",
+      "due_date": "2026-04-20",
+      "due_time": "21:59",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "PE:PE_AVAIL",
+      "event_type": "PE:PE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE21: General plane motion, yet more examples",
+      "due_date": "2026-04-20",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: Quiz 8",
+      "due_date": "2026-04-22",
+      "due_time": "05:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE22: Translation",
+      "due_date": "2026-04-22",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: Quiz 8",
+      "due_date": "2026-04-22",
+      "due_time": "05:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Quiz.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
+      "due_date": "2026-04-24",
+      "due_time": "09:00",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE23: Fixed-axis rotation",
+      "due_date": "2026-04-24",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
+      "due_date": "2026-04-24",
+      "due_time": "09:00",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
+      "due_date": "2026-04-29",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE25: Work-Energy",
+      "due_date": "2026-05-11",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
+      "due_date": "2026-05-13",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
+      "due_date": "2026-05-18",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
+      "due_date": "2026-05-20",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE29: Forced vibration",
+      "due_date": "2026-05-22",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
+      "due_date": "2026-05-25",
+      "due_time": "05:00",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Reading assignments",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
+      "due_date": "2026-05-30",
+      "due_time": "21:59",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
+      "url": null
+    },
+    {
+      "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
+      "due_date": "2026-05-30",
+      "due_time": "21:59",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
+      "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
+      "due_date": "2026-05-30",
+      "due_time": "21:59",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
+      "title": "MJJ 210 S1 2026: Capstone Assignment : Final Technical Report (No Late Submissions Will be Accepted)",
+      "due_date": "2026-05-30",
+      "due_time": "21:59",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    }
+  ]
 }
