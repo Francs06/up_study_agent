@@ -1,8 +1,8 @@
 """
 content_crawler.py
-Crawls course content trees, reads inline documents AND downloads PDFs,
-sends new content to Claude for extraction.
-Maintains state in state.json to avoid reprocessing.
+Crawls course content trees, reads inline documents AND downloads PDFs.
+Handles BB pages (isBbPage folders), ultraDocumentBody blocks,
+and standard file attachments.
 """
 
 import os
@@ -19,7 +19,6 @@ log = logging.getLogger(__name__)
 
 BASE_URL = "https://clickup.up.ac.za"
 STATE_FILE = Path("state.json")
-DASHBOARD_FILE = Path("docs/dashboard.json")
 
 COURSE_ROOTS = {
     "_190939_1": {"name": "MOW 217 S1 2026", "color": "#F5C518"},
@@ -37,11 +36,9 @@ READABLE_MIME_TYPES = {
     "text/plain",
 }
 
-# Inline document handlers (content in body.rawText)
 INLINE_DOC_HANDLERS = {
     "resource/x-bb-document",
     "resource/x-bb-lesson",
-    "resource/x-bb-blti-link",
 }
 
 SKIP_TITLE_KEYWORDS = [
@@ -54,21 +51,17 @@ client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
 def load_state() -> dict:
     if STATE_FILE.exists():
-        with open(STATE_FILE) as f:
-            return json.load(f)
+        try:
+            with open(STATE_FILE, encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
     return {"seen_content_ids": [], "course_insights": {}, "last_run": None}
 
 
 def save_state(state: dict):
-    with open(STATE_FILE, "w") as f:
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2, default=str)
-
-
-def load_dashboard() -> dict:
-    if DASHBOARD_FILE.exists():
-        with open(DASHBOARD_FILE) as f:
-            return json.load(f)
-    return {"generated_at": None, "courses": {}, "deadlines": [], "focus_today": ""}
 
 
 def fetch_children(page: Page, course_id: str, content_id: str) -> list[dict]:
@@ -127,30 +120,32 @@ def download_pdf(page: Page, permanent_url: str) -> bytes | None:
         return None
 
 
-ANALYSE_PROMPT = """You are analysing a university course document for a Mechanical Engineering student at UP.
+ANALYSE_PROMPT = """You are analysing a university course document for a 2nd year Mechanical Engineering student at UP.
 Course: {course_name}
-File: {filename}
+Document title: {filename}
 
-Extract ONLY what is actionable or important. Respond in JSON only, no markdown:
+Extract ONLY what is actionable or important for the student. Respond in JSON only, no markdown fences:
 
 {{
-  "summary": "1-2 sentence summary",
-  "type": "one of: assignment_brief|test_scope|tutorial_info|lecture_content|guidelines|reference|schedule|other",
+  "summary": "1-2 sentence summary of what this document contains",
+  "type": "one of: assignment_brief|test_scope|tutorial_info|lecture_content|guidelines|schedule|reference|other",
   "deadlines": [
-    {{"description": "...", "date": "YYYY-MM-DD or null"}}
+    {{"description": "what is due or happening", "date": "YYYY-MM-DD or null if no specific date"}}
   ],
-  "key_requirements": ["important requirements or tasks"],
+  "key_requirements": ["list of important tasks or requirements"],
   "important_notes": ["critical things not to forget"],
   "is_actionable": true
 }}
 
-Set is_actionable to false for pure reference material (formula sheets, textbook chapters).
-For tutorial schedule documents, set type to "tutorial_info" and extract test/quiz dates."""
+Rules:
+- For weekly schedule documents (e.g. "Week 20-24 April"), extract tutorial tests, quizzes, lecture topics
+- If there is a tutorial test mentioned, include it as a deadline with the week's date range
+- Set is_actionable to false ONLY for pure reference material like formula sheets or textbook chapters
+- Keep summaries concise and specific"""
 
 
-def analyse_text_with_claude(text: str, filename: str, course_name: str) -> dict:
-    """Analyse plain text content with Claude."""
-    if len(text.strip()) < 30:
+def analyse_with_claude(text: str, filename: str, course_name: str) -> dict:
+    if len(text.strip()) < 20:
         return {"summary": filename, "type": "other", "is_actionable": False}
     try:
         response = client.messages.create(
@@ -166,12 +161,11 @@ def analyse_text_with_claude(text: str, filename: str, course_name: str) -> dict
         raw = re.sub(r"```json|```", "", response.content[0].text.strip()).strip()
         return json.loads(raw)
     except Exception as e:
-        log.warning(f"Claude text analysis failed for {filename}: {e}")
+        log.warning(f"Claude analysis failed for {filename}: {e}")
         return {"summary": filename, "type": "other", "is_actionable": False}
 
 
 def analyse_pdf_with_claude(pdf_bytes: bytes, filename: str, course_name: str) -> dict:
-    """Analyse PDF content with Claude."""
     try:
         b64 = base64.standard_b64encode(pdf_bytes).decode()
         response = client.messages.create(
@@ -198,76 +192,134 @@ def analyse_pdf_with_claude(pdf_bytes: bytes, filename: str, course_name: str) -
         return {"summary": filename, "type": "other", "is_actionable": False}
 
 
+def collect_bb_page_text(page: Page, course_id: str, folder_id: str) -> str:
+    """
+    For isBbPage folders, collect all child text blocks into one string.
+    Children are often titled 'ultraDocumentBody' with text in body.rawText.
+    """
+    children = fetch_children(page, course_id, folder_id)
+    texts = []
+    for child in children:
+        body = child.get("body", {}) or {}
+        raw = body.get("rawText", "").strip()
+        if raw:
+            texts.append(raw)
+        # Also check displayText as fallback
+        display = body.get("displayText", "").strip()
+        if display and display != raw:
+            texts.append(display)
+        # Check title if it's not the generic ultraDocumentBody
+        title = child.get("title", "")
+        if title and title != "ultraDocumentBody" and title not in texts:
+            texts.insert(0, title)
+    return "\n\n".join(texts)
+
+
 def crawl_course(
     page: Page,
     course_id: str,
     course_name: str,
     state: dict,
-    max_items: int = 60,
+    max_items: int = 80,
 ) -> list[dict]:
     seen = set(state.get("seen_content_ids", []))
     insights = []
     items_processed = 0
-    queue = []
 
+    # Use a stack: (item, parent_title, is_bb_page_child)
+    stack = []
     root_items = fetch_root_contents(page, course_id)
-    for item in root_items:
-        queue.append((item, 0, ""))
+    for item in reversed(root_items):
+        stack.append((item, "", False))
 
-    while queue and items_processed < max_items:
-        item, depth, parent_title = queue.pop(0)
+    while stack and items_processed < max_items:
+        item, parent_title, is_bb_page_child = stack.pop()
         content_id = item.get("id")
         handler = item.get("contentHandler", "")
         title = item.get("title", "untitled")
         visibility = item.get("visibility", "VISIBLE")
 
-        if content_id in seen:
+        if not content_id or content_id in seen:
             continue
         if visibility != "VISIBLE":
+            seen.add(content_id)
             continue
         if any(kw in title.lower() for kw in SKIP_TITLE_KEYWORDS):
             seen.add(content_id)
             continue
 
-        # Folder — recurse
-        if "folder" in handler or "lessonplan" in handler:
-            children = fetch_children(page, course_id, content_id)
-            for child in children:
-                queue.append((child, depth + 1, title))
-            seen.add(content_id)
-            continue
+        # ── BB Page (isBbPage folder) ──────────────────────────────────
+        # These are "Week X-Y" type pages — collect all child text blocks
+        is_bb_page = (
+            "folder" in handler and
+            item.get("contentDetail", {}).get("resource/x-bb-folder", {}).get("isBbPage", False)
+        )
 
-        # Inline document (BB page, lesson) — read body.rawText
-        if handler in INLINE_DOC_HANDLERS:
-            body = item.get("body", {})
-            raw_text = body.get("rawText", "").strip()
-            # Also grab contentExtract if body is empty
-            if not raw_text:
-                raw_text = item.get("contentExtract", "").strip()
-
-            if raw_text and len(raw_text) > 40:
-                log.info(f"  Inline doc: {title}")
-                insight = analyse_text_with_claude(raw_text, title, course_name)
+        if is_bb_page:
+            log.info(f"  BB Page: {title}")
+            combined_text = collect_bb_page_text(page, course_id, content_id)
+            if combined_text.strip():
+                insight = analyse_with_claude(combined_text, title, course_name)
                 if insight.get("is_actionable"):
                     insight["filename"] = title
                     insight["course_id"] = course_id
                     insight["content_id"] = content_id
                     insight["parent_folder"] = parent_title
                     insights.append(insight)
-                    log.info(f"    → {insight.get('type')}: {insight.get('summary','')[:70]}")
+                    log.info(f"    → {insight.get('type')}: {insight.get('summary','')[:80]}")
+            # Mark all children as seen too so we don't reprocess them individually
+            children = fetch_children(page, course_id, content_id)
+            for child in children:
+                cid = child.get("id")
+                if cid:
+                    seen.add(cid)
+            seen.add(content_id)
+            items_processed += 1
+            continue
+
+        # ── Regular folder — recurse ───────────────────────────────────
+        if "folder" in handler or "lessonplan" in handler:
+            children = fetch_children(page, course_id, content_id)
+            for child in reversed(children):
+                stack.append((child, title, False))
+            seen.add(content_id)
+            continue
+
+        # ── Inline document (non-BB-page) ──────────────────────────────
+        if handler in INLINE_DOC_HANDLERS:
+            body = item.get("body", {}) or {}
+            raw_text = body.get("rawText", "").strip()
+            if not raw_text:
+                raw_text = body.get("displayText", "").strip()
+
+            if raw_text and len(raw_text) > 40:
+                log.info(f"  Inline doc: {title}")
+                insight = analyse_with_claude(raw_text, title, course_name)
+                if insight.get("is_actionable"):
+                    insight["filename"] = title
+                    insight["course_id"] = course_id
+                    insight["content_id"] = content_id
+                    insight["parent_folder"] = parent_title
+                    insights.append(insight)
+                    log.info(f"    → {insight.get('type')}: {insight.get('summary','')[:80]}")
                 items_processed += 1
 
             seen.add(content_id)
             continue
 
-        # File — download and read
+        # ── Skip ultraDocumentBody children (handled by BB page collector) ─
+        if title == "ultraDocumentBody":
+            seen.add(content_id)
+            continue
+
+        # ── File (PDF etc.) ────────────────────────────────────────────
         content_detail = item.get("contentDetail", {})
         file_info = content_detail.get("resource/x-bb-file", {}).get("file", {})
         mime = file_info.get("mimeType", "")
         permanent_url = file_info.get("permanentUrl", "")
 
         if mime in READABLE_MIME_TYPES and permanent_url:
-            log.info(f"  File: {title} ({mime})")
+            log.info(f"  File: {title}")
             pdf_bytes = download_pdf(page, permanent_url)
             if pdf_bytes and 100 < len(pdf_bytes) < 8_000_000:
                 insight = analyse_pdf_with_claude(pdf_bytes, title, course_name)
@@ -277,7 +329,7 @@ def crawl_course(
                     insight["content_id"] = content_id
                     insight["parent_folder"] = parent_title
                     insights.append(insight)
-                    log.info(f"    → {insight.get('type')}: {insight.get('summary','')[:70]}")
+                    log.info(f"    → {insight.get('type')}: {insight.get('summary','')[:80]}")
                 items_processed += 1
 
         seen.add(content_id)
@@ -294,7 +346,7 @@ def crawl_all_courses(page: Page, state: dict) -> dict:
         insights = crawl_course(page, course_id, course_name, state)
         if insights:
             all_insights[course_id] = insights
-            log.info(f"  → {len(insights)} actionable items found")
+            log.info(f"  → {len(insights)} actionable items")
         else:
             log.info(f"  → Nothing new")
     return all_insights
