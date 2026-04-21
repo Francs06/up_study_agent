@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-21T05:58:19.465149+00:00",
-  "generated_at_human": "21 April 2026 at 05:58 SAST",
-  "focus_today": "**Focus for Today (Tuesday, 21 April):**\n\nThe Test/Exam Prep & Stress Management Workshop is due **today** \u2014 complete it now if you haven't already. After that, shift your attention to MOW 217 Quiz 8 and MSD 210 Translation, both due tomorrow, so you need to start prep work tonight.",
-  "total_upcoming_deadlines": 27,
+  "generated_at": "2026-04-21T11:59:51.048600+00:00",
+  "generated_at_human": "21 April 2026 at 11:59 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou have **Quiz 8 in MOW 217** and **RAE22 in MSD 210** due tomorrow\u2014these are your immediate priorities. Knock these out today so you're not cramming tonight, then you'll have breathing room for the bigger projects (semester drawings and Problem Set 6) due Friday.",
+  "total_upcoming_deadlines": 23,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -263,16 +263,6 @@
   },
   "all_deadlines": [
     {
-      "title": "Test/Exam Prep & Stress Management Workshop",
-      "due_date": "2026-04-21",
-      "due_time": "11:30",
-      "course_id": "EBIT UG 2026",
-      "course_name": "EBIT UG 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MOW 217 S1 2026: Quiz 8",
       "due_date": "2026-04-22",
       "due_time": "05:30",
@@ -306,8 +296,8 @@
       "title": "Test/Exam Prep & Stress Management Workshop",
       "due_date": "2026-04-22",
       "due_time": "12:30",
-      "course_id": "EBIT UG 2026",
-      "course_name": "EBIT UG 2026",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -316,18 +306,8 @@
       "title": "Test/Exam Prep & Stress Management Workshop",
       "due_date": "2026-04-23",
       "due_time": "12:30",
-      "course_id": "EBIT UG 2026",
-      "course_name": "EBIT UG 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MOW 217: Catch-up Practical 4 (CAD)",
-      "due_date": "2026-04-23",
-      "due_time": "07:30",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -383,16 +363,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MOW 217: Friday Lecture - MIT Design Project & MPY315",
-      "due_date": "2026-04-25",
-      "due_time": "09:30",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
       "due_date": "2026-04-29",
       "due_time": "05:00",
@@ -401,16 +371,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MOW 217: Catch-up Practical 4 (CAD)",
-      "due_date": "2026-04-30",
-      "due_time": "07:30",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE25: Work-Energy",
