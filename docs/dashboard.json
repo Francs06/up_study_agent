@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-22T05:56:06.084570+00:00",
-  "generated_at_human": "22 April 2026 at 05:56 SAST",
-  "focus_today": "**Focus for today:**\n\nYou have **two deadlines TODAY** \u2013 MOW 217 Quiz 8 and MSD 210 RAE22 Translation. Knock these out first, then shift to MPR 213 Problem Set 6 and MOW 217 drawings (both due Friday). Don't let today slip or you'll be underwater by end of week.",
-  "total_upcoming_deadlines": 21,
+  "generated_at": "2026-04-22T12:00:12.642270+00:00",
+  "generated_at_human": "22 April 2026 at 12:00 SAST",
+  "focus_today": "**Focus for Today (Wednesday, 22 April)**\n\nYou have **two things due TODAY**: MOW 217 Quiz 8 and MSD 210 RAE22 Translation. Get these done first\u2014they're non-negotiable. After that, start on the MOW 217 Semester Project drawings since that's due in 2 days and will take serious time.",
+  "total_upcoming_deadlines": 30,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -160,7 +160,7 @@
       "color": "#9EA8B3",
       "deadlines": [
         {
-          "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
+          "title": "MJJ 210 S1 2026: Capstone Assignment : Final Technical Report (No Late Submissions Will be Accepted)",
           "due_date": "2026-05-30",
           "due_time": "21:59",
           "course_id": "_189590_1",
@@ -170,13 +170,13 @@
           "url": null
         },
         {
-          "title": "MJJ 210 S1 2026: Capstone Assignment : Final Technical Report (No Late Submissions Will be Accepted)",
+          "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
           "due_date": "2026-05-30",
           "due_time": "21:59",
           "course_id": "_189590_1",
           "course_name": "MJJ 210 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
           "url": null
         },
         {
@@ -233,8 +233,8 @@
           "due_time": "21:59",
           "course_id": "_189473_1",
           "course_name": "MPR 213 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
+          "label": "UA:DUE",
+          "event_type": "UA:DUE",
           "url": null
         },
         {
@@ -283,13 +283,23 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
+      "title": "Test/Exam Prep & Stress Management Workshop",
+      "due_date": "2026-04-23",
+      "due_time": "12:30",
+      "course_id": "EBIT UG 2026",
+      "course_name": "EBIT UG 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MPR 213 S1 2026: Problem Set 6",
       "due_date": "2026-04-24",
       "due_time": "21:59",
       "course_id": "_189473_1",
       "course_name": "MPR 213 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
       "url": null
     },
     {
@@ -333,6 +343,26 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
+      "title": "UP Registration Survey 2026 - Deadline",
+      "due_date": "2026-04-24",
+      "due_time": "08:00",
+      "course_id": "UP UG 2026",
+      "course_name": "UP UG 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Sub-House Elections 2026 \u2013 Nominations Close",
+      "due_date": "2026-04-28",
+      "due_time": "08:00",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
       "due_date": "2026-04-29",
       "due_time": "05:00",
@@ -341,6 +371,26 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "Sub-House Elections 2026 \u2013 Final Eligibility Confirmation",
+      "due_date": "2026-05-04",
+      "due_time": "12:00",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MJJ 210 S1: Semester Test",
+      "due_date": "2026-05-06",
+      "due_time": "15:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE25: Work-Energy",
@@ -373,6 +423,16 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
+      "title": "Sub-House Elections 2026 \u2013 Voting Period Begins",
+      "due_date": "2026-05-18",
+      "due_time": "07:00",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
       "due_date": "2026-05-20",
       "due_time": "05:00",
@@ -381,6 +441,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "Sub-House Elections 2026 \u2013 Voting Period Ends",
+      "due_date": "2026-05-20",
+      "due_time": "19:00",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE29: Forced vibration",
@@ -403,13 +473,23 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
-      "due_date": "2026-05-30",
-      "due_time": "21:59",
-      "course_id": "_189590_1",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
+      "title": "Sub-House Elections 2026 \u2013 Results Released",
+      "due_date": "2026-05-26",
+      "due_time": "08:00",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Sub-House Elections 2026 \u2013 New EC Announcement",
+      "due_date": "2026-05-28",
+      "due_time": "08:00",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -420,6 +500,16 @@
       "course_name": "MJJ 210 S1 2026",
       "label": "UA:DUE",
       "event_type": "UA:DUE",
+      "url": null
+    },
+    {
+      "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
+      "due_date": "2026-05-30",
+      "due_time": "21:59",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
