@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-04-21T11:59:51.048600+00:00",
-  "generated_at_human": "21 April 2026 at 11:59 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou have **Quiz 8 in MOW 217** and **RAE22 in MSD 210** due tomorrow\u2014these are your immediate priorities. Knock these out today so you're not cramming tonight, then you'll have breathing room for the bigger projects (semester drawings and Problem Set 6) due Friday.",
-  "total_upcoming_deadlines": 23,
+  "generated_at": "2026-04-22T05:56:06.084570+00:00",
+  "generated_at_human": "22 April 2026 at 05:56 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have **two deadlines TODAY** \u2013 MOW 217 Quiz 8 and MSD 210 RAE22 Translation. Knock these out first, then shift to MPR 213 Problem Set 6 and MOW 217 drawings (both due Friday). Don't let today slip or you'll be underwater by end of week.",
+  "total_upcoming_deadlines": 21,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD (Individual Submission, Peer Reviewed, Only One Submission is Possible)",
-          "due_date": "2026-04-20",
-          "due_time": "21:59",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "PE:PE_AVAIL",
-          "event_type": "PE:PE_AVAIL",
-          "url": null
-        },
         {
           "title": "MOW 217 S1 2026: Quiz 8",
           "due_date": "2026-04-22",
@@ -291,26 +281,6 @@
       "label": "GRADEBOOK:Quiz.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "Test/Exam Prep & Stress Management Workshop",
-      "due_date": "2026-04-22",
-      "due_time": "12:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test/Exam Prep & Stress Management Workshop",
-      "due_date": "2026-04-23",
-      "due_time": "12:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MPR 213 S1 2026: Problem Set 6",
