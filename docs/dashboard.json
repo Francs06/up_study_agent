@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-22T12:00:12.642270+00:00",
-  "generated_at_human": "22 April 2026 at 12:00 SAST",
-  "focus_today": "**Focus for Today (Wednesday, 22 April)**\n\nYou have **two things due TODAY**: MOW 217 Quiz 8 and MSD 210 RAE22 Translation. Get these done first\u2014they're non-negotiable. After that, start on the MOW 217 Semester Project drawings since that's due in 2 days and will take serious time.",
-  "total_upcoming_deadlines": 30,
+  "generated_at": "2026-04-23T06:00:31.378924+00:00",
+  "generated_at_human": "23 April 2026 at 06:00 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou have **two MOW 217 assignments due TODAY (by end of day)**: the Shaft Design Detailed Drawing [20] and Standard Part Drawings [15]\u2014get these submitted immediately if you haven't already. Tomorrow you've got three more MOW 217 deliverables plus MPR 213 and MSD 210, so finishing today's work now prevents a cascade of missed deadlines.",
+  "total_upcoming_deadlines": 29,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -10,24 +10,54 @@
       "color": "#F5C518",
       "deadlines": [
         {
-          "title": "MOW 217 S1 2026: Quiz 8",
-          "due_date": "2026-04-22",
-          "due_time": "05:30",
+          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
+          "due_date": "2026-04-23",
+          "due_time": "08:20",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026",
-          "label": "TE:TE_AVAIL",
-          "event_type": "TE:TE_AVAIL",
+          "label": "UA:DUE",
+          "event_type": "UA:DUE",
           "url": null
         },
         {
-          "title": "MOW 217 S1 2026: Quiz 8",
-          "due_date": "2026-04-22",
-          "due_time": "05:30",
+          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
+          "due_date": "2026-04-23",
+          "due_time": "08:20",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:DUE",
+          "event_type": "UA:DUE",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
+          "due_date": "2026-04-23",
+          "due_time": "08:20",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Quiz.name",
+          "label": "GRADEBOOK:Assignment.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
+          "due_date": "2026-04-23",
+          "due_time": "08:20",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
+          "due_date": "2026-04-24",
+          "due_time": "00:08",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "GB:DUE",
+          "event_type": "GB:DUE",
+          "url": null
         },
         {
           "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
@@ -38,6 +68,16 @@
           "label": "UA:UA_AVAIL",
           "event_type": "UA:UA_AVAIL",
           "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
+          "due_date": "2026-04-24",
+          "due_time": "00:08",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         },
         {
           "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
@@ -57,16 +97,6 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: RAE22: Translation",
-          "due_date": "2026-04-22",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
         {
           "title": "MSD 210 S1 2026: RAE23: Fixed-axis rotation",
           "due_date": "2026-04-24",
@@ -136,6 +166,16 @@
           "label": "GRADEBOOK:Reading assignments",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
+          "due_date": "2026-05-25",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         }
       ],
       "new_documents": []
@@ -160,37 +200,7 @@
       "color": "#9EA8B3",
       "deadlines": [
         {
-          "title": "MJJ 210 S1 2026: Capstone Assignment : Final Technical Report (No Late Submissions Will be Accepted)",
-          "due_date": "2026-05-30",
-          "due_time": "21:59",
-          "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
-          "url": null
-        },
-        {
           "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
-          "due_date": "2026-05-30",
-          "due_time": "21:59",
-          "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
-          "due_date": "2026-05-30",
-          "due_time": "21:59",
-          "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
-          "url": null
-        },
-        {
-          "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
           "due_date": "2026-05-30",
           "due_time": "21:59",
           "course_id": "_189590_1",
@@ -200,7 +210,7 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
         },
         {
-          "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
+          "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
           "due_date": "2026-05-30",
           "due_time": "21:59",
           "course_id": "_189590_1",
@@ -233,8 +243,8 @@
           "due_time": "21:59",
           "course_id": "_189473_1",
           "course_name": "MPR 213 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
           "url": null
         },
         {
@@ -253,43 +263,53 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: Quiz 8",
-      "due_date": "2026-04-22",
-      "due_time": "05:30",
+      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
+      "due_date": "2026-04-23",
+      "due_time": "08:20",
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
       "url": null
     },
     {
-      "title": "MSD 210 S1 2026: RAE22: Translation",
-      "due_date": "2026-04-22",
-      "due_time": "05:00",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Reading assignments",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
+      "due_date": "2026-04-23",
+      "due_time": "08:20",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
+      "url": null
     },
     {
-      "title": "MOW 217 S1 2026: Quiz 8",
-      "due_date": "2026-04-22",
-      "due_time": "05:30",
+      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
+      "due_date": "2026-04-23",
+      "due_time": "08:20",
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Quiz.name",
+      "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "Test/Exam Prep & Stress Management Workshop",
+      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
       "due_date": "2026-04-23",
-      "due_time": "12:30",
-      "course_id": "EBIT UG 2026",
-      "course_name": "EBIT UG 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "due_time": "08:20",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
+      "due_date": "2026-04-24",
+      "due_time": "00:08",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "GB:DUE",
+      "event_type": "GB:DUE",
       "url": null
     },
     {
@@ -298,8 +318,8 @@
       "due_time": "21:59",
       "course_id": "_189473_1",
       "course_name": "MPR 213 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
@@ -321,6 +341,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
+      "due_date": "2026-04-24",
+      "due_time": "00:08",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
       "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
@@ -346,8 +376,8 @@
       "title": "UP Registration Survey 2026 - Deadline",
       "due_date": "2026-04-24",
       "due_time": "08:00",
-      "course_id": "UP UG 2026",
-      "course_name": "UP UG 2026",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -356,8 +386,8 @@
       "title": "Sub-House Elections 2026 \u2013 Nominations Close",
       "due_date": "2026-04-28",
       "due_time": "08:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -376,14 +406,14 @@
       "title": "Sub-House Elections 2026 \u2013 Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MJJ 210 S1: Semester Test",
+      "title": "MJJ 210: Semester Test",
       "due_date": "2026-05-06",
       "due_time": "15:00",
       "course_id": "MJJ 210 S1 2026",
@@ -426,8 +456,8 @@
       "title": "Sub-House Elections 2026 \u2013 Voting Period Begins",
       "due_date": "2026-05-18",
       "due_time": "07:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -446,8 +476,8 @@
       "title": "Sub-House Elections 2026 \u2013 Voting Period Ends",
       "due_date": "2026-05-20",
       "due_time": "19:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -476,8 +506,8 @@
       "title": "Sub-House Elections 2026 \u2013 Results Released",
       "due_date": "2026-05-26",
       "due_time": "08:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -486,44 +516,14 @@
       "title": "Sub-House Elections 2026 \u2013 New EC Announcement",
       "due_date": "2026-05-28",
       "due_time": "08:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MJJ 210 S1 2026: Capstone Assignment : Final Technical Report (No Late Submissions Will be Accepted)",
-      "due_date": "2026-05-30",
-      "due_time": "21:59",
-      "course_id": "_189590_1",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
       "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
-      "due_date": "2026-05-30",
-      "due_time": "21:59",
-      "course_id": "_189590_1",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
-      "due_date": "2026-05-30",
-      "due_time": "21:59",
-      "course_id": "_189590_1",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
-      "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
       "due_date": "2026-05-30",
       "due_time": "21:59",
       "course_id": "_189590_1",
@@ -533,7 +533,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
     },
     {
-      "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
+      "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
       "due_date": "2026-05-30",
       "due_time": "21:59",
       "course_id": "_189590_1",
