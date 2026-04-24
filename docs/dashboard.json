@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-24T06:03:13.137864+00:00",
-  "generated_at_human": "24 April 2026 at 06:03 SAST",
-  "focus_today": "Franco, you've got **four deadlines today** (April 24): Problem Set 6, the MOW 217 drawings and design explanation, and the MSD 210 RAE23. Prioritize finishing anything incomplete\u2014these are due in hours, not days. Once you clear today, you'll have breathing room for RAE24 and the MJJ 210 test next week.",
-  "total_upcoming_deadlines": 23,
+  "generated_at": "2026-04-24T11:57:39.412438+00:00",
+  "generated_at_human": "24 April 2026 at 11:57 SAST",
+  "focus_today": "**Focus for Today**\n\nYou've got **four submissions due today** (MPR 213 Problem Set 6, MOW 217 drawings and design explanation, MSD 210 RAE23)\u2014treat this as your priority sprint. Knock out what you can in the next few hours, then flag anything incomplete so you know exactly what to communicate to your instructors about extensions.",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -273,11 +273,11 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Nominations Close",
+      "title": "Sub-House Elections 2026 \u2013 Nominations Close",
       "due_date": "2026-04-28",
       "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -293,11 +293,11 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
+      "title": "Sub-House Elections 2026 \u2013 Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -343,11 +343,11 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Voting Period Starts",
+      "title": "Sub-House Elections 2026 \u2013 Voting Period Starts",
       "due_date": "2026-05-18",
       "due_time": "07:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -361,16 +361,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Sub-House Elections 2026: Voting Period Ends",
-      "due_date": "2026-05-20",
-      "due_time": "19:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE29: Forced vibration",
@@ -393,21 +383,21 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Results Released",
+      "title": "Sub-House Elections 2026 \u2013 Results Released",
       "due_date": "2026-05-26",
       "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026: New EC Announcement",
+      "title": "Sub-House Elections 2026 \u2013 New EC Announcement",
       "due_date": "2026-05-28",
       "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
+      "course_id": "EBIT Faculty House 2026",
+      "course_name": "EBIT Faculty House 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
