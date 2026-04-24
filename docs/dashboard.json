@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-23T11:59:33.494718+00:00",
-  "generated_at_human": "23 April 2026 at 11:59 SAST",
-  "focus_today": "**Franco, focus on this NOW:**\n\nYou have **4 MOW 217 deliverables due TODAY (in hours)** \u2014 two sets of Standard Part Drawings and two Shaft Design Detailed Drawings. Get these submitted immediately, then tackle tomorrow's avalanche: P3 Explanation, Manufacturing/Assembly Drawings, Problem Set 6, and the RAE23 assignment.",
-  "total_upcoming_deadlines": 28,
+  "generated_at": "2026-04-24T06:03:13.137864+00:00",
+  "generated_at_human": "24 April 2026 at 06:03 SAST",
+  "focus_today": "Franco, you've got **four deadlines today** (April 24): Problem Set 6, the MOW 217 drawings and design explanation, and the MSD 210 RAE23. Prioritize finishing anything incomplete\u2014these are due in hours, not days. Once you clear today, you'll have breathing room for RAE24 and the MJJ 210 test next week.",
+  "total_upcoming_deadlines": 23,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -10,56 +10,6 @@
       "color": "#F5C518",
       "deadlines": [
         {
-          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-          "due_date": "2026-04-23",
-          "due_time": "09:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-          "due_date": "2026-04-23",
-          "due_time": "09:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-          "due_date": "2026-04-23",
-          "due_time": "09:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
-          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-          "due_date": "2026-04-23",
-          "due_time": "09:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
-          "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
-          "due_date": "2026-04-24",
-          "due_time": "00:08",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "GB:DUE",
-          "event_type": "GB:DUE",
-          "url": null
-        },
-        {
           "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
           "due_date": "2026-04-24",
           "due_time": "09:00",
@@ -70,9 +20,9 @@
           "url": null
         },
         {
-          "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
+          "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
           "due_date": "2026-04-24",
-          "due_time": "00:08",
+          "due_time": "09:00",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Assignment.name",
@@ -80,9 +30,9 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         },
         {
-          "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
+          "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
           "due_date": "2026-04-24",
-          "due_time": "09:00",
+          "due_time": "00:08",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Assignment.name",
@@ -263,56 +213,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-      "due_date": "2026-04-23",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-      "due_date": "2026-04-23",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-      "due_date": "2026-04-23",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-      "due_date": "2026-04-23",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
-      "due_date": "2026-04-24",
-      "due_time": "00:08",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "GB:DUE",
-      "event_type": "GB:DUE",
-      "url": null
-    },
-    {
       "title": "MPR 213 S1 2026: Problem Set 6",
       "due_date": "2026-04-24",
       "due_time": "21:59",
@@ -343,9 +243,9 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
+      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
       "due_date": "2026-04-24",
-      "due_time": "00:08",
+      "due_time": "09:00",
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "label": "GRADEBOOK:Assignment.name",
@@ -353,9 +253,9 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Assembly Drawings",
+      "title": "MOW 217 S1 2026: P3 Explanation of Design and 3D CAD Mark & Feedback",
       "due_date": "2026-04-24",
-      "due_time": "09:00",
+      "due_time": "00:08",
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "label": "GRADEBOOK:Assignment.name",
@@ -373,17 +273,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "UP Registration Survey 2026 - Deadline",
-      "due_date": "2026-04-24",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sub-House Elections 2026 \u2013 Nominations Close",
+      "title": "Sub-House Elections 2026: Nominations Close",
       "due_date": "2026-04-28",
       "due_time": "08:00",
       "course_id": "_192832_1",
@@ -403,7 +293,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 \u2013 Final Eligibility Confirmation",
+      "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "_192832_1",
@@ -413,7 +303,7 @@
       "url": null
     },
     {
-      "title": "MJJ 210 S1: Semester Test",
+      "title": "MJJ 210: Semester Test",
       "due_date": "2026-05-06",
       "due_time": "15:00",
       "course_id": "MJJ 210 S1 2026",
@@ -453,7 +343,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 \u2013 Voting Period Starts",
+      "title": "Sub-House Elections 2026: Voting Period Starts",
       "due_date": "2026-05-18",
       "due_time": "07:00",
       "course_id": "_192832_1",
@@ -471,6 +361,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "Sub-House Elections 2026: Voting Period Ends",
+      "due_date": "2026-05-20",
+      "due_time": "19:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE29: Forced vibration",
@@ -493,7 +393,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 \u2013 Results Released",
+      "title": "Sub-House Elections 2026: Results Released",
       "due_date": "2026-05-26",
       "due_time": "08:00",
       "course_id": "_192832_1",
@@ -503,7 +403,7 @@
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026 \u2013 New EC Announcement",
+      "title": "Sub-House Elections 2026: New EC Announcement",
       "due_date": "2026-05-28",
       "due_time": "08:00",
       "course_id": "_192832_1",
