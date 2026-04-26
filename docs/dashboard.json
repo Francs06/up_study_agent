@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-25T11:38:58.740004+00:00",
-  "generated_at_human": "25 April 2026 at 11:38 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have 3 days until MPR 213 Tutorial Session and Sub-House Elections nominations close\u2014tackle the tutorial prep first since it directly impacts your grades. Start scoping Problem Set 7 (due May 1st) so you're not cramming mid-week.",
+  "generated_at": "2026-04-26T06:02:15.040392+00:00",
+  "generated_at_human": "26 April 2026 at 06:02 SAST",
+  "focus_today": "**Focus for today:**\n\nYou've got 2 days until MPR 213's Problem Set 7 is due (May 1st)\u2014start working through it now so you're not cramming Wednesday night. Also knock out the MSD 210 RAE24 assignment by tomorrow (Apr 29) while it's fresh.",
   "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
@@ -147,26 +147,6 @@
       "color": "#2952A3",
       "deadlines": [
         {
-          "title": "MPR 213 S1 2026: Problem Set 6",
-          "due_date": "2026-04-24",
-          "due_time": "21:59",
-          "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MPR 213 S1 2026: Problem Set 6",
-          "due_date": "2026-04-24",
-          "due_time": "21:59",
-          "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
-          "label": "GRADEBOOK:Tutorial Assignment",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
-        },
-        {
           "title": "MPR 213 S1 2026: Problem Set 7",
           "due_date": "2026-05-01",
           "due_time": "21:59",
@@ -192,7 +172,7 @@
   },
   "all_deadlines": [
     {
-      "title": "Sub-House Elections 2026: Nominations Close",
+      "title": "Sub-House Elections 2026 \u2013 Nominations Close",
       "due_date": "2026-04-28",
       "due_time": "08:00",
       "course_id": "_192832_1",
@@ -202,7 +182,7 @@
       "url": null
     },
     {
-      "title": "MPR 213: Tutorial Session",
+      "title": "MPR 213: Tutorial Session (Optional)",
       "due_date": "2026-04-28",
       "due_time": "08:30",
       "course_id": "MPR 213 S1 2026",
@@ -222,7 +202,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MPR 213: Tutorial Session",
+      "title": "MPR 213: Tutorial Session (Optional)",
       "due_date": "2026-04-30",
       "due_time": "15:30",
       "course_id": "MPR 213 S1 2026",
@@ -252,7 +232,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MPR 213: Problem Set 7 Due",
+      "title": "MPR 213: Assignment 7 (Problem Set 7) Due",
       "due_date": "2026-05-01",
       "due_time": "23:59",
       "course_id": "MPR 213 S1 2026",
@@ -262,7 +242,7 @@
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
+      "title": "Sub-House Elections 2026 \u2013 Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "_192832_1",
@@ -312,7 +292,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Voting Period Starts",
+      "title": "Sub-House Elections 2026 \u2013 Voting Period Starts",
       "due_date": "2026-05-18",
       "due_time": "07:00",
       "course_id": "_192832_1",
@@ -332,7 +312,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Voting Period Ends",
+      "title": "Sub-House Elections 2026 \u2013 Voting Period Ends",
       "due_date": "2026-05-20",
       "due_time": "19:00",
       "course_id": "_192832_1",
@@ -362,7 +342,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Results Released",
+      "title": "Sub-House Elections 2026 \u2013 Results Released",
       "due_date": "2026-05-26",
       "due_time": "08:00",
       "course_id": "_192832_1",
@@ -372,7 +352,7 @@
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026: New EC Announcement",
+      "title": "Sub-House Elections 2026 \u2013 New EC Announcement",
       "due_date": "2026-05-28",
       "due_time": "08:00",
       "course_id": "_192832_1",
