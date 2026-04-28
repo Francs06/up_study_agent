@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-28T06:24:57.604217+00:00",
-  "generated_at_human": "28 April 2026 at 06:24 SAST",
-  "focus_today": "Franco, you have two attendance submissions due **today** for MSD 210 (Weeks 8 & 9)\u2014submit those immediately if you haven't already. After that, prioritize MOW 217's Quizzes 9 & 10 and Practical 4, all due tomorrow (Thursday).",
-  "total_upcoming_deadlines": 35,
+  "generated_at": "2026-04-28T12:24:42.628594+00:00",
+  "generated_at_human": "28 April 2026 at 12:24 SAST",
+  "focus_today": "**Focus for Today:**\n\nYour MSD 210 attendance for Weeks 8 & 9 is due **today** \u2014 submit these immediately if you haven't already. After that, prioritize the MSD 210 RAE24 assignment (due tomorrow) since it's your next hard deadline.",
+  "total_upcoming_deadlines": 31,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -293,21 +293,21 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MOW 217: Quizzes 9 & 10 (Gears) Due",
+      "title": "WTW 258: Collect Test 6",
       "due_date": "2026-04-30",
-      "due_time": "17:30",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
+      "due_time": "14:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MOW 217: Practical 4",
+      "title": "WTW 258: Collect Tut Test 6 scripts",
       "due_date": "2026-04-30",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
+      "due_time": "11:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -333,51 +333,11 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MPR 213: Assignment Problem Set 7 Due",
-      "due_date": "2026-05-01",
-      "due_time": "23:59",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MOW 217: Semester Project Manufacturing & Cost Analysis Due",
-      "due_date": "2026-05-01",
-      "due_time": "11:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 256: Test 2",
-      "due_date": "2026-05-02",
-      "due_time": "12:30",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sub-House Elections 2026 - Final Eligibility Confirmation",
+      "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MPR 213: Tutorial Session",
-      "due_date": "2026-05-05",
-      "due_time": "08:30",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -388,16 +348,6 @@
       "due_time": "15:00",
       "course_id": "MJJ 210 S1 2026",
       "course_name": "MJJ 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MPR 213: Tutorial Session",
-      "due_date": "2026-05-07",
-      "due_time": "15:30",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -433,11 +383,11 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 - Voting Period Opens",
+      "title": "Sub-House Elections 2026: Voting Period Starts",
       "due_date": "2026-05-18",
       "due_time": "07:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -451,6 +401,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "Sub-House Elections 2026: Voting Period Ends",
+      "due_date": "2026-05-20",
+      "due_time": "19:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE29: Forced vibration",
@@ -473,21 +433,21 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 - Results Released",
+      "title": "Sub-House Elections 2026: Results Released",
       "due_date": "2026-05-26",
       "due_time": "08:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026 - New EC Announcement",
+      "title": "Sub-House Elections 2026: New EC Announcement",
       "due_date": "2026-05-28",
       "due_time": "08:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
