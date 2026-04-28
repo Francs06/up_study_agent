@@ -1,14 +1,55 @@
 {
-  "generated_at": "2026-04-27T12:20:40.813109+00:00",
-  "generated_at_human": "27 April 2026 at 12:20 SAST",
-  "focus_today": "Franco, you've got two things hitting tomorrow: nail down your Sub-House Elections nomination by EOD today, and prep for the MPR 213 tutorial session. Focus on those first, then tackle the MSD 210 rotation examples due Wednesday.",
-  "total_upcoming_deadlines": 21,
+  "generated_at": "2026-04-28T06:24:57.604217+00:00",
+  "generated_at_human": "28 April 2026 at 06:24 SAST",
+  "focus_today": "Franco, you have two attendance submissions due **today** for MSD 210 (Weeks 8 & 9)\u2014submit those immediately if you haven't already. After that, prioritize MOW 217's Quizzes 9 & 10 and Practical 4, all due tomorrow (Thursday).",
+  "total_upcoming_deadlines": 35,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
-      "deadlines": [],
+      "deadlines": [
+        {
+          "title": "MOW 217 S1 2026: Quiz 10",
+          "due_date": "2026-04-30",
+          "due_time": "15:30",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "TE:DUE",
+          "event_type": "TE:DUE",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Quiz 9",
+          "due_date": "2026-04-30",
+          "due_time": "15:30",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "TE:DUE",
+          "event_type": "TE:DUE",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Quiz 9",
+          "due_date": "2026-04-30",
+          "due_time": "15:30",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Quiz.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: Quiz 10",
+          "due_date": "2026-04-30",
+          "due_time": "15:30",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Quiz.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        }
+      ],
       "new_documents": []
     },
     "_188765_1": {
@@ -16,6 +57,26 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
+        {
+          "title": "MSD 210 S1 2026: Attendance Week 9",
+          "due_date": "2026-04-28",
+          "due_time": "18:24",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Assignment",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: Attendance Week 8",
+          "due_date": "2026-04-28",
+          "due_time": "18:24",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Assignment",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
         {
           "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
           "due_date": "2026-04-29",
@@ -69,16 +130,6 @@
         {
           "title": "MSD 210 S1 2026: RAE29: Forced vibration",
           "due_date": "2026-05-22",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
-          "due_date": "2026-05-25",
           "due_time": "05:00",
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
@@ -172,24 +223,24 @@
   },
   "all_deadlines": [
     {
-      "title": "Sub-House Elections 2026: Nominations Close",
+      "title": "MSD 210 S1 2026: Attendance Week 9",
       "due_date": "2026-04-28",
-      "due_time": "08:00",
-      "course_id": "EBIT Faculty House 2026",
-      "course_name": "EBIT Faculty House 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
+      "due_time": "18:24",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Assignment",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MPR 213: Tutorial session",
+      "title": "MSD 210 S1 2026: Attendance Week 8",
       "due_date": "2026-04-28",
-      "due_time": "08:30",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
+      "due_time": "18:24",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Assignment",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
       "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
@@ -202,11 +253,61 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MPR 213: Tutorial session",
+      "title": "MOW 217 S1 2026: Quiz 10",
       "due_date": "2026-04-30",
       "due_time": "15:30",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MOW 217 S1 2026: Quiz 9",
+      "due_date": "2026-04-30",
+      "due_time": "15:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MOW 217 S1 2026: Quiz 9",
+      "due_date": "2026-04-30",
+      "due_time": "15:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Quiz.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: Quiz 10",
+      "due_date": "2026-04-30",
+      "due_time": "15:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Quiz.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217: Quizzes 9 & 10 (Gears) Due",
+      "due_date": "2026-04-30",
+      "due_time": "17:30",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Practical 4",
+      "due_date": "2026-04-30",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -232,7 +333,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MPR 213: Assignment 7 submission deadline",
+      "title": "MPR 213: Assignment Problem Set 7 Due",
       "due_date": "2026-05-01",
       "due_time": "23:59",
       "course_id": "MPR 213 S1 2026",
@@ -242,11 +343,41 @@
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
+      "title": "MOW 217: Semester Project Manufacturing & Cost Analysis Due",
+      "due_date": "2026-05-01",
+      "due_time": "11:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256: Test 2",
+      "due_date": "2026-05-02",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Sub-House Elections 2026 - Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "EBIT Faculty House 2026",
       "course_name": "EBIT Faculty House 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MPR 213: Tutorial Session",
+      "due_date": "2026-05-05",
+      "due_time": "08:30",
+      "course_id": "MPR 213 S1 2026",
+      "course_name": "MPR 213 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -257,6 +388,16 @@
       "due_time": "15:00",
       "course_id": "MJJ 210 S1 2026",
       "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MPR 213: Tutorial Session",
+      "due_date": "2026-05-07",
+      "due_time": "15:30",
+      "course_id": "MPR 213 S1 2026",
+      "course_name": "MPR 213 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -292,7 +433,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Voting Period Starts",
+      "title": "Sub-House Elections 2026 - Voting Period Opens",
       "due_date": "2026-05-18",
       "due_time": "07:00",
       "course_id": "EBIT Faculty House 2026",
@@ -332,7 +473,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026: Results Released",
+      "title": "Sub-House Elections 2026 - Results Released",
       "due_date": "2026-05-26",
       "due_time": "08:00",
       "course_id": "EBIT Faculty House 2026",
@@ -342,7 +483,7 @@
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026: New EC Announcement",
+      "title": "Sub-House Elections 2026 - New EC Announcement",
       "due_date": "2026-05-28",
       "due_time": "08:00",
       "course_id": "EBIT Faculty House 2026",
@@ -380,6 +521,56 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST1 Total",
+      "due_date": "2026-06-30",
+      "due_time": "05:53",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST1 Q2",
+      "due_date": "2026-06-30",
+      "due_time": "05:52",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST1 Q1",
+      "due_date": "2026-06-30",
+      "due_time": "05:52",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST1 Q3",
+      "due_date": "2026-06-30",
+      "due_time": "05:52",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST1 Q4",
+      "due_date": "2026-06-30",
+      "due_time": "08:22",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     }
   ]
 }
