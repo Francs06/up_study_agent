@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-29T06:17:32.609129+00:00",
-  "generated_at_human": "29 April 2026 at 06:17 SAST",
-  "focus_today": "Franco, you have two deliverables due **today (Wednesday 29 April)**: the RAE24 assignment for MSD 210 and the TA consultation session. Prioritize finishing RAE24 first since it's a concrete submission, then get to that consultation. The MOW 217 quizzes don't drop until tomorrow, so don't let them distract you right now.",
-  "total_upcoming_deadlines": 31,
+  "generated_at": "2026-04-29T12:18:07.678934+00:00",
+  "generated_at_human": "29 April 2026 at 12:18 SAST",
+  "focus_today": "# Focus for Today\n\n**RAE24 is due TODAY (29 April)** \u2014 submit that fixed-axis rotation assignment immediately if you haven't already. After that, tackle **MOW 217 Quizzes 9 & 10** (due tomorrow), since those will take priority over the MSD 210 consultation and Problem Set 7.",
+  "total_upcoming_deadlines": 32,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -233,16 +233,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MSD 210: TA Consultation Session",
-      "due_date": "2026-04-29",
-      "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MOW 217 S1 2026: Quiz 10",
       "due_date": "2026-04-30",
       "due_time": "15:30",
@@ -323,6 +313,26 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
+      "title": "MSD 210: Prof. Kat Consultation Session",
+      "due_date": "2026-05-04",
+      "due_time": "12:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Mr. Peenze Consultation Session",
+      "due_date": "2026-05-04",
+      "due_time": "13:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "Sub-House Elections 2026 - Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
@@ -343,7 +353,7 @@
       "url": null
     },
     {
-      "title": "MJJ 210 S1 2026: Semester Test",
+      "title": "MJJ 210: Semester Test",
       "due_date": "2026-05-06",
       "due_time": "15:00",
       "course_id": "MJJ 210 S1 2026",
@@ -383,7 +393,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 - Voting Begins",
+      "title": "Sub-House Elections 2026 - Voting Starts",
       "due_date": "2026-05-18",
       "due_time": "07:00",
       "course_id": "_192832_1",
@@ -403,7 +413,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 - Voting Closes",
+      "title": "Sub-House Elections 2026 - Voting Ends",
       "due_date": "2026-05-20",
       "due_time": "19:00",
       "course_id": "_192832_1",
@@ -443,7 +453,7 @@
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026 - New EC Announcement",
+      "title": "Sub-House Elections 2026 - New EC Announced",
       "due_date": "2026-05-28",
       "due_time": "08:00",
       "course_id": "_192832_1",
