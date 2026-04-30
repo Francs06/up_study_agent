@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-04-29T12:18:07.678934+00:00",
-  "generated_at_human": "29 April 2026 at 12:18 SAST",
-  "focus_today": "# Focus for Today\n\n**RAE24 is due TODAY (29 April)** \u2014 submit that fixed-axis rotation assignment immediately if you haven't already. After that, tackle **MOW 217 Quizzes 9 & 10** (due tomorrow), since those will take priority over the MSD 210 consultation and Problem Set 7.",
-  "total_upcoming_deadlines": 32,
+  "generated_at": "2026-04-30T06:23:01.238435+00:00",
+  "generated_at_human": "30 April 2026 at 06:23 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have multiple MOW 217 deadlines hitting TODAY (Quizzes 9 & 10, Standard Part Drawings, Shaft Design Drawing)\u2014prioritize submitting these NOW before midnight. Your MPR 213 Problem Set 7 and MOW 217 Semester Project aren't due until tomorrow, so handle those after you clear today's stack.",
+  "total_upcoming_deadlines": 35,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
+        {
+          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
+          "due_date": "2026-04-30",
+          "due_time": "09:20",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
+          "url": null
+        },
         {
           "title": "MOW 217 S1 2026: Quiz 10",
           "due_date": "2026-04-30",
@@ -17,6 +27,16 @@
           "course_name": "MOW 217 S1 2026",
           "label": "TE:TE_AVAIL",
           "event_type": "TE:TE_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
+          "due_date": "2026-04-30",
+          "due_time": "09:20",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
           "url": null
         },
         {
@@ -46,6 +66,26 @@
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Quiz.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
+          "due_date": "2026-04-30",
+          "due_time": "09:20",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
+          "due_date": "2026-04-30",
+          "due_time": "09:20",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Assignment.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         }
@@ -57,36 +97,6 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: Attendance Week 9",
-          "due_date": "2026-04-28",
-          "due_time": "18:24",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Assignment",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: Attendance Week 8",
-          "due_date": "2026-04-28",
-          "due_time": "18:24",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Assignment",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
-          "due_date": "2026-04-29",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
         {
           "title": "MSD 210 S1 2026: RAE25: Work-Energy",
           "due_date": "2026-05-11",
@@ -134,6 +144,36 @@
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
+          "due_date": "2026-05-25",
+          "due_time": "05:00",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Reading assignments",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: ST1 Total",
+          "due_date": "2026-06-30",
+          "due_time": "05:53",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: ST1 Q2",
+          "due_date": "2026-06-30",
+          "due_time": "05:52",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Test.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         }
@@ -223,14 +263,14 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210 S1 2026: RAE24: Further fixed-axis rotation examples",
-      "due_date": "2026-04-29",
-      "due_time": "05:00",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Reading assignments",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
+      "due_date": "2026-04-30",
+      "due_time": "09:20",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
+      "url": null
     },
     {
       "title": "MOW 217 S1 2026: Quiz 10",
@@ -240,6 +280,16 @@
       "course_name": "MOW 217 S1 2026",
       "label": "TE:TE_AVAIL",
       "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
+      "due_date": "2026-04-30",
+      "due_time": "09:20",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
@@ -273,23 +323,33 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MSD 210: TA Consultation Session",
+      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
       "due_date": "2026-04-30",
-      "due_time": "10:30",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
+      "due_time": "09:20",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MSD 210: TA Consultation Session",
+      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
       "due_date": "2026-04-30",
-      "due_time": "14:30",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "due_time": "09:20",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
+      "due_date": "2026-05-01",
+      "due_time": "09:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
@@ -303,6 +363,16 @@
       "url": null
     },
     {
+      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
+      "due_date": "2026-05-01",
+      "due_time": "09:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
       "title": "MPR 213 S1 2026: Problem Set 7",
       "due_date": "2026-05-01",
       "due_time": "21:59",
@@ -313,7 +383,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MSD 210: Prof. Kat Consultation Session",
+      "title": "MSD 210: Prof. Kat Consultation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "MSD 210 S1 2026",
@@ -323,7 +393,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Mr. Peenze Consultation Session",
+      "title": "MSD 210: Mr. Peenze Consultation",
       "due_date": "2026-05-04",
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
@@ -343,7 +413,7 @@
       "url": null
     },
     {
-      "title": "Sub-House Elections 2026 - Campaign Period Starts",
+      "title": "Sub-House Elections 2026 - Campaign Period Begins",
       "due_date": "2026-05-05",
       "due_time": "08:00",
       "course_id": "_192832_1",
