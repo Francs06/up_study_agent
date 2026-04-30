@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T06:23:01.238435+00:00",
-  "generated_at_human": "30 April 2026 at 06:23 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have multiple MOW 217 deadlines hitting TODAY (Quizzes 9 & 10, Standard Part Drawings, Shaft Design Drawing)\u2014prioritize submitting these NOW before midnight. Your MPR 213 Problem Set 7 and MOW 217 Semester Project aren't due until tomorrow, so handle those after you clear today's stack.",
-  "total_upcoming_deadlines": 35,
+  "generated_at": "2026-04-30T12:16:04.415010+00:00",
+  "generated_at_human": "30 April 2026 at 12:16 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have **multiple MOW 217 deadlines TODAY** (Standard Part Drawings, Shaft Design Detailed Drawing, and Quizzes 9 & 10) \u2014 prioritize submitting these immediately if you haven't already. After that, knock out the MOW 217 Semester Project by tomorrow and tackle MPR 213 Problem Set 7, also due tomorrow.",
+  "total_upcoming_deadlines": 30,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -383,7 +383,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MSD 210: Prof. Kat Consultation",
+      "title": "MSD 210: Prof. Kat consultation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "MSD 210 S1 2026",
@@ -393,31 +393,11 @@
       "url": null
     },
     {
-      "title": "MSD 210: Mr. Peenze Consultation",
+      "title": "MSD 210: Mr. Peenze consultation",
       "due_date": "2026-05-04",
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sub-House Elections 2026 - Final Eligibility Confirmation",
-      "due_date": "2026-05-04",
-      "due_time": "12:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sub-House Elections 2026 - Campaign Period Begins",
-      "due_date": "2026-05-05",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -443,6 +423,16 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
+      "title": "UP Maths Club - Welcome Meeting",
+      "due_date": "2026-05-11",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
       "due_date": "2026-05-13",
       "due_time": "05:00",
@@ -463,16 +453,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "Sub-House Elections 2026 - Voting Starts",
-      "due_date": "2026-05-18",
-      "due_time": "07:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
       "due_date": "2026-05-20",
       "due_time": "05:00",
@@ -481,16 +461,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Sub-House Elections 2026 - Voting Ends",
-      "due_date": "2026-05-20",
-      "due_time": "19:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE29: Forced vibration",
@@ -511,26 +481,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Sub-House Elections 2026 - Results Released",
-      "due_date": "2026-05-26",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sub-House Elections 2026 - New EC Announced",
-      "due_date": "2026-05-28",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
