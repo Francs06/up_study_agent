@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-01T06:32:00.819024+00:00",
-  "generated_at_human": "01 May 2026 at 06:32 SAST",
-  "focus_today": "# Focus for Today\n\nFranco, you have **two deliverables due TODAY**: the MOW 217 Semester Project and MPR 213 Problem Set 7. Prioritize submitting these before end of day\u2014no extensions. After that, you're clear for the weekend.",
-  "total_upcoming_deadlines": 22,
+  "generated_at": "2026-05-01T11:59:52.729827+00:00",
+  "generated_at_human": "01 May 2026 at 11:59 SAST",
+  "focus_today": "**Focus for Today:**\n\nMPR 213 Problem Set 7 is due TODAY\u2014submit it before the deadline closes if you haven't already. Once that's handled, shift your attention to scheduling those MSD 210 consultations with Prof. Kat and Mr. Peenze before Monday's cutoff.",
+  "total_upcoming_deadlines": 27,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -10,16 +10,6 @@
       "color": "#F5C518",
       "deadlines": [
         {
-          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-          "due_date": "2026-04-30",
-          "due_time": "09:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
           "title": "MOW 217 S1 2026: Quiz 10",
           "due_date": "2026-04-30",
           "due_time": "15:30",
@@ -27,16 +17,6 @@
           "course_name": "MOW 217 S1 2026",
           "label": "TE:TE_AVAIL",
           "event_type": "TE:TE_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-          "due_date": "2026-04-30",
-          "due_time": "09:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
           "url": null
         },
         {
@@ -70,19 +50,19 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         },
         {
-          "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-          "due_date": "2026-04-30",
-          "due_time": "09:20",
+          "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
+          "due_date": "2026-05-06",
+          "due_time": "09:30",
           "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
+          "url": null
         },
         {
-          "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-          "due_date": "2026-04-30",
-          "due_time": "09:20",
+          "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
+          "due_date": "2026-05-06",
+          "due_time": "09:30",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Assignment.name",
@@ -263,16 +243,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
-      "due_date": "2026-05-01",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
       "title": "MPR 213 S1 2026: Problem Set 7",
       "due_date": "2026-05-01",
       "due_time": "21:59",
@@ -281,16 +251,6 @@
       "label": "UA:UA_AVAIL",
       "event_type": "UA:UA_AVAIL",
       "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
-      "due_date": "2026-05-01",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
       "title": "MPR 213 S1 2026: Problem Set 7",
@@ -303,7 +263,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MSD 210: Prof. Kat consultation",
+      "title": "MSD 210: Prof. Kat Consultation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "MSD 210 S1 2026",
@@ -313,7 +273,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Mr. Peenze consultation",
+      "title": "MSD 210: Mr. Peenze Consultation",
       "due_date": "2026-05-04",
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
@@ -321,6 +281,46 @@
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
+    },
+    {
+      "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
+      "due_date": "2026-05-04",
+      "due_time": "12:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Sub-House Elections 2026: Campaign Period Begins",
+      "due_date": "2026-05-05",
+      "due_time": "08:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
+      "due_date": "2026-05-06",
+      "due_time": "09:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
+      "due_date": "2026-05-06",
+      "due_time": "09:30",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
       "title": "MJJ 210: Semester Test",
@@ -373,6 +373,16 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
+      "title": "Sub-House Elections 2026: Voting Period",
+      "due_date": "2026-05-18",
+      "due_time": "07:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
       "due_date": "2026-05-20",
       "due_time": "05:00",
@@ -401,6 +411,26 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "Sub-House Elections 2026: Results Released",
+      "due_date": "2026-05-26",
+      "due_time": "08:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Sub-House Elections 2026: New EC Announcement",
+      "due_date": "2026-05-28",
+      "due_time": "08:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
