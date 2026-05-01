@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-30T12:16:04.415010+00:00",
-  "generated_at_human": "30 April 2026 at 12:16 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have **multiple MOW 217 deadlines TODAY** (Standard Part Drawings, Shaft Design Detailed Drawing, and Quizzes 9 & 10) \u2014 prioritize submitting these immediately if you haven't already. After that, knock out the MOW 217 Semester Project by tomorrow and tackle MPR 213 Problem Set 7, also due tomorrow.",
-  "total_upcoming_deadlines": 30,
+  "generated_at": "2026-05-01T06:32:00.819024+00:00",
+  "generated_at_human": "01 May 2026 at 06:32 SAST",
+  "focus_today": "# Focus for Today\n\nFranco, you have **two deliverables due TODAY**: the MOW 217 Semester Project and MPR 213 Problem Set 7. Prioritize submitting these before end of day\u2014no extensions. After that, you're clear for the weekend.",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -262,86 +262,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-      "due_date": "2026-04-30",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Quiz 10",
-      "due_date": "2026-04-30",
-      "due_time": "15:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-      "due_date": "2026-04-30",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Quiz 9",
-      "due_date": "2026-04-30",
-      "due_time": "15:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Quiz 10",
-      "due_date": "2026-04-30",
-      "due_time": "15:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Quiz.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Quiz 9",
-      "due_date": "2026-04-30",
-      "due_time": "15:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Quiz.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Standard Part Drawings [15]",
-      "due_date": "2026-04-30",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Shaft Design Detailed Drawing [20]",
-      "due_date": "2026-04-30",
-      "due_time": "09:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
     {
       "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
       "due_date": "2026-05-01",
