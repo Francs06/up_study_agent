@@ -1,54 +1,14 @@
 {
-  "generated_at": "2026-05-01T11:59:52.729827+00:00",
-  "generated_at_human": "01 May 2026 at 11:59 SAST",
-  "focus_today": "**Focus for Today:**\n\nMPR 213 Problem Set 7 is due TODAY\u2014submit it before the deadline closes if you haven't already. Once that's handled, shift your attention to scheduling those MSD 210 consultations with Prof. Kat and Mr. Peenze before Monday's cutoff.",
-  "total_upcoming_deadlines": 27,
+  "generated_at": "2026-05-02T06:01:41.137501+00:00",
+  "generated_at_human": "02 May 2026 at 06:01 SAST",
+  "focus_today": "**Focus for Today (Saturday, 02 May 2026):**\n\nYou've got 2 days to nail those MSD 210 consultations with Prof. Kat and Mr. Peenze\u2014get your questions ready and book those meetings now. After that, shift hard to MOW 217's Manufacturing and Cost Analysis project and prep for MJJ 210's semester test, both due Wednesday.",
+  "total_upcoming_deadlines": 25,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: Quiz 10",
-          "due_date": "2026-04-30",
-          "due_time": "15:30",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "TE:TE_AVAIL",
-          "event_type": "TE:TE_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Quiz 9",
-          "due_date": "2026-04-30",
-          "due_time": "15:30",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "TE:TE_AVAIL",
-          "event_type": "TE:TE_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Quiz 10",
-          "due_date": "2026-04-30",
-          "due_time": "15:30",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Quiz.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
-          "title": "MOW 217 S1 2026: Quiz 9",
-          "due_date": "2026-04-30",
-          "due_time": "15:30",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Quiz.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
         {
           "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
           "due_date": "2026-05-06",
@@ -243,51 +203,31 @@
   },
   "all_deadlines": [
     {
-      "title": "MPR 213 S1 2026: Problem Set 7",
-      "due_date": "2026-05-01",
-      "due_time": "21:59",
-      "course_id": "_189473_1",
-      "course_name": "MPR 213 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MPR 213 S1 2026: Problem Set 7",
-      "due_date": "2026-05-01",
-      "due_time": "21:59",
-      "course_id": "_189473_1",
-      "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
-      "label": "GRADEBOOK:Tutorial Assignment",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
-    },
-    {
-      "title": "MSD 210: Prof. Kat Consultation",
-      "due_date": "2026-05-04",
-      "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Mr. Peenze Consultation",
-      "due_date": "2026-05-04",
-      "due_time": "13:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "_192832_1",
       "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Prof. Kat consultation",
+      "due_date": "2026-05-04",
+      "due_time": "12:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Mr. Peenze consultation",
+      "due_date": "2026-05-04",
+      "due_time": "13:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
