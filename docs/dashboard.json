@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-03T06:22:13.200524+00:00",
-  "generated_at_human": "03 May 2026 at 06:22 SAST",
-  "focus_today": "**Focus for today:**\n\nYou have two consultations due tomorrow (Prof. Kat and Mr. Peenze for MSD 210)\u2014get those scheduled or completed first thing Monday morning before they're overdue. After that, shift to the MOW 217 manufacturing project due Wednesday; that's your next hard deadline and needs serious work.",
-  "total_upcoming_deadlines": 18,
+  "generated_at": "2026-05-03T11:42:26.344373+00:00",
+  "generated_at_human": "03 May 2026 at 11:42 SAST",
+  "focus_today": "**Focus for today:**\n\nYou've got two consultations due tomorrow (Prof. Kat and Mr. Peenze for MSD 210)\u2014prioritize getting those scheduled or completed today, since they're your most immediate deadline. After that, shift to MOW 217's Manufacturing and Cost Analysis project (due Wednesday) so you're not scrambling mid-week.",
+  "total_upcoming_deadlines": 20,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -26,6 +26,26 @@
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
+          "due_date": "2026-05-08",
+          "due_time": "21:59",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "TE:TE_AVAIL",
+          "event_type": "TE:TE_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
+          "due_date": "2026-05-08",
+          "due_time": "21:59",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Quiz.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         }
@@ -182,7 +202,7 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210: Prof. Kat Consultation",
+      "title": "MSD 210 S1 2026: Prof. Kat Consultation",
       "due_date": "2026-05-04",
       "due_time": "12:00",
       "course_id": "MSD 210 S1 2026",
@@ -192,7 +212,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Mr. Peenze Consultation",
+      "title": "MSD 210 S1 2026: Mr. Peenze Consultation",
       "due_date": "2026-05-04",
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
@@ -218,6 +238,26 @@
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
+      "due_date": "2026-05-08",
+      "due_time": "21:59",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
+      "due_date": "2026-05-08",
+      "due_time": "21:59",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Quiz.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
