@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-02T11:45:12.315841+00:00",
-  "generated_at_human": "02 May 2026 at 11:45 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou've got 2 days until your eligibility confirmation and those MSD 210 consultations are due\u2014nail those down Monday. Beyond that, prioritize MOW 217's manufacturing analysis and prep for the MJJ 210 test, both due Wednesday.",
-  "total_upcoming_deadlines": 25,
+  "generated_at": "2026-05-03T06:22:13.200524+00:00",
+  "generated_at_human": "03 May 2026 at 06:22 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have two consultations due tomorrow (Prof. Kat and Mr. Peenze for MSD 210)\u2014get those scheduled or completed first thing Monday morning before they're overdue. After that, shift to the MOW 217 manufacturing project due Wednesday; that's your next hard deadline and needs serious work.",
+  "total_upcoming_deadlines": 18,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -176,42 +176,11 @@
       "name": "MPR 213",
       "full_name": "MPR 213 S1 2026 \u2014 Programming & IT",
       "color": "#2952A3",
-      "deadlines": [
-        {
-          "title": "MPR 213 S1 2026: Problem Set 7",
-          "due_date": "2026-05-01",
-          "due_time": "21:59",
-          "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MPR 213 S1 2026: Problem Set 7",
-          "due_date": "2026-05-01",
-          "due_time": "21:59",
-          "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
-          "label": "GRADEBOOK:Tutorial Assignment",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     }
   },
   "all_deadlines": [
-    {
-      "title": "Sub-House Elections 2026: Final Eligibility Confirmation",
-      "due_date": "2026-05-04",
-      "due_time": "12:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
     {
       "title": "MSD 210: Prof. Kat Consultation",
       "due_date": "2026-05-04",
@@ -228,16 +197,6 @@
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sub-House Elections 2026: Campaign Period Begins",
-      "due_date": "2026-05-05",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -263,16 +222,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MJJ 210: Semester Test",
-      "due_date": "2026-05-06",
-      "due_time": "15:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: RAE25: Work-Energy",
       "due_date": "2026-05-11",
       "due_time": "05:00",
@@ -281,16 +230,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "UP Maths Club - Welcome Meeting",
-      "due_date": "2026-05-11",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
@@ -311,16 +250,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Sub-House Elections 2026: Voting Period",
-      "due_date": "2026-05-18",
-      "due_time": "07:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
@@ -351,26 +280,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Sub-House Elections 2026: Results Released",
-      "due_date": "2026-05-26",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sub-House Elections 2026: Announcement of New EC",
-      "due_date": "2026-05-28",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
