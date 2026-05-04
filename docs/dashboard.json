@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T06:33:39.706966+00:00",
-  "generated_at_human": "04 May 2026 at 06:33 SAST",
-  "focus_today": "**Today's Focus:**\n\nYou have two consultation sessions due TODAY for MSD 210 (Prof. Kat and Mr. Peenze)\u2014get those done first thing if you haven't already. After that, prioritize the MOW 217 Manufacturing and Cost Analysis project due Wednesday, since it's your nearest major deadline after today.",
-  "total_upcoming_deadlines": 21,
+  "generated_at": "2026-05-04T12:21:40.147734+00:00",
+  "generated_at_human": "04 May 2026 at 12:21 SAST",
+  "focus_today": "Franco, you have 2 days to submit the MOW 217 Semester Project on Manufacturing and Cost Analysis\u2014that's your priority today. Get that locked in, then tackle RAE25 (Work-Energy) which is due in a week.",
+  "total_upcoming_deadlines": 18,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -201,36 +201,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MSD 210: Prof. Kat consultation session",
-      "due_date": "2026-05-04",
-      "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Mr. Peenze consultation session",
-      "due_date": "2026-05-04",
-      "due_time": "13:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Review session before Semester Test 2",
-      "due_date": "2026-05-05",
-      "due_time": "15:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
     {
       "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
       "due_date": "2026-05-06",
