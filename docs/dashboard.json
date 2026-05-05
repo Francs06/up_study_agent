@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T12:21:40.147734+00:00",
-  "generated_at_human": "04 May 2026 at 12:21 SAST",
-  "focus_today": "Franco, you have 2 days to submit the MOW 217 Semester Project on Manufacturing and Cost Analysis\u2014that's your priority today. Get that locked in, then tackle RAE25 (Work-Energy) which is due in a week.",
-  "total_upcoming_deadlines": 18,
+  "generated_at": "2026-05-05T06:10:24.767937+00:00",
+  "generated_at_human": "05 May 2026 at 06:10 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got WTW 258 Tutorial Test 5 due TODAY\u2014prioritize finishing that immediately if you haven't already. After that, shift to the MOW 217 Semester Project (due tomorrow), which is your next critical deadline.",
+  "total_upcoming_deadlines": 20,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -151,7 +151,18 @@
       "name": "WTW 258",
       "full_name": "WTW 258 S1 2026 \u2014 Calculus",
       "color": "#F4736A",
-      "deadlines": [],
+      "deadlines": [
+        {
+          "title": "WTW 258 S1 2026: Tutorial Test 5 [5]",
+          "due_date": "2026-05-05",
+          "due_time": "13:56",
+          "course_id": "_190953_1",
+          "course_name": "WTW 258 S1 2026 \u2014 Calculus",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
+        }
+      ],
       "new_documents": []
     },
     "_189590_1": {
@@ -202,6 +213,16 @@
   },
   "all_deadlines": [
     {
+      "title": "WTW 258 S1 2026: Tutorial Test 5 [5]",
+      "due_date": "2026-05-05",
+      "due_time": "13:56",
+      "course_id": "_190953_1",
+      "course_name": "WTW 258 S1 2026 \u2014 Calculus",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
+    },
+    {
       "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
       "due_date": "2026-05-06",
       "due_time": "09:30",
@@ -250,6 +271,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "WTW 258: Sick Test 2",
+      "due_date": "2026-05-12",
+      "due_time": "10:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
