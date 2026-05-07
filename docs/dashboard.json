@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-06T12:27:59.779545+00:00",
-  "generated_at_human": "06 May 2026 at 12:27 SAST",
-  "focus_today": "**Focus for Today, Franco:**\n\nThe MOW 217 Manufacturing and Cost Analysis project is due **today (2026-05-08)** \u2014 submit it immediately if you haven't already. After that, prioritize the P4 Shaft Design Self-Evaluation (due Friday) and lock in your PwC application (also Friday) before they slip past you.",
-  "total_upcoming_deadlines": 26,
+  "generated_at": "2026-05-07T06:29:37.484147+00:00",
+  "generated_at_human": "07 May 2026 at 06:29 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got **24 hours** to submit the MOW 217 P4 self-evaluation and get your WTW 258 Sick Test 2 documents ready\u2014both due tomorrow by end of day. Knock out the self-eval first since you're already deep in that project, then handle the WTW submission, so you can pivot to the actual MOW drawings (P3 & P4) due Saturday.",
+  "total_upcoming_deadlines": 27,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -191,18 +191,7 @@
       "name": "WTW 258",
       "full_name": "WTW 258 S1 2026 \u2014 Calculus",
       "color": "#F4736A",
-      "deadlines": [
-        {
-          "title": "WTW 258 S1 2026: Tutorial Test 5 [5]",
-          "due_date": "2026-05-05",
-          "due_time": "13:56",
-          "course_id": "_190953_1",
-          "course_name": "WTW 258 S1 2026 \u2014 Calculus",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_189590_1": {
@@ -252,26 +241,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
-      "due_date": "2026-05-06",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Semester Project: Manufacturing and Cost Analysis",
-      "due_date": "2026-05-06",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
     {
       "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
       "due_date": "2026-05-08",
@@ -373,6 +342,16 @@
       "url": null
     },
     {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-12",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
       "due_date": "2026-05-13",
       "due_time": "05:00",
@@ -385,6 +364,26 @@
     {
       "title": "WTW 258: Tutorial Test 7",
       "due_date": "2026-05-13",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-14",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-15",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
