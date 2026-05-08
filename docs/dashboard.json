@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T05:51:32.533745+00:00",
-  "generated_at_human": "08 May 2026 at 05:51 SAST",
-  "focus_today": "Franco, you have **two critical deadlines TODAY (May 8)**\u2014the MOW 217 self-evaluations and WTW 258 sick test document submission. Knock these out first before they slip. After that, tackle the MOW 217 Parts 3 & 4 drawings due tomorrow; you're cutting it close on those.",
-  "total_upcoming_deadlines": 25,
+  "generated_at": "2026-05-08T12:09:10.291240+00:00",
+  "generated_at_human": "08 May 2026 at 12:09 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got MOW 217 self-evaluations and the quiz due TODAY\u2014knock those out first since they're already overdue. Then pivot to Part 4 (shaft design) and Part 3 drawings for tomorrow's deadline, as these are worth points and feed into Semester Test 2 also happening tomorrow.",
+  "total_upcoming_deadlines": 26,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -242,11 +242,11 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "WTW 258: Sick Test 2 - Document Submission Deadline",
+      "title": "MOW 217: P4 Shaft Design & Detailed Drawing Self-Evaluation Quiz",
       "due_date": "2026-05-08",
-      "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
+      "due_time": "23:59",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -292,6 +292,16 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
+      "title": "MOW 217: Semester Test 2",
+      "due_date": "2026-05-09",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE25: Work-Energy",
       "due_date": "2026-05-11",
       "due_time": "05:00",
@@ -305,16 +315,6 @@
       "title": "WTW 258: Sick Test 2",
       "due_date": "2026-05-12",
       "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Tutorial Test 7",
-      "due_date": "2026-05-12",
-      "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
@@ -344,6 +344,16 @@
     {
       "title": "WTW 258: Tutorial Test 7",
       "due_date": "2026-05-14",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-15",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
