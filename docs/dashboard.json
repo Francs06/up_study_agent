@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-07T12:29:22.701577+00:00",
-  "generated_at_human": "07 May 2026 at 12:29 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou've got **MOW 217 self-evaluations due tomorrow (05-08)** \u2014 these are quick wins that free up your weekend. Knock those out first, then shift to the actual **P3 & P4 drawings due 05-09** \u2014 those are the real work. Don't skip the self-evals thinking you'll do them later; they're blocking your progress on the main submissions.",
-  "total_upcoming_deadlines": 24,
+  "generated_at": "2026-05-08T05:51:32.533745+00:00",
+  "generated_at_human": "08 May 2026 at 05:51 SAST",
+  "focus_today": "Franco, you have **two critical deadlines TODAY (May 8)**\u2014the MOW 217 self-evaluations and WTW 258 sick test document submission. Knock these out first before they slip. After that, tackle the MOW 217 Parts 3 & 4 drawings due tomorrow; you're cutting it close on those.",
+  "total_upcoming_deadlines": 25,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -242,17 +242,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "PwC Vacation Programme Application Deadline",
-      "due_date": "2026-05-08",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258 S1: Sick Test 2 - Document Submission",
+      "title": "WTW 258: Sick Test 2 - Document Submission Deadline",
       "due_date": "2026-05-08",
       "due_time": "10:00",
       "course_id": "WTW 258 S1 2026",
@@ -340,6 +330,26 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-13",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-14",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
