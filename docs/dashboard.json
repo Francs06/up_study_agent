@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T12:09:10.291240+00:00",
-  "generated_at_human": "08 May 2026 at 12:09 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou've got MOW 217 self-evaluations and the quiz due TODAY\u2014knock those out first since they're already overdue. Then pivot to Part 4 (shaft design) and Part 3 drawings for tomorrow's deadline, as these are worth points and feed into Semester Test 2 also happening tomorrow.",
-  "total_upcoming_deadlines": 26,
+  "generated_at": "2026-05-09T06:10:05.382446+00:00",
+  "generated_at_human": "09 May 2026 at 06:10 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have **MOW 217 submissions due TODAY** (Parts 3 & 4 for ST2) \u2014 these are your immediate priority. Get those submitted before end of day, then shift to **MSD 210's RAE25 (Work-Energy)** which is due Monday.",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -25,12 +25,12 @@
           "due_time": "21:59",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Quiz.name",
+          "label": "GRADEBOOK:Tutorial",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         },
         {
-          "title": "MOW 217 S1 2026: Part 4: Shaft Design & Detailed Drawing [10]",
+          "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
           "due_date": "2026-05-09",
           "due_time": "16:00",
           "course_id": "_190939_1",
@@ -40,7 +40,7 @@
           "url": null
         },
         {
-          "title": "MOW 217 S1 2026: Part 3: Standard Parts & Assembly Drawings [10]",
+          "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
           "due_date": "2026-05-09",
           "due_time": "16:00",
           "course_id": "_190939_1",
@@ -50,7 +50,7 @@
           "url": null
         },
         {
-          "title": "MOW 217 S1 2026: Part 3: Standard Parts & Assembly Drawings [10]",
+          "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
           "due_date": "2026-05-09",
           "due_time": "16:00",
           "course_id": "_190939_1",
@@ -60,7 +60,7 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         },
         {
-          "title": "MOW 217 S1 2026: Part 4: Shaft Design & Detailed Drawing [10]",
+          "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
           "due_date": "2026-05-09",
           "due_time": "16:00",
           "course_id": "_190939_1",
@@ -222,37 +222,7 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
-      "due_date": "2026-05-08",
-      "due_time": "21:59",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
-      "due_date": "2026-05-08",
-      "due_time": "21:59",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Quiz.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217: P4 Shaft Design & Detailed Drawing Self-Evaluation Quiz",
-      "due_date": "2026-05-08",
-      "due_time": "23:59",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Part 4: Shaft Design & Detailed Drawing [10]",
+      "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
       "due_date": "2026-05-09",
       "due_time": "16:00",
       "course_id": "_190939_1",
@@ -262,7 +232,7 @@
       "url": null
     },
     {
-      "title": "MOW 217 S1 2026: Part 3: Standard Parts & Assembly Drawings [10]",
+      "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
       "due_date": "2026-05-09",
       "due_time": "16:00",
       "course_id": "_190939_1",
@@ -272,7 +242,7 @@
       "url": null
     },
     {
-      "title": "MOW 217 S1 2026: Part 3: Standard Parts & Assembly Drawings [10]",
+      "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
       "due_date": "2026-05-09",
       "due_time": "16:00",
       "course_id": "_190939_1",
@@ -282,7 +252,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MOW 217 S1 2026: Part 4: Shaft Design & Detailed Drawing [10]",
+      "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
       "due_date": "2026-05-09",
       "due_time": "16:00",
       "course_id": "_190939_1",
@@ -290,16 +260,6 @@
       "label": "GRADEBOOK:Test.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217: Semester Test 2",
-      "due_date": "2026-05-09",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE25: Work-Energy",
