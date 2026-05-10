@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T06:29:01.260954+00:00",
-  "generated_at_human": "10 May 2026 at 06:29 SAST",
-  "focus_today": "**Focus for Today:**\n\nRAE25 (Work-Energy) is due **tomorrow** \u2014 that's your priority. Knock it out tonight so you're not scrambling Monday morning. Once that's done, start prepping for the WTW 258 Sick Test 2 on Tuesday since that's exam-style and needs solid review time.",
-  "total_upcoming_deadlines": 16,
+  "generated_at": "2026-05-10T11:52:19.101549+00:00",
+  "generated_at_human": "10 May 2026 at 11:52 SAST",
+  "focus_today": "**Focus for today:** RAE25 (Work-Energy) is due *tomorrow* \u2014 that's your immediate priority. Knock that out today so you have breathing room for WTW 258's Sick Test 2 on Tuesday. Once RAE25 is done, shift to reviewing thermodynamics concepts.",
+  "total_upcoming_deadlines": 18,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -212,6 +212,36 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-13",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-14",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-15",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
       "due_date": "2026-05-18",
       "due_time": "05:00",
@@ -220,16 +250,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "WTW 258: Tutorial Test 7",
-      "due_date": "2026-05-19",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
