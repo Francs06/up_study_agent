@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T11:51:50.310866+00:00",
-  "generated_at_human": "09 May 2026 at 11:51 SAST",
-  "focus_today": "**Focus for Today**\n\nFranco, MOW 217 Part 3 and Part 4 are due *today* \u2013 prioritize finishing and submitting these now if you haven't already. After that, shift to MSD 210's RAE25 (Work-Energy) which is due in 2 days and will need solid prep time.",
-  "total_upcoming_deadlines": 22,
+  "generated_at": "2026-05-10T06:29:01.260954+00:00",
+  "generated_at_human": "10 May 2026 at 06:29 SAST",
+  "focus_today": "**Focus for Today:**\n\nRAE25 (Work-Energy) is due **tomorrow** \u2014 that's your priority. Knock it out tonight so you're not scrambling Monday morning. Once that's done, start prepping for the WTW 258 Sick Test 2 on Tuesday since that's exam-style and needs solid review time.",
+  "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -10,49 +10,9 @@
       "color": "#F5C518",
       "deadlines": [
         {
-          "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
-          "due_date": "2026-05-08",
-          "due_time": "21:59",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "TE:TE_AVAIL",
-          "event_type": "TE:TE_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: P4 Shaft Design & Detailed Drawing Self-Evaluation [20]",
-          "due_date": "2026-05-08",
-          "due_time": "21:59",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Tutorial",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
           "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
           "due_date": "2026-05-09",
-          "due_time": "16:00",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
-          "due_date": "2026-05-09",
-          "due_time": "16:00",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
-          "due_date": "2026-05-09",
-          "due_time": "16:00",
+          "due_time": "16:05",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Test.name",
@@ -62,7 +22,7 @@
         {
           "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
           "due_date": "2026-05-09",
-          "due_time": "16:00",
+          "due_time": "16:05",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Test.name",
@@ -222,46 +182,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
-      "due_date": "2026-05-09",
-      "due_time": "16:00",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
-      "due_date": "2026-05-09",
-      "due_time": "16:00",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: ST2 Part 4: Shaft Design & Detailed Drawing [10]",
-      "due_date": "2026-05-09",
-      "due_time": "16:00",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: ST2 Part 3: Standard Parts & Assembly Drawings [10]",
-      "due_date": "2026-05-09",
-      "due_time": "16:00",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
       "title": "MSD 210 S1 2026: RAE25: Work-Energy",
       "due_date": "2026-05-11",
       "due_time": "05:00",
@@ -292,36 +212,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "WTW 258: Tutorial Test 7",
-      "due_date": "2026-05-13",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Tutorial Test 7",
-      "due_date": "2026-05-14",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Tutorial Test 7",
-      "due_date": "2026-05-15",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
       "due_date": "2026-05-18",
       "due_time": "05:00",
@@ -330,6 +220,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "WTW 258: Tutorial Test 7",
+      "due_date": "2026-05-19",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
