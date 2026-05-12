@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-12T06:32:29.465566+00:00",
-  "generated_at_human": "12 May 2026 at 06:32 SAST",
-  "focus_today": "**Focus for today:**\n\nWTW 258 Tutorial Test 6 is due TODAY \u2013 prioritize finishing this first if you haven't already. After that, start on MSD 210's RAE26 (Work-Energy examples) which is due tomorrow, so you need to get moving on it now.",
-  "total_upcoming_deadlines": 22,
+  "generated_at": "2026-05-12T13:04:34.152166+00:00",
+  "generated_at_human": "12 May 2026 at 13:04 SAST",
+  "focus_today": "**Focus for Today (Tuesday, 12 May)**\n\nYou have two deadlines **today**: WTW 258 Tutorial Test 6 and MSD 210 Semester Test. Prioritize finishing these immediately. After that, shift to MSD 210 RAE26 (Work-Energy examples) for tomorrow's deadline.",
+  "total_upcoming_deadlines": 24,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,6 +130,16 @@
       "color": "#9EA8B3",
       "deadlines": [
         {
+          "title": "MJJ 210 S1 2026: Semester Test",
+          "due_date": "2026-05-12",
+          "due_time": "16:50",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        },
+        {
           "title": "MJJ 210 S1 2026: Assignment : Final Oral Presentation",
           "due_date": "2026-05-30",
           "due_time": "21:59",
@@ -172,16 +182,6 @@
           "due_date": "2026-05-15",
           "due_time": "21:59",
           "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MPR 213 S1 2026: Problem Set 8",
-          "due_date": "2026-05-15",
-          "due_time": "21:59",
-          "course_id": "_189473_1",
           "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
           "label": "GRADEBOOK:Tutorial Assignment",
           "event_type": "GRADEBOOK",
@@ -203,6 +203,16 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
     },
     {
+      "title": "MJJ 210 S1 2026: Semester Test",
+      "due_date": "2026-05-12",
+      "due_time": "16:50",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
       "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
       "due_date": "2026-05-13",
       "due_time": "05:00",
@@ -213,13 +223,23 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MPR 213 S1 2026: Problem Set 8",
-      "due_date": "2026-05-15",
-      "due_time": "21:59",
-      "course_id": "_189473_1",
-      "course_name": "MPR 213 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
+      "title": "WTW 256: Sick Test",
+      "due_date": "2026-05-14",
+      "due_time": "09:00",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256: Test 2 Marks Released",
+      "due_date": "2026-05-14",
+      "due_time": "11:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
