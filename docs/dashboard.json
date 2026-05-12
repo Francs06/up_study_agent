@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T13:49:10.161170+00:00",
-  "generated_at_human": "11 May 2026 at 13:49 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have **RAE25: Work-Energy due TODAY (2026-05-11)** \u2014 submit this immediately if you haven't already. After that, prioritize **WTW 258 Tutorial Test 6 and Sick Test 2 for tomorrow**, plus the **WTW 256 tutorials** also due tomorrow.",
-  "total_upcoming_deadlines": 24,
+  "generated_at": "2026-05-12T06:32:29.465566+00:00",
+  "generated_at_human": "12 May 2026 at 06:32 SAST",
+  "focus_today": "**Focus for today:**\n\nWTW 258 Tutorial Test 6 is due TODAY \u2013 prioritize finishing this first if you haven't already. After that, start on MSD 210's RAE26 (Work-Energy examples) which is due tomorrow, so you need to get moving on it now.",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -16,16 +16,6 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: RAE25: Work-Energy",
-          "due_date": "2026-05-11",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
         {
           "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
           "due_date": "2026-05-13",
@@ -77,9 +67,9 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         },
         {
-          "title": "MSD 210 S1 2026: ST1 Total",
+          "title": "MSD 210 S1 2026: ST2 Total",
           "due_date": "2026-06-30",
-          "due_time": "05:53",
+          "due_time": "13:29",
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Test.name",
@@ -87,9 +77,19 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         },
         {
-          "title": "MSD 210 S1 2026: ST1 Q2",
+          "title": "MSD 210 S1 2026: ST2 Q4",
           "due_date": "2026-06-30",
-          "due_time": "05:52",
+          "due_time": "18:53",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: ST2 Q3",
+          "due_date": "2026-06-30",
+          "due_time": "13:29",
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Test.name",
@@ -193,16 +193,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210 S1 2026: RAE25: Work-Energy",
-      "due_date": "2026-05-11",
-      "due_time": "05:00",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Reading assignments",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
       "title": "WTW 258 S1 2026: Tutorial Test 6 [5]",
       "due_date": "2026-05-12",
       "due_time": "06:44",
@@ -213,26 +203,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
     },
     {
-      "title": "WTW 258: Sick Test 2",
-      "due_date": "2026-05-12",
-      "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 256: Tutorials",
-      "due_date": "2026-05-12",
-      "due_time": "08:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: RAE26: Work-Energy examples",
       "due_date": "2026-05-13",
       "due_time": "05:00",
@@ -241,16 +211,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "WTW 256: Sick Test",
-      "due_date": "2026-05-14",
-      "due_time": "08:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MPR 213 S1 2026: Problem Set 8",
@@ -283,16 +243,6 @@
       "url": null
     },
     {
-      "title": "MPR 213: Weekly Tutorial Assignment - Problem Set 8",
-      "due_date": "2026-05-15",
-      "due_time": "23:59",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
       "due_date": "2026-05-18",
       "due_time": "05:00",
@@ -301,26 +251,6 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "WTW 258: Collect Tutorial Test 7 Scripts",
-      "due_date": "2026-05-18",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Tutorial Test 7",
-      "due_date": "2026-05-18",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
@@ -381,6 +311,56 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST2 Total",
+      "due_date": "2026-06-30",
+      "due_time": "13:29",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST2 Q4",
+      "due_date": "2026-06-30",
+      "due_time": "18:53",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST2 Q3",
+      "due_date": "2026-06-30",
+      "due_time": "13:29",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST2 Q2",
+      "due_date": "2026-06-30",
+      "due_time": "13:28",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MSD 210 S1 2026: ST2 Q1",
+      "due_date": "2026-06-30",
+      "due_time": "13:27",
+      "course_id": "_188765_1",
+      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
       "title": "MSD 210 S1 2026: ST1 Total",
