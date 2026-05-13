@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-13T06:43:10.118265+00:00",
-  "generated_at_human": "13 May 2026 at 06:43 SAST",
-  "focus_today": "**Focus for Today:**\n\nRAE26 (Work-Energy examples) is due **today** \u2014 finish it now if you haven't already. After that, shift to MOW 217 Week 1, which is due tomorrow and should be your immediate next priority.",
-  "total_upcoming_deadlines": 22,
+  "generated_at": "2026-05-13T13:12:19.956387+00:00",
+  "generated_at_human": "13 May 2026 at 13:12 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nRAE26 is due **today** \u2013 knock that out first if you haven't already. Then pivot to MOW 217 Week 1 (due tomorrow) and prep for the MJJ 210 perusal session, also tomorrow.",
+  "total_upcoming_deadlines": 25,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -110,18 +110,7 @@
       "name": "WTW 258",
       "full_name": "WTW 258 S1 2026 \u2014 Calculus",
       "color": "#F4736A",
-      "deadlines": [
-        {
-          "title": "WTW 258 S1 2026: Tutorial Test 6 [5]",
-          "due_date": "2026-05-12",
-          "due_time": "06:44",
-          "course_id": "_190953_1",
-          "course_name": "WTW 258 S1 2026 \u2014 Calculus",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_189590_1": {
@@ -213,6 +202,16 @@
       "url": null
     },
     {
+      "title": "MJJ 210: Test Perusal Session with Mr Luthuli",
+      "due_date": "2026-05-14",
+      "due_time": "12:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MPR 213 S1 2026: Problem Set 8",
       "due_date": "2026-05-15",
       "due_time": "21:59",
@@ -228,6 +227,16 @@
       "due_time": "10:00",
       "course_id": "_192867_1",
       "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MJJ 210: Test 3 Sign-up Deadline",
+      "due_date": "2026-05-17",
+      "due_time": "23:59",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -271,6 +280,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MJJ 210: Test 3",
+      "due_date": "2026-05-23",
+      "due_time": "08:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
