@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T12:24:48.898832+00:00",
-  "generated_at_human": "14 May 2026 at 12:24 SAST",
-  "focus_today": "**Focus for today:** You have THREE things due TODAY (14 May): MOW 217 Detailed Drawing, MSD 210 Attendance Mark, and MSD 210 Attendance Week 10. Get these submitted immediately\u2014they're past or at the deadline. Then pivot to tomorrow's priorities: Shaft Design and Problem Set 8, which need your attention tonight.",
-  "total_upcoming_deadlines": 31,
+  "generated_at": "2026-05-15T06:50:39.757067+00:00",
+  "generated_at_human": "15 May 2026 at 06:50 SAST",
+  "focus_today": "**Focus for Today:**\n\nYour MSD 210 S1 2026 Sick Test Eligibility deadline is **today (May 15)**\u2014submit whatever documentation you have before end of day. Don't overthink it; just get it in. After that's done, you can reset for next week.",
+  "total_upcoming_deadlines": 29,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -10,7 +10,7 @@
       "color": "#F5C518",
       "deadlines": [
         {
-          "title": "MOW 217 S1 2026: Detailed Drawing [/15]",
+          "title": "MOW 217 S1 2026: Shaft Design",
           "due_date": "2026-05-14",
           "due_time": "09:30",
           "course_id": "_190939_1",
@@ -24,24 +24,24 @@
           "due_date": "2026-05-14",
           "due_time": "09:30",
           "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Shaft Design",
+          "due_date": "2026-05-14",
+          "due_time": "09:30",
+          "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Assignment.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         },
         {
-          "title": "MOW 217 S1 2026: Shaft Design",
-          "due_date": "2026-05-15",
-          "due_time": "09:30",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Shaft Design",
-          "due_date": "2026-05-15",
+          "title": "MOW 217 S1 2026: Detailed Drawing [/15]",
+          "due_date": "2026-05-14",
           "due_time": "09:30",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
@@ -77,6 +77,36 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
+        {
+          "title": "MSD 210 S1 2026: Attendance Week 13",
+          "due_date": "2026-05-14",
+          "due_time": "23:23",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Assignment",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: Attendance Week 12",
+          "due_date": "2026-05-14",
+          "due_time": "23:23",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Assignment",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: Attendance Week 11",
+          "due_date": "2026-05-14",
+          "due_time": "23:23",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Assignment",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
         {
           "title": "MSD 210 S1 2026: Attendance Mark",
           "due_date": "2026-05-14",
@@ -124,36 +154,6 @@
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: RAE29: Forced vibration",
-          "due_date": "2026-05-22",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
-          "due_date": "2026-05-25",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: ST2 Total",
-          "due_date": "2026-06-30",
-          "due_time": "13:29",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Test.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         }
@@ -233,56 +233,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: Detailed Drawing [/15]",
-      "due_date": "2026-05-14",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MSD 210 S1 2026: Attendance Mark",
-      "due_date": "2026-05-14",
-      "due_time": "23:24",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Assignment",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: Attendance Week 10",
-      "due_date": "2026-05-14",
-      "due_time": "22:13",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Assignment",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Detailed Drawing [/15]",
-      "due_date": "2026-05-14",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Shaft Design",
-      "due_date": "2026-05-15",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: Sick Test Eligibility",
       "due_date": "2026-05-15",
       "due_time": "09:17",
@@ -291,16 +241,6 @@
       "label": "GRADEBOOK:Assignment",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Shaft Design",
-      "due_date": "2026-05-15",
-      "due_time": "09:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
       "title": "MPR 213 S1 2026: Problem Set 8",
@@ -323,9 +263,9 @@
       "url": null
     },
     {
-      "title": "MJJ 210: Presentations - Perusals",
-      "due_date": "2026-05-15",
-      "due_time": "12:00",
+      "title": "MJJ 210: Presentation (makeup session)",
+      "due_date": "2026-05-16",
+      "due_time": "10:00",
       "course_id": "MJJ 210 S1 2026",
       "course_name": "MJJ 210 S1 2026",
       "label": "ANNOUNCEMENT",
@@ -333,7 +273,7 @@
       "url": null
     },
     {
-      "title": "MJJ 210: Test 3 Sign-up Deadline",
+      "title": "MJJ 210: Test 3 signup deadline",
       "due_date": "2026-05-17",
       "due_time": "23:59",
       "course_id": "MJJ 210 S1 2026",
@@ -353,6 +293,26 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
+      "title": "MJJ 210: Presentation (makeup session)",
+      "due_date": "2026-05-18",
+      "due_time": "09:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Semester Test 3 Registration Opens",
+      "due_date": "2026-05-19",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
       "due_date": "2026-05-20",
       "due_time": "05:00",
@@ -361,6 +321,16 @@
       "label": "GRADEBOOK:Reading assignments",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "MOW 217: Design Testing and Evaluation (Second Opportunity)",
+      "due_date": "2026-05-20",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE29: Forced vibration",
@@ -373,11 +343,21 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MJJ 210: Test 3",
+      "title": "MJJ 210: Test 3 (optional)",
       "due_date": "2026-05-23",
       "due_time": "08:00",
       "course_id": "MJJ 210 S1 2026",
       "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Semester Test 3",
+      "due_date": "2026-05-23",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
