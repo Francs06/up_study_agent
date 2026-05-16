@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T06:15:39.516476+00:00",
-  "generated_at_human": "16 May 2026 at 06:15 SAST",
-  "focus_today": "**Focus for Today (Saturday, 16 May)**\n\nWTW 256 Semester Test 2 is due **today** \u2014 if you haven't submitted it yet, that's your priority right now. You've also got until tomorrow to request a regrade if needed, so review your answers once you're done.",
-  "total_upcoming_deadlines": 38,
+  "generated_at": "2026-05-16T11:51:06.813487+00:00",
+  "generated_at_human": "16 May 2026 at 11:51 SAST",
+  "focus_today": "**Today's Focus:**\n\nWTW 256 Semester Test 2 is due **today** \u2013 make sure you've submitted it if you haven't already. If you're planning a regrade request, note that the deadline for that is tomorrow (May 17), so review your answers tonight if needed.",
+  "total_upcoming_deadlines": 36,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -37,16 +37,6 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: Sick Test Eligibility",
-          "due_date": "2026-05-15",
-          "due_time": "09:17",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Assignment",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
         {
           "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
           "due_date": "2026-05-18",
@@ -111,6 +101,16 @@
           "title": "MSD 210 S1 2026: ST2 Q3",
           "due_date": "2026-06-30",
           "due_time": "13:29",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: ST2 Q2",
+          "due_date": "2026-06-30",
+          "due_time": "13:28",
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Test.name",
@@ -224,7 +224,17 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_191012_1/outline"
     },
     {
-      "title": "MJJ 210: Presentation (makeup session)",
+      "title": "MJJ 210: Test 3 Sign-up Deadline",
+      "due_date": "2026-05-17",
+      "due_time": "23:59",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MJJ 210: Presentation (make-up session)",
       "due_date": "2026-05-17",
       "due_time": "10:00",
       "course_id": "MJJ 210 S1 2026",
@@ -254,7 +264,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Query Sessions",
+      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
       "due_date": "2026-05-18",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
@@ -264,27 +274,7 @@
       "url": null
     },
     {
-      "title": "MJJ 210: Presentation (makeup session)",
-      "due_date": "2026-05-18",
-      "due_time": "00:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MOW 217: Semester Test 3 Registration Opens",
-      "due_date": "2026-05-18",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MPR213: Semester Test 2 Mark Query Sessions",
+      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
       "due_date": "2026-05-19",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
@@ -294,7 +284,7 @@
       "url": null
     },
     {
-      "title": "MOW 217: Semester Test 3 Registration Closes",
+      "title": "MOW 217: Semester Test 3 Registration Opens",
       "due_date": "2026-05-19",
       "due_time": "08:00",
       "course_id": "MOW 217 S1 2026",
@@ -314,7 +304,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Query Sessions",
+      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
       "due_date": "2026-05-20",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
@@ -324,21 +314,11 @@
       "url": null
     },
     {
-      "title": "MOW 217: Design Testing and Evaluation - Second Opportunity",
+      "title": "MOW 217: Design Testing and Evaluation (Second Opportunity)",
       "due_date": "2026-05-20",
       "due_time": "08:00",
       "course_id": "MOW 217 S1 2026",
       "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Student Survey: Remote and Alternative Work Policy",
-      "due_date": "2026-05-20",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -364,7 +344,7 @@
       "url": null
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Query Sessions",
+      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
       "due_date": "2026-05-21",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
@@ -384,7 +364,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MJJ 210: Presentations - Perusals",
+      "title": "MJJ 210: Presentation Perusals",
       "due_date": "2026-05-22",
       "due_time": "12:00",
       "course_id": "MJJ 210 S1 2026",
@@ -394,7 +374,7 @@
       "url": null
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Query Sessions",
+      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
       "due_date": "2026-05-22",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
@@ -404,7 +384,7 @@
       "url": null
     },
     {
-      "title": "MJJ 210: Test 3 (Optional)",
+      "title": "MJJ 210: Test 3",
       "due_date": "2026-05-23",
       "due_time": "08:00",
       "course_id": "MJJ 210 S1 2026",
