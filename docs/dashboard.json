@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T12:00:04.799296+00:00",
-  "generated_at_human": "17 May 2026 at 12:00 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have one deadline expiring **today (May 17)** \u2014 the WTW 256 regrade request. Handle this first if you're planning to submit one. After that, shift your attention to MSD 210's RAE27 (free vibration theory) which is due tomorrow and will need solid preparation time.",
-  "total_upcoming_deadlines": 35,
+  "generated_at": "2026-05-18T07:55:08.042253+00:00",
+  "generated_at_human": "18 May 2026 at 07:55 SAST",
+  "focus_today": "**Focus for today (Monday, 18 May):**\n\nYou have three deadlines hitting **today**: submit RAE27 for MSD 210, check your WTW 258 Semester Test 2 marks, and submit any regrade request for WTW 256. Get RAE27 done first, then review your test scripts immediately so you know what to contest by tomorrow's WTW 258 deadline.",
+  "total_upcoming_deadlines": 39,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -15,8 +15,8 @@
           "due_time": "21:59",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
           "url": null
         },
         {
@@ -183,8 +183,8 @@
           "due_time": "12:00",
           "course_id": "_189473_1",
           "course_name": "MPR 213 S1 2026",
-          "label": "SU:DUE",
-          "event_type": "SU:DUE",
+          "label": "SU:SU_AVAIL",
+          "event_type": "SU:SU_AVAIL",
           "url": null
         }
       ],
@@ -192,16 +192,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "WTW 256: Semester Test 2 - Regrade Request Deadline",
-      "due_date": "2026-05-17",
-      "due_time": "18:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
     {
       "title": "MSD 210 S1 2026: RAE27: Free vibration theory",
       "due_date": "2026-05-18",
@@ -213,31 +203,51 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MJJ 210: Make-up Presentation",
+      "title": "WTW 258 S1: Semester Test 2 scripts and marks available",
       "due_date": "2026-05-18",
-      "due_time": "10:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
+      "due_time": "12:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
+      "title": "WTW 256: Semester Test 2 Regrade Request Deadline",
       "due_date": "2026-05-18",
-      "due_time": "08:00",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
+      "due_time": "18:00",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
+      "title": "WTW 258 S1: Re-grading requests open",
+      "due_date": "2026-05-19",
+      "due_time": "12:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MPR 213: Query Semester Test 2 marks with lecturers/TAs",
       "due_date": "2026-05-19",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
       "course_name": "MPR 213 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MJJ 210: Presentation (makeup session)",
+      "due_date": "2026-05-19",
+      "due_time": "10:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -253,31 +263,31 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MJJ 210: Make-up Presentation (Alternative)",
+      "title": "WTW 258 S1: Re-grading requests deadline",
       "due_date": "2026-05-20",
-      "due_time": "08:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
+      "due_time": "07:29",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MOW 217: Semester Test 3 Registration Opens",
-      "due_date": "2026-05-20",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
+      "title": "MPR 213: Query Semester Test 2 marks with lecturers/TAs",
       "due_date": "2026-05-20",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
       "course_name": "MPR 213 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: SolidWorks Design Lecture",
+      "due_date": "2026-05-20",
+      "due_time": "07:30",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -288,8 +298,8 @@
       "due_time": "12:00",
       "course_id": "_189473_1",
       "course_name": "MPR 213 S1 2026",
-      "label": "SU:DUE",
-      "event_type": "SU:DUE",
+      "label": "SU:SU_AVAIL",
+      "event_type": "SU:SU_AVAIL",
       "url": null
     },
     {
@@ -303,7 +313,7 @@
       "url": null
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
+      "title": "MPR 213: Query Semester Test 2 marks with lecturers/TAs",
       "due_date": "2026-05-21",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
@@ -323,7 +333,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MJJ 210: Presentations - Perusals",
+      "title": "MJJ 210: Presentation Perusals",
       "due_date": "2026-05-22",
       "due_time": "12:00",
       "course_id": "MJJ 210 S1 2026",
@@ -333,7 +343,7 @@
       "url": null
     },
     {
-      "title": "MPR213: Semester Test 2 Mark Queries - Tutorial Sessions",
+      "title": "MPR 213: Query Semester Test 2 marks with lecturers/TAs",
       "due_date": "2026-05-22",
       "due_time": "08:00",
       "course_id": "MPR 213 S1 2026",
@@ -343,7 +353,27 @@
       "url": null
     },
     {
-      "title": "MJJ 210: Test 3 (Optional)",
+      "title": "MJJ 210: Presentation (makeup session)",
+      "due_date": "2026-05-22",
+      "due_time": "10:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Semester Marks Released",
+      "due_date": "2026-05-22",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MJJ 210: Test 3",
       "due_date": "2026-05-23",
       "due_time": "08:00",
       "course_id": "MJJ 210 S1 2026",
@@ -358,8 +388,8 @@
       "due_time": "21:59",
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
@@ -371,16 +401,6 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217: Design Testing and Evaluation - Second Opportunity",
-      "due_date": "2026-05-24",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
@@ -403,9 +423,29 @@
       "url": null
     },
     {
+      "title": "MOW 217: Design Testing and Evaluation - Second Opportunity",
+      "due_date": "2026-05-25",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Semester Test 3 Registration Opens",
+      "due_date": "2026-05-25",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MOW 217: Semester Test 3",
       "due_date": "2026-05-29",
-      "due_time": "14:00",
+      "due_time": "08:00",
       "course_id": "MOW 217 S1 2026",
       "course_name": "MOW 217 S1 2026",
       "label": "ANNOUNCEMENT",
