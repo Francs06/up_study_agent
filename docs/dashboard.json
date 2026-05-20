@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-20T07:35:33.961403+00:00",
-  "generated_at_human": "20 May 2026 at 07:35 SAST",
-  "focus_today": "**Focus for Today, Franco:**\n\nYou have three things due TODAY (May 20): RAE28 for MSD 210, Tutorial Test 7 for WTW 258, and the sub-house voting deadline. Knock out RAE28 and the tutorial test first\u2014those are course grades. Don't forget to vote before midnight.",
-  "total_upcoming_deadlines": 23,
+  "generated_at": "2026-05-20T13:38:16.290478+00:00",
+  "generated_at_human": "20 May 2026 at 13:38 SAST",
+  "focus_today": "**Focus for today:**\n\nYou've got three things due TODAY (20 May): the MSD 210 RAE28 assignment, WTW 258 Tutorial Test 7, and the ST2 regrading requests. Prioritize finishing RAE28 and the tutorial test\u2014those are hard deadlines you can't move. Handle the regrading request if you've got time, but don't let it push out the other two.",
+  "total_upcoming_deadlines": 25,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -35,8 +35,8 @@
           "due_time": "21:59",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
           "url": null
         },
         {
@@ -204,8 +204,8 @@
           "due_time": "12:00",
           "course_id": "_189473_1",
           "course_name": "MPR 213 S1 2026",
-          "label": "SU:DUE",
-          "event_type": "SU:DUE",
+          "label": "SU:SU_AVAIL",
+          "event_type": "SU:SU_AVAIL",
           "url": null
         },
         {
@@ -244,11 +244,21 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
     },
     {
-      "title": "2026 Sub-House Elections Voting Deadline",
+      "title": "2026 Sub-House Elections Voting Closes",
       "due_date": "2026-05-20",
       "due_time": "23:59",
       "course_id": "_192832_1",
       "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: ST2 Regrading Requests Deadline",
+      "due_date": "2026-05-20",
+      "due_time": "16:59",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -259,8 +269,18 @@
       "due_time": "12:00",
       "course_id": "_189473_1",
       "course_name": "MPR 213 S1 2026",
-      "label": "SU:DUE",
-      "event_type": "SU:DUE",
+      "label": "SU:SU_AVAIL",
+      "event_type": "SU:SU_AVAIL",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Sick Test 2 - Script Re-marking Submission",
+      "due_date": "2026-05-21",
+      "due_time": "10:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -299,8 +319,8 @@
       "due_time": "21:59",
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
