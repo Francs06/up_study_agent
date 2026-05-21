@@ -1,14 +1,74 @@
 {
-  "generated_at": "2026-05-20T13:38:16.290478+00:00",
-  "generated_at_human": "20 May 2026 at 13:38 SAST",
-  "focus_today": "**Focus for today:**\n\nYou've got three things due TODAY (20 May): the MSD 210 RAE28 assignment, WTW 258 Tutorial Test 7, and the ST2 regrading requests. Prioritize finishing RAE28 and the tutorial test\u2014those are hard deadlines you can't move. Handle the regrading request if you've got time, but don't let it push out the other two.",
-  "total_upcoming_deadlines": 25,
+  "generated_at": "2026-05-21T07:41:39.734540+00:00",
+  "generated_at_human": "21 May 2026 at 07:41 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have **multiple MOW 217 deadlines TODAY** (Parts 2, 3, and 4 totaling 55 marks) \u2014 these are your priority. Confirm you've submitted all three parts and the WTW 258 script resubmission. Don't forget the MPR 213 test signup before midnight.",
+  "total_upcoming_deadlines": 27,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
+        {
+          "title": "MOW 217 S1 2026: ST3 Part 2: Shaft Design & Detailed Drawing [10]",
+          "due_date": "2026-05-21",
+          "due_time": "08:40",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: ST3 Part 3: Wheel Part Design and Detailed Drawing [10]",
+          "due_date": "2026-05-21",
+          "due_time": "08:40",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:DUE",
+          "event_type": "UA:DUE",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: ST3 Part 4: Shaft Calculations, Fits, Bearings, Keys and Belts [25]",
+          "due_date": "2026-05-21",
+          "due_time": "08:40",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "TE:DUE",
+          "event_type": "TE:DUE",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: ST3 Part 2: Shaft Design & Detailed Drawing [10]",
+          "due_date": "2026-05-21",
+          "due_time": "08:40",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: ST3 Part 3: Wheel Part Design and Detailed Drawing [10]",
+          "due_date": "2026-05-21",
+          "due_time": "08:40",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: ST3 Part 4: Shaft Calculations, Fits, Bearings, Keys and Belts [25]",
+          "due_date": "2026-05-21",
+          "due_time": "08:40",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
         {
           "title": "MOW 217 S1 2026: Bonus Quiz",
           "due_date": "2026-05-22",
@@ -28,26 +88,6 @@
           "label": "GRADEBOOK:Quiz.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
-          "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
-          "due_date": "2026-05-24",
-          "due_time": "21:59",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
-          "due_date": "2026-05-24",
-          "due_time": "21:59",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         }
       ],
       "new_documents": []
@@ -57,16 +97,6 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
-          "due_date": "2026-05-20",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
         {
           "title": "MSD 210 S1 2026: RAE29: Forced vibration",
           "due_date": "2026-05-22",
@@ -131,6 +161,16 @@
           "title": "MSD 210 S1 2026: ST2 Q1",
           "due_date": "2026-06-30",
           "due_time": "13:27",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: ST1 Total",
+          "due_date": "2026-06-30",
+          "due_time": "05:53",
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Test.name",
@@ -224,43 +264,23 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210 S1 2026: RAE28: Free vibration examples",
-      "due_date": "2026-05-20",
-      "due_time": "05:00",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Reading assignments",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "WTW 258 S1 2026: Tutorial Test 7 [5]",
-      "due_date": "2026-05-20",
-      "due_time": "14:40",
-      "course_id": "_190953_1",
-      "course_name": "WTW 258 S1 2026 \u2014 Calculus",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190953_1/outline"
-    },
-    {
-      "title": "2026 Sub-House Elections Voting Closes",
-      "due_date": "2026-05-20",
-      "due_time": "23:59",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "title": "MOW 217 S1 2026: ST3 Part 2: Shaft Design & Detailed Drawing [10]",
+      "due_date": "2026-05-21",
+      "due_time": "08:40",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
-      "title": "WTW 258: ST2 Regrading Requests Deadline",
-      "due_date": "2026-05-20",
-      "due_time": "16:59",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "title": "MOW 217 S1 2026: ST3 Part 3: Wheel Part Design and Detailed Drawing [10]",
+      "due_date": "2026-05-21",
+      "due_time": "08:40",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
       "url": null
     },
     {
@@ -274,7 +294,47 @@
       "url": null
     },
     {
-      "title": "WTW 258: Sick Test 2 - Script Re-marking Submission",
+      "title": "MOW 217 S1 2026: ST3 Part 4: Shaft Calculations, Fits, Bearings, Keys and Belts [25]",
+      "due_date": "2026-05-21",
+      "due_time": "08:40",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MOW 217 S1 2026: ST3 Part 2: Shaft Design & Detailed Drawing [10]",
+      "due_date": "2026-05-21",
+      "due_time": "08:40",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: ST3 Part 3: Wheel Part Design and Detailed Drawing [10]",
+      "due_date": "2026-05-21",
+      "due_time": "08:40",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MOW 217 S1 2026: ST3 Part 4: Shaft Calculations, Fits, Bearings, Keys and Belts [25]",
+      "due_date": "2026-05-21",
+      "due_time": "08:40",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Test.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "WTW 258 S1: Sick Test 2 - Script Resubmission",
       "due_date": "2026-05-21",
       "due_time": "10:30",
       "course_id": "WTW 258 S1 2026",
