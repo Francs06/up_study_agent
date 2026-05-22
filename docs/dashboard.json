@@ -1,74 +1,14 @@
 {
-  "generated_at": "2026-05-22T07:37:48.726711+00:00",
-  "generated_at_human": "22 May 2026 at 07:37 SAST",
-  "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 21,
+  "generated_at": "2026-05-22T13:32:41.823287+00:00",
+  "generated_at_human": "22 May 2026 at 13:32 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou have two things due TODAY (May 22): the MOW 217 Bonus Quiz and MSD 210's RAE29 on forced vibration. Knock these out first\u2014they're immediate. After that, if your semester project testing is ready to go, get that submitted by Sunday (May 24) to clear that extra credit.",
+  "total_upcoming_deadlines": 24,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: ST3 Part 2: Shaft Design & Detailed Drawing [10]",
-          "due_date": "2026-05-21",
-          "due_time": "08:40",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: ST3 Part 3: Wheel Part Design and Detailed Drawing [10]",
-          "due_date": "2026-05-21",
-          "due_time": "08:40",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: ST3 Part 4: Shaft Calculations, Fits, Bearings, Keys and Belts [25]",
-          "due_date": "2026-05-21",
-          "due_time": "08:40",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "TE:TE_AVAIL",
-          "event_type": "TE:TE_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: ST3 Part 3: Wheel Part Design and Detailed Drawing [10]",
-          "due_date": "2026-05-21",
-          "due_time": "08:40",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
-          "title": "MOW 217 S1 2026: ST3 Part 4: Shaft Calculations, Fits, Bearings, Keys and Belts [25]",
-          "due_date": "2026-05-21",
-          "due_time": "08:40",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
-          "title": "MOW 217 S1 2026: ST3 Part 2: Shaft Design & Detailed Drawing [10]",
-          "due_date": "2026-05-21",
-          "due_time": "08:40",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
         {
           "title": "MOW 217 S1 2026: Bonus Quiz",
           "due_date": "2026-05-22",
@@ -86,6 +26,26 @@
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
           "label": "GRADEBOOK:Quiz.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        },
+        {
+          "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
+          "due_date": "2026-05-24",
+          "due_time": "21:59",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "UA:UA_AVAIL",
+          "event_type": "UA:UA_AVAIL",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
+          "due_date": "2026-05-24",
+          "due_time": "21:59",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Assignment.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
         }
@@ -228,16 +188,6 @@
       "color": "#2952A3",
       "deadlines": [
         {
-          "title": "MPR 213 S1 2026: Signup for semester test 3",
-          "due_date": "2026-05-21",
-          "due_time": "12:00",
-          "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026",
-          "label": "SU:SU_AVAIL",
-          "event_type": "SU:SU_AVAIL",
-          "url": null
-        },
-        {
           "title": "MPR 213 S1 2026: Problem Set 9",
           "due_date": "2026-05-27",
           "due_time": "21:59",
@@ -313,6 +263,26 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
+      "title": "MOW 217: Group sign-up deadline for competition/exhibition",
+      "due_date": "2026-05-26",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Upload machine images/videos",
+      "due_date": "2026-05-26",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MPR 213 S1 2026: Problem Set 9",
       "due_date": "2026-05-27",
       "due_time": "21:59",
@@ -333,7 +303,7 @@
       "url": null
     },
     {
-      "title": "MOW 217: Design Exhibition and Competition (Tentative)",
+      "title": "MOW 217: Design Exhibition and Competition (tentative)",
       "due_date": "2026-05-28",
       "due_time": "07:30",
       "course_id": "MOW 217 S1 2026",
@@ -361,6 +331,16 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
+      "title": "Exam Period",
+      "due_date": "2026-05-30",
+      "due_time": "08:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: ST2 Total",
