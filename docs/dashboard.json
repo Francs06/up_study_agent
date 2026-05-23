@@ -1,34 +1,14 @@
 {
-  "generated_at": "2026-05-23T06:28:32.399445+00:00",
-  "generated_at_human": "23 May 2026 at 06:28 SAST",
-  "focus_today": "**Focus for Today**\n\nYou have two deadlines hitting *today*: MPR 213 Semester Test 3 and MOW 217 Winch system collection. Handle the test first\u2014it's time-sensitive and can't be recovered. After that, make sure the winch system is collected and documented properly so you're set for tomorrow's project submission deadlines.",
-  "total_upcoming_deadlines": 25,
+  "generated_at": "2026-05-23T12:00:18.904179+00:00",
+  "generated_at_human": "23 May 2026 at 12:00 SAST",
+  "focus_today": "**Focus for Today:**\n\nMPR 213 Semester Test 3 is due TODAY\u2014make sure you've submitted it if you haven't already. After that, shift to MOW 217 testing: you need successful test results before you can submit tomorrow's deadline, so prioritize getting that testing done now if it's still in progress.",
+  "total_upcoming_deadlines": 23,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: Bonus Quiz",
-          "due_date": "2026-05-22",
-          "due_time": "07:30",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "TE:TE_AVAIL",
-          "event_type": "TE:TE_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Bonus Quiz",
-          "due_date": "2026-05-22",
-          "due_time": "07:30",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Quiz.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
         {
           "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
           "due_date": "2026-05-24",
@@ -213,16 +193,6 @@
       "url": null
     },
     {
-      "title": "MOW 217: Winch system collection",
-      "due_date": "2026-05-23",
-      "due_time": "09:30",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
       "due_date": "2026-05-24",
       "due_time": "21:59",
@@ -243,26 +213,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MOW 217: Sign-up Deadline - Design Competition & Exhibition",
-      "due_date": "2026-05-24",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MOW 217: Upload Machine Images/Videos Deadline",
-      "due_date": "2026-05-24",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
       "due_date": "2026-05-25",
       "due_time": "05:00",
@@ -273,7 +223,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "WTW 258: Lecture Group 04 - Last lecture",
+      "title": "WTW 258: Lecture Group 04 - Last lecture (Dr Moubandjo)",
       "due_date": "2026-05-25",
       "due_time": "12:30",
       "course_id": "WTW 258 S1 2026",
@@ -313,7 +263,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MOW 217: Semester mark queries session",
+      "title": "MOW 217: Semester mark queries consultation",
       "due_date": "2026-05-27",
       "due_time": "09:30",
       "course_id": "MOW 217 S1 2026",
@@ -323,7 +273,17 @@
       "url": null
     },
     {
-      "title": "MOW 217: Design Exhibition and Competition (Tentative)",
+      "title": "WTW 258: Semester Marks Posted",
+      "due_date": "2026-05-27",
+      "due_time": "16:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Design Exhibition and Competition (tentative)",
       "due_date": "2026-05-28",
       "due_time": "07:30",
       "course_id": "MOW 217 S1 2026",
