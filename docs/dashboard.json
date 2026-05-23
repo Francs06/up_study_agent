@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-22T13:32:41.823287+00:00",
-  "generated_at_human": "22 May 2026 at 13:32 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou have two things due TODAY (May 22): the MOW 217 Bonus Quiz and MSD 210's RAE29 on forced vibration. Knock these out first\u2014they're immediate. After that, if your semester project testing is ready to go, get that submitted by Sunday (May 24) to clear that extra credit.",
-  "total_upcoming_deadlines": 24,
+  "generated_at": "2026-05-23T06:28:32.399445+00:00",
+  "generated_at_human": "23 May 2026 at 06:28 SAST",
+  "focus_today": "**Focus for Today**\n\nYou have two deadlines hitting *today*: MPR 213 Semester Test 3 and MOW 217 Winch system collection. Handle the test first\u2014it's time-sensitive and can't be recovered. After that, make sure the winch system is collected and documented properly so you're set for tomorrow's project submission deadlines.",
+  "total_upcoming_deadlines": 25,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -57,16 +57,6 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: RAE29: Forced vibration",
-          "due_date": "2026-05-22",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
         {
           "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
           "due_date": "2026-05-25",
@@ -131,6 +121,16 @@
           "title": "MSD 210 S1 2026: ST1 Total",
           "due_date": "2026-06-30",
           "due_time": "05:53",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: ST1 Q2",
+          "due_date": "2026-06-30",
+          "due_time": "05:52",
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Test.name",
@@ -203,34 +203,24 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: Bonus Quiz",
-      "due_date": "2026-05-22",
-      "due_time": "07:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
+      "title": "MPR 213: Semester Test 3",
+      "due_date": "2026-05-23",
+      "due_time": "15:30",
+      "course_id": "MPR 213 S1 2026",
+      "course_name": "MPR 213 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MSD 210 S1 2026: RAE29: Forced vibration",
-      "due_date": "2026-05-22",
-      "due_time": "05:00",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Reading assignments",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Bonus Quiz",
-      "due_date": "2026-05-22",
-      "due_time": "07:30",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Quiz.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+      "title": "MOW 217: Winch system collection",
+      "due_date": "2026-05-23",
+      "due_time": "09:30",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
@@ -253,6 +243,26 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
+      "title": "MOW 217: Sign-up Deadline - Design Competition & Exhibition",
+      "due_date": "2026-05-24",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Upload Machine Images/Videos Deadline",
+      "due_date": "2026-05-24",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
       "due_date": "2026-05-25",
       "due_time": "05:00",
@@ -263,21 +273,31 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MOW 217: Group sign-up deadline for competition/exhibition",
-      "due_date": "2026-05-26",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
+      "title": "WTW 258: Lecture Group 04 - Last lecture",
+      "due_date": "2026-05-25",
+      "due_time": "12:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MOW 217: Upload machine images/videos",
+      "title": "WTW 258: Review of ST2 and Sick Test 2 - Deadline",
+      "due_date": "2026-05-25",
+      "due_time": "16:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Semester Marks Correction Deadline",
       "due_date": "2026-05-26",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
+      "due_time": "11:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -293,7 +313,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MOW 217: Semester mark queries consultation",
+      "title": "MOW 217: Semester mark queries session",
       "due_date": "2026-05-27",
       "due_time": "09:30",
       "course_id": "MOW 217 S1 2026",
@@ -303,7 +323,7 @@
       "url": null
     },
     {
-      "title": "MOW 217: Design Exhibition and Competition (tentative)",
+      "title": "MOW 217: Design Exhibition and Competition (Tentative)",
       "due_date": "2026-05-28",
       "due_time": "07:30",
       "course_id": "MOW 217 S1 2026",
@@ -331,16 +351,6 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
-    },
-    {
-      "title": "Exam Period",
-      "due_date": "2026-05-30",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: ST2 Total",
