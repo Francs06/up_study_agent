@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-24T06:54:36.253806+00:00",
-  "generated_at_human": "24 May 2026 at 06:54 SAST",
-  "focus_today": "**Focus for Today (Sunday, 24 May 2026)**\n\nYou have **three deadlines TODAY**: MPR 213 Semester Test 3, MOW 217 winch collection, and MOW 217 Test & Evaluation submission (if testing is done). Prioritize completing the test and getting the winch tested/submitted\u2014don't let procrastination push these to last minute.",
-  "total_upcoming_deadlines": 25,
+  "generated_at": "2026-05-24T12:01:16.719897+00:00",
+  "generated_at_human": "24 May 2026 at 12:01 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have TWO deadlines TODAY (May 24): the MOW 217 Test & Evaluation submission is due, but it's conditional on successful testing\u2014if testing isn't done yet, that's your priority. After that, shift to MJJ 210 and MSD 210 work since their deadlines hit tomorrow (May 25).",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -15,8 +15,8 @@
           "due_time": "21:59",
           "course_id": "_190939_1",
           "course_name": "MOW 217 S1 2026",
-          "label": "UA:UA_AVAIL",
-          "event_type": "UA:UA_AVAIL",
+          "label": "UA:DUE",
+          "event_type": "UA:DUE",
           "url": null
         },
         {
@@ -140,6 +140,26 @@
       "color": "#9EA8B3",
       "deadlines": [
         {
+          "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
+          "due_date": "2026-05-25",
+          "due_time": "06:57",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026",
+          "label": "GB:DUE",
+          "event_type": "GB:DUE",
+          "url": null
+        },
+        {
+          "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
+          "due_date": "2026-05-25",
+          "due_time": "06:57",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        },
+        {
           "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
           "due_date": "2026-05-30",
           "due_time": "21:59",
@@ -188,8 +208,8 @@
       "due_time": "21:59",
       "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
       "url": null
     },
     {
@@ -203,23 +223,13 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "MPR 213: Semester Test 3",
-      "due_date": "2026-05-24",
-      "due_time": "15:30",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MOW 217: Winch system collection",
-      "due_date": "2026-05-24",
-      "due_time": "09:30",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
+      "due_date": "2026-05-25",
+      "due_time": "06:57",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "GB:DUE",
+      "event_type": "GB:DUE",
       "url": null
     },
     {
@@ -233,34 +243,14 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "WTW 258 S1: Lecture Group 04 - Last Lecture",
+      "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
       "due_date": "2026-05-25",
-      "due_time": "12:30",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Review of ST2 and Sick Test 2 - Deadline",
-      "due_date": "2026-05-25",
-      "due_time": "16:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Semester Marks Correction Deadline",
-      "due_date": "2026-05-26",
-      "due_time": "11:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
+      "due_time": "06:57",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
     },
     {
       "title": "MPR 213 S1 2026: Problem Set 9",
@@ -273,7 +263,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "MOW 217: Semester mark queries consultation",
+      "title": "Semester mark queries session",
       "due_date": "2026-05-27",
       "due_time": "09:30",
       "course_id": "MOW 217 S1 2026",
@@ -313,7 +303,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
     },
     {
-      "title": "Exam Period",
+      "title": "Exam Period Begins",
       "due_date": "2026-05-30",
       "due_time": "08:00",
       "course_id": "_192867_1",
