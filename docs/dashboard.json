@@ -1,35 +1,14 @@
 {
-  "generated_at": "2026-05-24T12:01:16.719897+00:00",
-  "generated_at_human": "24 May 2026 at 12:01 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have TWO deadlines TODAY (May 24): the MOW 217 Test & Evaluation submission is due, but it's conditional on successful testing\u2014if testing isn't done yet, that's your priority. After that, shift to MJJ 210 and MSD 210 work since their deadlines hit tomorrow (May 25).",
-  "total_upcoming_deadlines": 22,
+  "generated_at": "2026-05-25T08:11:50.168099+00:00",
+  "generated_at_human": "25 May 2026 at 08:11 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have two deadlines TODAY: the MSD 210 RAE30 vibration assignment and the MJJ 210 semester mark submission. Get these done first thing\u2014no extensions on either. Then pivot to the MJJ 210 Technical Report due in 5 days, since that's your next critical deadline.",
+  "total_upcoming_deadlines": 17,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
-      "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
-          "due_date": "2026-05-24",
-          "due_time": "21:59",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
-          "due_date": "2026-05-24",
-          "due_time": "21:59",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_188765_1": {
@@ -144,16 +123,6 @@
           "due_date": "2026-05-25",
           "due_time": "06:57",
           "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026",
-          "label": "GB:DUE",
-          "event_type": "GB:DUE",
-          "url": null
-        },
-        {
-          "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
-          "due_date": "2026-05-25",
-          "due_time": "06:57",
-          "course_id": "_189590_1",
           "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
           "label": "GRADEBOOK:Assignment.name",
           "event_type": "GRADEBOOK",
@@ -202,36 +171,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
-      "due_date": "2026-05-24",
-      "due_time": "21:59",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
-      "due_date": "2026-05-24",
-      "due_time": "21:59",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
-      "due_date": "2026-05-25",
-      "due_time": "06:57",
-      "course_id": "_189590_1",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "GB:DUE",
-      "event_type": "GB:DUE",
-      "url": null
-    },
     {
       "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
       "due_date": "2026-05-25",
@@ -301,26 +240,6 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
-    },
-    {
-      "title": "Exam Period Begins",
-      "due_date": "2026-05-30",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Exam Period Ends",
-      "due_date": "2026-06-27",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MSD 210 S1 2026: ST2 Total",
