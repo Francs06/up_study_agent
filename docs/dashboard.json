@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T08:11:50.168099+00:00",
-  "generated_at_human": "25 May 2026 at 08:11 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have two deadlines TODAY: the MSD 210 RAE30 vibration assignment and the MJJ 210 semester mark submission. Get these done first thing\u2014no extensions on either. Then pivot to the MJJ 210 Technical Report due in 5 days, since that's your next critical deadline.",
-  "total_upcoming_deadlines": 17,
+  "generated_at": "2026-05-26T07:36:10.734457+00:00",
+  "generated_at_human": "26 May 2026 at 07:36 SAST",
+  "focus_today": "**Focus for Today, Franco:**\n\nYou have two deadlines hitting *right now* \u2014 the MSD 210 Sick Test Script Perusal is due today (26 May), so knock that out immediately if you haven't already. Then shift to MPR 213 Problem Set 9 (due tomorrow) since you've got multiple submissions piling up Wed-Sat.",
+  "total_upcoming_deadlines": 21,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -16,16 +16,6 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
-          "due_date": "2026-05-25",
-          "due_time": "05:00",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Reading assignments",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
         {
           "title": "MSD 210 S1 2026: ST2 Total",
           "due_date": "2026-06-30",
@@ -95,6 +85,16 @@
           "label": "GRADEBOOK:Test.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+        },
+        {
+          "title": "MSD 210 S1 2026: ST1 Q1",
+          "due_date": "2026-06-30",
+          "due_time": "05:52",
+          "course_id": "_188765_1",
+          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
+          "label": "GRADEBOOK:Test.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         }
       ],
       "new_documents": []
@@ -118,16 +118,6 @@
       "full_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
       "color": "#9EA8B3",
       "deadlines": [
-        {
-          "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
-          "due_date": "2026-05-25",
-          "due_time": "06:57",
-          "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
-        },
         {
           "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
           "due_date": "2026-05-30",
@@ -172,24 +162,14 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210 S1 2026: RAE30: Vibration of rigid bodies",
-      "due_date": "2026-05-25",
-      "due_time": "05:00",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Reading assignments",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MJJ 210 S1 2026: Semester Mark (Excluding Final Report & Orals)",
-      "due_date": "2026-05-25",
-      "due_time": "06:57",
-      "course_id": "_189590_1",
-      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+      "title": "MSD 210 Sick Test Script Perusal",
+      "due_date": "2026-05-26",
+      "due_time": "15:30",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MPR 213 S1 2026: Problem Set 9",
@@ -202,11 +182,31 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
     },
     {
-      "title": "Semester mark queries session",
+      "title": "MJJ 210: Final Presentation Day",
+      "due_date": "2026-05-27",
+      "due_time": "12:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Semester mark queries session",
       "due_date": "2026-05-27",
       "due_time": "09:30",
       "course_id": "MOW 217 S1 2026",
       "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210 Sick Test Script Perusal",
+      "due_date": "2026-05-27",
+      "due_time": "12:30",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -240,6 +240,16 @@
       "label": "GRADEBOOK:Assignment.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
+      "title": "Exam Period",
+      "due_date": "2026-05-30",
+      "due_time": "08:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MSD 210 S1 2026: ST2 Total",
@@ -340,6 +350,26 @@
       "label": "GRADEBOOK:Test.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "Winter School Registration Deadline",
+      "due_date": "2026-06-30",
+      "due_time": "08:00",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Mid-year Audits Period",
+      "due_date": "2026-07-04",
+      "due_time": "08:00",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     }
   ]
 }
