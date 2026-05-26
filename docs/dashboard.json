@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-26T07:36:10.734457+00:00",
-  "generated_at_human": "26 May 2026 at 07:36 SAST",
-  "focus_today": "**Focus for Today, Franco:**\n\nYou have two deadlines hitting *right now* \u2014 the MSD 210 Sick Test Script Perusal is due today (26 May), so knock that out immediately if you haven't already. Then shift to MPR 213 Problem Set 9 (due tomorrow) since you've got multiple submissions piling up Wed-Sat.",
-  "total_upcoming_deadlines": 21,
+  "generated_at": "2026-05-26T13:54:44.552214+00:00",
+  "generated_at_human": "26 May 2026 at 13:54 SAST",
+  "focus_today": "**Focus for today: MPR 213 Problem Set 9 is due tomorrow\u2014finish that first. Then shift to MJJ 210 Final Presentation Day (also tomorrow), so prep your slides and run through your presentation once today if you haven't already.**",
+  "total_upcoming_deadlines": 18,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -162,16 +162,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210 Sick Test Script Perusal",
-      "due_date": "2026-05-26",
-      "due_time": "15:30",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MPR 213 S1 2026: Problem Set 9",
       "due_date": "2026-05-27",
       "due_time": "21:59",
@@ -192,16 +182,6 @@
       "url": null
     },
     {
-      "title": "MOW 217: Semester mark queries session",
-      "due_date": "2026-05-27",
-      "due_time": "09:30",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210 Sick Test Script Perusal",
       "due_date": "2026-05-27",
       "due_time": "12:30",
@@ -212,7 +192,17 @@
       "url": null
     },
     {
-      "title": "MOW 217: Design Exhibition and Competition (tentative)",
+      "title": "MOW 217: Semester mark queries consultation",
+      "due_date": "2026-05-28",
+      "due_time": "09:30",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Design Exhibition and Competition",
       "due_date": "2026-05-29",
       "due_time": "07:30",
       "course_id": "MOW 217 S1 2026",
@@ -350,26 +340,6 @@
       "label": "GRADEBOOK:Test.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Winter School Registration Deadline",
-      "due_date": "2026-06-30",
-      "due_time": "08:00",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Mid-year Audits Period",
-      "due_date": "2026-07-04",
-      "due_time": "08:00",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     }
   ]
 }
