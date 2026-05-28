@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27T14:27:45.391288+00:00",
-  "generated_at_human": "27 May 2026 at 14:27 SAST",
-  "focus_today": "**Focus for Today:**\n\nProblem Set 9 for MPR 213 is due **tonight** \u2014 get that submitted immediately if it's not already done. After that, shift your attention to the MJJ 210 Final Presentation happening tomorrow, since you'll want to be prepared and can't make up that deadline.",
-  "total_upcoming_deadlines": 17,
+  "generated_at": "2026-05-28T07:47:46.603597+00:00",
+  "generated_at_human": "28 May 2026 at 07:47 SAST",
+  "focus_today": "**Franco, focus on this TODAY:**\n\nYou have until **midnight tonight** to query your MPR 213 Semester Test 3 mark\u2014don't miss that deadline. After that, prioritize finishing your MJJ 210 Assignment 6 and Capstone Final Technical Report by Saturday (both \"No Late Submission\"), since the exam period kicks off Sunday.",
+  "total_upcoming_deadlines": 19,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -173,31 +173,11 @@
   },
   "all_deadlines": [
     {
-      "title": "MPR 213 S1 2026: Problem Set 9",
-      "due_date": "2026-05-27",
-      "due_time": "21:59",
-      "course_id": "_189473_1",
-      "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
-      "label": "GRADEBOOK:Tutorial Assignment",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
-    },
-    {
       "title": "MPR 213: Semester Test 3 Mark Query Deadline",
       "due_date": "2026-05-28",
       "due_time": "15:30",
       "course_id": "MPR 213 S1 2026",
       "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MJJ 210: Final Presentation Day",
-      "due_date": "2026-05-28",
-      "due_time": "12:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -211,6 +191,16 @@
       "label": "GRADEBOOK:Homework.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "MJJ 210: Final Presentation Day",
+      "due_date": "2026-05-29",
+      "due_time": "12:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     },
     {
       "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
@@ -233,8 +223,28 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
     },
     {
-      "title": "Exam Period",
+      "title": "Exam Period Begins",
       "due_date": "2026-05-30",
+      "due_time": "08:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MPR 213 S1 2026: Final Consultation with Dr Ramatlo",
+      "due_date": "2026-06-01",
+      "due_time": "15:00",
+      "course_id": "MPR 213 S1 2026",
+      "course_name": "MPR 213 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Exam Period Ends",
+      "due_date": "2026-06-27",
       "due_time": "08:00",
       "course_id": "_192867_1",
       "course_name": "_192867_1",
@@ -341,6 +351,16 @@
       "label": "GRADEBOOK:Test.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "Winter School Registration Deadline",
+      "due_date": "2026-06-30",
+      "due_time": "08:00",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     }
   ]
 }
