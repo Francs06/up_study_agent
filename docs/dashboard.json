@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T07:47:46.603597+00:00",
-  "generated_at_human": "28 May 2026 at 07:47 SAST",
-  "focus_today": "**Franco, focus on this TODAY:**\n\nYou have until **midnight tonight** to query your MPR 213 Semester Test 3 mark\u2014don't miss that deadline. After that, prioritize finishing your MJJ 210 Assignment 6 and Capstone Final Technical Report by Saturday (both \"No Late Submission\"), since the exam period kicks off Sunday.",
-  "total_upcoming_deadlines": 19,
+  "generated_at": "2026-05-28T14:38:13.490400+00:00",
+  "generated_at_human": "28 May 2026 at 14:38 SAST",
+  "focus_today": "Franco, you've got **36 hours** to nail two critical submissions: the MJJ 210 Final Presentation (tomorrow) and Assignment 6/Capstone Report (by Saturday). Prioritize finishing your technical reports tonight\u2014no late submissions accepted\u2014then prep your presentation. The MOW 217 testing can wait until after those are locked in.",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -173,16 +173,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MPR 213: Semester Test 3 Mark Query Deadline",
-      "due_date": "2026-05-28",
-      "due_time": "15:30",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MOW 217 S1 2026: Semester Project (Extra Credits): Test & Evaluation (Submit only after successful tesing)",
       "due_date": "2026-05-29",
       "due_time": "21:59",
@@ -223,7 +213,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
     },
     {
-      "title": "Exam Period Begins",
+      "title": "Exam period begins",
       "due_date": "2026-05-30",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -233,7 +223,7 @@
       "url": null
     },
     {
-      "title": "MPR 213 S1 2026: Final Consultation with Dr Ramatlo",
+      "title": "MPR 213: Final consultation with Dr Ramatlo",
       "due_date": "2026-06-01",
       "due_time": "15:00",
       "course_id": "MPR 213 S1 2026",
@@ -243,7 +233,57 @@
       "url": null
     },
     {
-      "title": "Exam Period Ends",
+      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
+      "due_date": "2026-06-01",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Save the Semester Campaign - Groenkloof Campus (Letlotlo Parking)",
+      "due_date": "2026-06-02",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Save the Semester Campaign - Prinshof Campus (Tswelopele Courtyard)",
+      "due_date": "2026-06-03",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Save the Semester Campaign - Onderstepoort Campus",
+      "due_date": "2026-06-04",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
+      "due_date": "2026-06-05",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Exam period ends",
       "due_date": "2026-06-27",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -351,16 +391,6 @@
       "label": "GRADEBOOK:Test.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Winter School Registration Deadline",
-      "due_date": "2026-06-30",
-      "due_time": "08:00",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     }
   ]
 }
