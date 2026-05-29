@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T14:38:13.490400+00:00",
-  "generated_at_human": "28 May 2026 at 14:38 SAST",
-  "focus_today": "Franco, you've got **36 hours** to nail two critical submissions: the MJJ 210 Final Presentation (tomorrow) and Assignment 6/Capstone Report (by Saturday). Prioritize finishing your technical reports tonight\u2014no late submissions accepted\u2014then prep your presentation. The MOW 217 testing can wait until after those are locked in.",
-  "total_upcoming_deadlines": 22,
+  "generated_at": "2026-05-29T07:46:31.188202+00:00",
+  "generated_at_human": "29 May 2026 at 07:46 SAST",
+  "focus_today": "**Focus for Today (Friday, 29 May):**\n\nYou have three critical deadlines **tomorrow (30 May)**: MJJ 210 Assignment 6, the Capstone Final Technical Report, and the Final Presentation Day\u2014plus exams start. Finish the MOW 217 testing today if you haven't already, then prioritize completing both MJJ 210 reports tonight; the presentation is your final push tomorrow.",
+  "total_upcoming_deadlines": 21,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -156,18 +156,7 @@
       "name": "MPR 213",
       "full_name": "MPR 213 S1 2026 \u2014 Programming & IT",
       "color": "#2952A3",
-      "deadlines": [
-        {
-          "title": "MPR 213 S1 2026: Problem Set 9",
-          "due_date": "2026-05-27",
-          "due_time": "21:59",
-          "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
-          "label": "GRADEBOOK:Tutorial Assignment",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     }
   },
@@ -181,16 +170,6 @@
       "label": "GRADEBOOK:Homework.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MJJ 210: Final Presentation Day",
-      "due_date": "2026-05-29",
-      "due_time": "12:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     },
     {
       "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
@@ -213,7 +192,17 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
     },
     {
-      "title": "Exam period begins",
+      "title": "MJJ 210: Final Presentation Day",
+      "due_date": "2026-05-30",
+      "due_time": "12:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Exam Period",
       "due_date": "2026-05-30",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -223,7 +212,7 @@
       "url": null
     },
     {
-      "title": "MPR 213: Final consultation with Dr Ramatlo",
+      "title": "MPR 213: Dr Ramatlo Final Consultation Session",
       "due_date": "2026-06-01",
       "due_time": "15:00",
       "course_id": "MPR 213 S1 2026",
@@ -278,16 +267,6 @@
       "due_time": "17:30",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Exam period ends",
-      "due_date": "2026-06-27",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
