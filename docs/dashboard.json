@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-29T07:46:31.188202+00:00",
-  "generated_at_human": "29 May 2026 at 07:46 SAST",
-  "focus_today": "**Focus for Today (Friday, 29 May):**\n\nYou have three critical deadlines **tomorrow (30 May)**: MJJ 210 Assignment 6, the Capstone Final Technical Report, and the Final Presentation Day\u2014plus exams start. Finish the MOW 217 testing today if you haven't already, then prioritize completing both MJJ 210 reports tonight; the presentation is your final push tomorrow.",
-  "total_upcoming_deadlines": 21,
+  "generated_at": "2026-05-29T14:09:58.864505+00:00",
+  "generated_at_human": "29 May 2026 at 14:09 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have THREE critical deadlines tomorrow (May 30): MJJ 210 Assignment 6, MJJ 210 Capstone Final Report, and your Final Presentation. Tonight is your last chance\u2014prioritize finishing the technical reports and rehearsing your presentation. The MOW 217 project deadline is also today, so confirm if testing is complete and submission is ready.",
+  "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -212,61 +212,11 @@
       "url": null
     },
     {
-      "title": "MPR 213: Dr Ramatlo Final Consultation Session",
+      "title": "MPR 213 S1 2026: Dr Ramatlo Consultation Session",
       "due_date": "2026-06-01",
       "due_time": "15:00",
       "course_id": "MPR 213 S1 2026",
       "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
-      "due_date": "2026-06-01",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Save the Semester Campaign - Groenkloof Campus (Letlotlo Parking)",
-      "due_date": "2026-06-02",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Save the Semester Campaign - Prinshof Campus (Tswelopele Courtyard)",
-      "due_date": "2026-06-03",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Save the Semester Campaign - Onderstepoort Campus",
-      "due_date": "2026-06-04",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
-      "due_date": "2026-06-05",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
