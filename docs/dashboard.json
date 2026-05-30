@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T06:40:42.925852+00:00",
-  "generated_at_human": "30 May 2026 at 06:40 SAST",
-  "focus_today": "**Franco, here's your reality check:**\n\nYou have **two major technical reports due TODAY (May 30)** \u2014 MJJ 210 Assignment 6 and your Capstone Final Report, both with zero late submission tolerance. Get these submitted immediately if they aren't already done.\n\nTomorrow is your MJJ 210 Final Presentation; prioritize prepping for that after submissions are locked in.",
-  "total_upcoming_deadlines": 23,
+  "generated_at": "2026-05-30T12:05:15.577591+00:00",
+  "generated_at_human": "30 May 2026 at 12:05 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have two major technical reports due **today** with no late submissions allowed\u2014Assignment 6 and your Capstone Final Report. Submit both immediately if you haven't already. Tomorrow you present, so tonight prioritize any last-minute slides or talking points.",
+  "total_upcoming_deadlines": 21,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -202,7 +202,17 @@
       "url": null
     },
     {
-      "title": "WTW 258: Dr Moubandjo Consultation",
+      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
+      "due_date": "2026-06-01",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: SM Corrections - Course Coordinator Available",
       "due_date": "2026-06-01",
       "due_time": "10:00",
       "course_id": "WTW 258 S1 2026",
@@ -212,27 +222,7 @@
       "url": null
     },
     {
-      "title": "WTW 258: Dr Van der Merwe Consultation",
-      "due_date": "2026-06-01",
-      "due_time": "13:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: SM related corrections - Coordinator available",
-      "due_date": "2026-06-01",
-      "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 256 S1 2026: Final Exam",
+      "title": "WTW 256: Final Exam",
       "due_date": "2026-06-01",
       "due_time": "11:15",
       "course_id": "WTW 256 S1 2026",
@@ -242,41 +232,41 @@
       "url": null
     },
     {
-      "title": "WTW 258: Dr Yizengaw Consultation",
+      "title": "Save the Semester Campaign - Groenkloof Campus (Letlotlo Parking)",
       "due_date": "2026-06-02",
-      "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "WTW 258: Dr Van der Merwe Consultation",
+      "title": "Save the Semester Campaign - Prinshof Campus (Tswelopele Courtyard)",
       "due_date": "2026-06-03",
-      "due_time": "13:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "WTW 258: Dr Moubandjo & Dr Ramanantoanina Consultation",
+      "title": "Save the Semester Campaign - Onderstepoort Campus",
       "due_date": "2026-06-04",
-      "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "WTW 258: Lecturer Consultation",
+      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
       "due_date": "2026-06-05",
-      "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -380,16 +370,6 @@
       "label": "GRADEBOOK:Test.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "Winter School Registration Deadline",
-      "due_date": "2026-06-30",
-      "due_time": "08:00",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
     }
   ]
 }
