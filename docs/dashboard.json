@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-31T12:11:50.907807+00:00",
-  "generated_at_human": "31 May 2026 at 12:11 SAST",
-  "focus_today": "**Focus for Today (Sunday, 31 May)**\n\nYour MJJ 210 Final Presentation is due **tomorrow** \u2014 that's your priority. Get your slides polished tonight and do a full run-through so you're confident going in. Everything else can wait until after that's done.",
+  "generated_at": "2026-06-01T09:11:28.688403+00:00",
+  "generated_at_human": "01 June 2026 at 09:11 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have two deadlines today: the Save the Semester Campaign at Hatfield Campus (Piazza) and the MJJ 210 Final Presentation tomorrow. Prioritize finishing your presentation slides and rehearsing\u2014that's your grade. Handle the campaign requirement quickly after.",
   "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
@@ -117,28 +117,7 @@
       "name": "MJJ 210",
       "full_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
       "color": "#9EA8B3",
-      "deadlines": [
-        {
-          "title": "MJJ 210 S1 2026: Assignment 6 : Technical Report (No Late Submission)",
-          "due_date": "2026-05-30",
-          "due_time": "21:59",
-          "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
-        },
-        {
-          "title": "MJJ 210 S1 2026: Capstone Assignment : Final Technical Report (No Late Submissions Will be Accepted)",
-          "due_date": "2026-05-30",
-          "due_time": "21:59",
-          "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_189473_1": {
@@ -151,21 +130,21 @@
   },
   "all_deadlines": [
     {
-      "title": "MJJ 210: Final Presentation Day",
-      "due_date": "2026-06-01",
-      "due_time": "12:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
       "due_date": "2026-06-01",
       "due_time": "17:30",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MJJ 210: Final Presentation Day",
+      "due_date": "2026-06-02",
+      "due_time": "12:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
