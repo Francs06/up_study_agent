@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T09:11:28.688403+00:00",
-  "generated_at_human": "01 June 2026 at 09:11 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have two deadlines today: the Save the Semester Campaign at Hatfield Campus (Piazza) and the MJJ 210 Final Presentation tomorrow. Prioritize finishing your presentation slides and rehearsing\u2014that's your grade. Handle the campaign requirement quickly after.",
+  "generated_at": "2026-06-01T16:36:44.789305+00:00",
+  "generated_at_human": "01 June 2026 at 16:36 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have two major deadlines tomorrow: MJJ 210's Final Presentation and the Save the Semester Campaign at Groenkloof. Prioritize finishing your presentation slides and materials today\u2014that's your most immediate academic obligation. If you haven't committed to the Groenkloof campaign yet, confirm your participation now or move on to prep for tomorrow's presentation.",
   "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
@@ -130,16 +130,6 @@
   },
   "all_deadlines": [
     {
-      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
-      "due_date": "2026-06-01",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MJJ 210: Final Presentation Day",
       "due_date": "2026-06-02",
       "due_time": "12:00",
@@ -187,6 +177,16 @@
       "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "EECE Community Project: Study Guide - Deadline: 17 June 2026, 23:59",
+      "due_date": "2026-06-17",
+      "due_time": "21:59",
+      "course_id": "_196669_1",
+      "course_name": "EECE Community Project",
+      "label": "GB:DUE",
+      "event_type": "GB:DUE",
       "url": null
     },
     {
