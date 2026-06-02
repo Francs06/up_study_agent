@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-02T08:20:43.341632+00:00",
-  "generated_at_human": "02 June 2026 at 08:20 SAST",
-  "focus_today": "**Focus for Today:**\n\nThe Save the Semester Campaign at Groenkloof (Letlotlo Parking) is due **today** \u2013 make sure you've completed your part. You also have **MJJ 210's Final Presentation tomorrow**, so use any remaining time today to finalize your slides and run through your presentation once.",
-  "total_upcoming_deadlines": 17,
+  "generated_at": "2026-06-02T14:53:34.169165+00:00",
+  "generated_at_human": "02 June 2026 at 14:53 SAST",
+  "focus_today": "**Focus for Today, Franco:**\n\nThe Save the Semester Campaign at Groenkloof (Letlotlo Parking) is due **today** \u2014 don't miss that deadline. Beyond that, lock in your prep for tomorrow's MJJ 210 Final Presentation and the MPR 213 exam, both due Wednesday.",
+  "total_upcoming_deadlines": 19,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -160,9 +160,9 @@
       "url": null
     },
     {
-      "title": "MPR 213: Final Exam",
+      "title": "MPR 213 S1 2026: Exam Session",
       "due_date": "2026-06-03",
-      "due_time": "07:30",
+      "due_time": "10:30",
       "course_id": "MPR 213 S1 2026",
       "course_name": "MPR 213 S1 2026",
       "label": "ANNOUNCEMENT",
@@ -185,6 +185,26 @@
       "due_time": "17:30",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Exam consultation with Mr. Peenze",
+      "due_date": "2026-06-08",
+      "due_time": "12:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Exam consultation with Prof. Kat",
+      "due_date": "2026-06-09",
+      "due_time": "12:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
