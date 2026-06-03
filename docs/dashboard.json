@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-03T08:47:55.148551+00:00",
-  "generated_at_human": "03 June 2026 at 08:47 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou have TWO deadlines today (Wednesday 03 June): the MPR 213 exam submission and the Save the Semester Campaign at Prinshof. Get the MPR 213 submission done first\u2014that's non-negotiable. Then handle the campaign task before midnight.",
-  "total_upcoming_deadlines": 18,
+  "generated_at": "2026-06-03T15:27:41.319686+00:00",
+  "generated_at_human": "03 June 2026 at 15:27 SAST",
+  "focus_today": "Franco, today is the **final deadline for the Prinshof Campus Save the Semester Campaign** \u2013 make sure you've submitted or completed your part if you're involved. After that, shift focus to your **MJJ 210 Final Presentation tomorrow (Thursday)** \u2013 use today to finalize slides and run through your presentation at least once.",
+  "total_upcoming_deadlines": 17,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -124,32 +124,11 @@
       "name": "MPR 213",
       "full_name": "MPR 213 S1 2026 \u2014 Programming & IT",
       "color": "#2952A3",
-      "deadlines": [
-        {
-          "title": "MPR 213 S1 2026: Exam 2026 submission link",
-          "due_date": "2026-06-03",
-          "due_time": "09:00",
-          "course_id": "_189473_1",
-          "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
-          "label": "GRADEBOOK:Exam.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     }
   },
   "all_deadlines": [
-    {
-      "title": "MPR 213 S1 2026: Exam 2026 submission link",
-      "due_date": "2026-06-03",
-      "due_time": "09:00",
-      "course_id": "_189473_1",
-      "course_name": "MPR 213 S1 2026 \u2014 Programming & IT",
-      "label": "GRADEBOOK:Exam.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_189473_1/outline"
-    },
     {
       "title": "Save the Semester Campaign - Prinshof Campus (Tswelopele Courtyard)",
       "due_date": "2026-06-03",
