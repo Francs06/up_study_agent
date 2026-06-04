@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-03T15:27:41.319686+00:00",
-  "generated_at_human": "03 June 2026 at 15:27 SAST",
-  "focus_today": "Franco, today is the **final deadline for the Prinshof Campus Save the Semester Campaign** \u2013 make sure you've submitted or completed your part if you're involved. After that, shift focus to your **MJJ 210 Final Presentation tomorrow (Thursday)** \u2013 use today to finalize slides and run through your presentation at least once.",
-  "total_upcoming_deadlines": 17,
+  "generated_at": "2026-06-04T08:12:59.116943+00:00",
+  "generated_at_human": "04 June 2026 at 08:12 SAST",
+  "focus_today": "**Focus for Today**\n\nYou have two deadlines hitting TODAY: the Onderstepoort Campus distribution for Save the Semester Campaign and your MJJ 210 Final Presentation tomorrow. Prioritize finishing any prep for that presentation first\u2014it's worth actual marks\u2014then handle the campaign distribution before end of day.",
+  "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,8 +130,8 @@
   },
   "all_deadlines": [
     {
-      "title": "Save the Semester Campaign - Prinshof Campus (Tswelopele Courtyard)",
-      "due_date": "2026-06-03",
+      "title": "Save the Semester Campaign - Onderstepoort Campus distribution",
+      "due_date": "2026-06-04",
       "due_time": "17:30",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
@@ -141,7 +141,7 @@
     },
     {
       "title": "MJJ 210: Final Presentation Day",
-      "due_date": "2026-06-04",
+      "due_date": "2026-06-05",
       "due_time": "12:00",
       "course_id": "MJJ 210 S1 2026",
       "course_name": "MJJ 210 S1 2026",
@@ -150,17 +150,7 @@
       "url": null
     },
     {
-      "title": "Save the Semester Campaign - Onderstepoort Campus",
-      "due_date": "2026-06-04",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
+      "title": "Save the Semester Campaign - Hatfield Campus distribution",
       "due_date": "2026-06-05",
       "due_time": "17:30",
       "course_id": "_195115_1",
