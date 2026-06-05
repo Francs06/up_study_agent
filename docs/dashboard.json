@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-04T13:58:29.061615+00:00",
-  "generated_at_human": "04 June 2026 at 13:58 SAST",
-  "focus_today": "**Focus for Today:**\n\nThe Save the Semester Campaign at Onderstepoort is **due today** \u2014 make sure you've submitted if you haven't already. Tomorrow is your MJJ 210 Final Presentation, so use today to finalize slides and run through your talk at least once.",
-  "total_upcoming_deadlines": 18,
+  "generated_at": "2026-06-05T07:59:41.533374+00:00",
+  "generated_at_human": "05 June 2026 at 07:59 SAST",
+  "focus_today": "**Focus for Today, Franco:**\n\nThe Save the Semester Campaign deadline is **today (06-05)** \u2013 submit your Piazza post now if you haven't already. After that, prioritize booking your MSD 210 exam consultations with Mr. Peenze (due 06-08) and Prof. Kat (due 06-09) before those slots fill up.",
+  "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -16,6 +16,26 @@
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
       "deadlines": [
+        {
+          "title": "MSD 210: Exam consultation with Mr. Peenze",
+          "due_date": "2026-06-08",
+          "due_time": "12:00",
+          "course_id": "_188765_1",
+          "course_name": "_188765_1",
+          "label": "ANNOUNCEMENT",
+          "event_type": "ANNOUNCEMENT",
+          "url": null
+        },
+        {
+          "title": "MSD 210: Exam consultation with Prof. Kat",
+          "due_date": "2026-06-09",
+          "due_time": "12:00",
+          "course_id": "_188765_1",
+          "course_name": "_188765_1",
+          "label": "ANNOUNCEMENT",
+          "event_type": "ANNOUNCEMENT",
+          "url": null
+        },
         {
           "title": "MSD 210 S1 2026: ST2 Total",
           "due_date": "2026-06-30",
@@ -75,26 +95,6 @@
           "label": "GRADEBOOK:Test.name",
           "event_type": "GRADEBOOK",
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: ST1 Q2",
-          "due_date": "2026-06-30",
-          "due_time": "05:52",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: ST1 Q1",
-          "due_date": "2026-06-30",
-          "due_time": "05:52",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         }
       ],
       "new_documents": []
@@ -130,26 +130,6 @@
   },
   "all_deadlines": [
     {
-      "title": "Save the Semester Campaign - Onderstepoort Campus",
-      "due_date": "2026-06-04",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MJJ 210: Final Presentation Day",
-      "due_date": "2026-06-05",
-      "due_time": "12:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "Save the Semester Campaign - Hatfield Campus (Piazza)",
       "due_date": "2026-06-05",
       "due_time": "17:30",
@@ -163,8 +143,8 @@
       "title": "MSD 210: Exam consultation with Mr. Peenze",
       "due_date": "2026-06-08",
       "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
+      "course_id": "_188765_1",
+      "course_name": "_188765_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -173,8 +153,8 @@
       "title": "MSD 210: Exam consultation with Prof. Kat",
       "due_date": "2026-06-09",
       "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
+      "course_id": "_188765_1",
+      "course_name": "_188765_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -190,7 +170,7 @@
       "url": null
     },
     {
-      "title": "SERVICE SETA Bursary Agreement Signing Deadline",
+      "title": "SERVICE SETA Bursary Agreement Signing - Administration Building",
       "due_date": "2026-06-12",
       "due_time": "08:00",
       "course_id": "_195115_1",
@@ -200,11 +180,11 @@
       "url": null
     },
     {
-      "title": "EECE Community Project: Study Guide - Deadline: 17 June 2026, 23:59",
+      "title": "_196669_1: Study Guide - Deadline: 17 June 2026, 23:59",
       "due_date": "2026-06-17",
       "due_time": "21:59",
       "course_id": "_196669_1",
-      "course_name": "EECE Community Project",
+      "course_name": "_196669_1",
       "label": "GB:DUE",
       "event_type": "GB:DUE",
       "url": null
