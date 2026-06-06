@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-06T06:47:16.835210+00:00",
-  "generated_at_human": "06 June 2026 at 06:47 SAST",
-  "focus_today": "**Focus for Today:**\n\nYour WTW 258 exam is **tomorrow (Sunday)** \u2014 this is your priority. Review the exam front page requirements (surname/initials in capitals, student number 1 digit per cell) and practice setting up iterated integrals with proper projections to verify your region descriptions, exactly as the memo emphasized.",
+  "generated_at": "2026-06-06T12:06:12.179585+00:00",
+  "generated_at_human": "06 June 2026 at 12:06 SAST",
+  "focus_today": "**Focus for Today:**\n\nWTW 258 exam is tomorrow\u2014this is your immediate priority. Spend today reviewing past papers and weak topics so you walk in prepared. After that, start prepping for the MSD 210 consultations on Monday and Tuesday by identifying specific concepts you're stuck on.",
   "total_upcoming_deadlines": 17,
   "courses": {
     "_190939_1": {
@@ -111,53 +111,7 @@
       "full_name": "WTW 258 S1 2026 \u2014 Calculus",
       "color": "#F4736A",
       "deadlines": [],
-      "new_documents": [
-        {
-          "filename": "Exam front page",
-          "type": "guidelines",
-          "summary": "Exam front page instructions for WTW 258 S1 2026 detailing how to fill in candidate details and follow exam protocols.",
-          "key_requirements": [
-            "Fill in SURNAME and INITIALS in capital letters only, clearly and neatly within the designated rectangle",
-            "Write student number clearly with 1 digit per cell",
-            "Write exam venue (e.g. THUTO 1-1)"
-          ],
-          "important_notes": [
-            "Use only capital letters for name and initials",
-            "Write clearly and neatly to avoid marking errors",
-            "Ensure all details are within the designated boxes/rectangles",
-            "Know your exam venue before the exam"
-          ]
-        },
-        {
-          "filename": "Note sent on 28/05/26 to all Class reps to share with all students.",
-          "type": "guidelines",
-          "summary": "Guidelines for answering Student Tests (STs) in WTW 258, focusing on proper presentation of solutions, correct mathematical notation, and answering exactly what is asked.",
-          "key_requirements": [
-            "Follow the memo format presented in lectures to show steps toward your answer",
-            "Use projections to verify correct descriptions of regions for iterated integrals",
-            "Answer exactly what the question asks (e.g., use specified order of integration, coordinate system)",
-            "Do not provide sketches unless specifically asked for",
-            "Show boundary equations (polar/cylindrical/spherical) to demonstrate understanding",
-            "Use mathematically correct notation for all integrals and parametrizations",
-            "Simplify integrands and limits of integration",
-            "Show all main steps leading to your answer",
-            "Include page references when work continues on another page",
-            "Define quantities and provide general formulas before using them",
-            "Provide domain for parametrization vectors",
-            "Simplify final answers",
-            "State theorems by name before applying them"
-          ],
-          "important_notes": [
-            "No marks given for sketches not explicitly requested",
-            "Do not change the order of integration unless asked",
-            "Do not use different coordinate systems than specified in the question",
-            "Mathematical errors in notation make answers invalid (e.g., [a,b] with a>b, missing parameters in integrals)",
-            "Read questions carefully - understand distinctions between 'show that' vs 'determine whether'",
-            "Follow front page instructions - many marks lost for non-compliance",
-            "Limits of integration for different variables are related and interdependent"
-          ]
-        }
-      ]
+      "new_documents": []
     },
     "_189590_1": {
       "name": "MJJ 210",
@@ -176,7 +130,7 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 258 S1 2026: Examination",
+      "title": "WTW 258: Examination",
       "due_date": "2026-06-07",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
@@ -216,7 +170,7 @@
       "url": null
     },
     {
-      "title": "SERVICE SETA Bursary Agreement Signing Deadline",
+      "title": "SERVICE SETA Bursary: Sign agreement at Administration Building",
       "due_date": "2026-06-12",
       "due_time": "08:00",
       "course_id": "_195115_1",
@@ -226,7 +180,7 @@
       "url": null
     },
     {
-      "title": "SERVICE SETA Bursary Agreement Signing - Deadline",
+      "title": "SERVICE SETA Bursary Agreement Signing Deadline",
       "due_date": "2026-06-12",
       "due_time": "08:00",
       "course_id": "_195115_1",
