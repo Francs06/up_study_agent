@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-07T12:21:34.876056+00:00",
-  "generated_at_human": "07 June 2026 at 12:21 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou've got WTW 258 and MSD 210 exams tomorrow\u2014that's your priority. Hit the books hard today on both subjects, then make sure you're prepped for those two consultations with Mr. Peenze and Prof. Kat tomorrow to fill any gaps before the actual exams.",
-  "total_upcoming_deadlines": 17,
+  "generated_at": "2026-06-08T08:45:36.028535+00:00",
+  "generated_at_human": "08 June 2026 at 08:45 SAST",
+  "focus_today": "**Focus for today:** You have the WTW 258 exam tomorrow \u2013 that's your priority. Block out time tonight to review, then get solid sleep before the exam. After that's done, handle the SERVICE SETA bursary signing by Friday (06-12).",
+  "total_upcoming_deadlines": 15,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,41 +130,11 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 258: Examination",
-      "due_date": "2026-06-08",
+      "title": "WTW 258 S1 2026: Examination",
+      "due_date": "2026-06-09",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Exam consultation with Mr. Peenze",
-      "due_date": "2026-06-08",
-      "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Review session",
-      "due_date": "2026-06-09",
-      "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Exam consultation with Prof. Kat",
-      "due_date": "2026-06-09",
-      "due_time": "12:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -197,6 +167,16 @@
       "course_name": "EECE Community Project",
       "label": "GB:DUE",
       "event_type": "GB:DUE",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Supplementary/Special Exam",
+      "due_date": "2026-06-26",
+      "due_time": "08:00",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
