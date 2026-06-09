@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T07:37:32.264661+00:00",
-  "generated_at_human": "09 June 2026 at 07:37 SAST",
-  "focus_today": "**Focus for today:** You have 3 days to sign the SERVICE SETA Bursary Agreement\u2014get this done ASAP before you forget. After that, prioritize the EECE Community Project Study Guide due June 17 (8 days away), as it's your next immediate deadline.",
-  "total_upcoming_deadlines": 14,
+  "generated_at": "2026-06-09T13:44:49.175123+00:00",
+  "generated_at_human": "09 June 2026 at 13:44 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got 3 days to sign that SERVICE SETA Bursary agreement at the Administration Building\u2014don't let that slip. After that's handled, lock in time for the EECE Community Project Study Guide since it's due June 17th and you'll need solid prep time before your exams start piling up next week.",
+  "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,7 +130,7 @@
   },
   "all_deadlines": [
     {
-      "title": "SERVICE SETA Bursary Agreement Signing Deadline",
+      "title": "SERVICE SETA Bursary: Sign agreement at Administration Building",
       "due_date": "2026-06-12",
       "due_time": "08:00",
       "course_id": "_195115_1",
@@ -157,6 +157,26 @@
       "course_name": "EECE Community Project",
       "label": "GB:DUE",
       "event_type": "GB:DUE",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Sick Examination",
+      "due_date": "2026-06-24",
+      "due_time": "11:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 S1 2026: Supplementary Examination",
+      "due_date": "2026-06-24",
+      "due_time": "11:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
