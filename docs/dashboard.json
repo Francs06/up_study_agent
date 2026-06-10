@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T08:00:22.062736+00:00",
-  "generated_at_human": "10 June 2026 at 08:00 SAST",
-  "focus_today": "**Focus for today:** Your SERVICE SETA Bursary agreement is due Friday (2 days away) \u2014 head to the Administration Building and get it signed before you forget. After that, lock in time this week for the EECE Community Project study guide due Wednesday next week.",
+  "generated_at": "2026-06-10T14:23:12.798384+00:00",
+  "generated_at_human": "10 June 2026 at 14:23 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got 2 days to sign that SERVICE SETA Bursary agreement at Administration\u2014don't let that slip. Beyond that, tackle the EECE Community Project study guide since it's due next Wednesday and you'll want it done before your exams pile up.",
   "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
@@ -180,7 +180,7 @@
       "url": null
     },
     {
-      "title": "MOW 217: Supplementary/Special Examination",
+      "title": "MOW 217: Supplementary/Special Exam",
       "due_date": "2026-06-26",
       "due_time": "08:00",
       "course_id": "MOW 217 S1 2026",
