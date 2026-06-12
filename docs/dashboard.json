@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-11T14:36:36.953423+00:00",
-  "generated_at_human": "11 June 2026 at 14:36 SAST",
-  "focus_today": "Franco, you have two critical deadlines **tomorrow (Friday, 12 June)**: the SERVICE SETA Bursary Agreement signings\u2014get those done first thing in the morning or you'll lose the funding. After that, shift focus to the EECE Community Project Study Guide due 17 June; that's your next real deadline with actual academic consequences.",
-  "total_upcoming_deadlines": 16,
+  "generated_at": "2026-06-12T14:10:24.654151+00:00",
+  "generated_at_human": "12 June 2026 at 14:10 SAST",
+  "focus_today": "**Focus for today:**\n\nYour EECE Community Project Study Guide is due in 5 days (17 June) \u2014 this is your nearest deadline and needs immediate attention. Get that locked in first, then shift to MSD 210 prep since those ST1 and ST2 components are all due 30 June and will require serious study time.",
+  "total_upcoming_deadlines": 13,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,26 +130,6 @@
   },
   "all_deadlines": [
     {
-      "title": "SERVICE SETA Bursary Agreement Signing Deadline",
-      "due_date": "2026-06-12",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "SERVICE SETA Bursary Agreement Signing Deadline",
-      "due_date": "2026-06-12",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "EECE Community Project: Study Guide - Deadline: 17 June 2026, 23:59",
       "due_date": "2026-06-17",
       "due_time": "21:59",
@@ -170,21 +150,11 @@
       "url": null
     },
     {
-      "title": "WTW 258: Supplementary Examination",
+      "title": "WTW 258 S1 2026: Supplementary Examination",
       "due_date": "2026-06-24",
       "due_time": "11:30",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MOW 217: Supplementary/Special Examination",
-      "due_date": "2026-06-26",
-      "due_time": "08:00",
-      "course_id": "MOW 217 S1 2026",
-      "course_name": "MOW 217 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
