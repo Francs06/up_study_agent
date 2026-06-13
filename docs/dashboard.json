@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T14:10:24.654151+00:00",
-  "generated_at_human": "12 June 2026 at 14:10 SAST",
-  "focus_today": "**Focus for today:**\n\nYour EECE Community Project Study Guide is due in 5 days (17 June) \u2014 this is your nearest deadline and needs immediate attention. Get that locked in first, then shift to MSD 210 prep since those ST1 and ST2 components are all due 30 June and will require serious study time.",
-  "total_upcoming_deadlines": 13,
+  "generated_at": "2026-06-13T07:40:11.317202+00:00",
+  "generated_at_human": "13 June 2026 at 07:40 SAST",
+  "focus_today": "**Focus for Today:**\n\nYour MJJ 210 Technical Report final marks are due **today** \u2014 check if you've submitted everything and confirm receipt with your lecturer. After that, prioritize the EECE Community Project Study Guide, which is your next critical deadline in 4 days.",
+  "total_upcoming_deadlines": 15,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -117,7 +117,18 @@
       "name": "MJJ 210",
       "full_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
       "color": "#9EA8B3",
-      "deadlines": [],
+      "deadlines": [
+        {
+          "title": "MJJ 210 S1 2026: Technical Report : Final Marks",
+          "due_date": "2026-06-13",
+          "due_time": "17:30",
+          "course_id": "_189590_1",
+          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+        }
+      ],
       "new_documents": []
     },
     "_189473_1": {
@@ -129,6 +140,26 @@
     }
   },
   "all_deadlines": [
+    {
+      "title": "MJJ 210 S1 2026: Technical Report : Final Marks",
+      "due_date": "2026-06-13",
+      "due_time": "17:30",
+      "course_id": "_189590_1",
+      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
+    },
+    {
+      "title": "MJJ 210: Lecturer Mark Query Session",
+      "due_date": "2026-06-15",
+      "due_time": "10:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
     {
       "title": "EECE Community Project: Study Guide - Deadline: 17 June 2026, 23:59",
       "due_date": "2026-06-17",
