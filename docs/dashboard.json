@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T08:08:44.027930+00:00",
-  "generated_at_human": "14 June 2026 at 08:08 SAST",
-  "focus_today": "# Focus for Today\n\nYou have **MJJ 210 Mark Query due tomorrow (15 June)** \u2014 this is your most urgent deadline and needs to be handled first thing. After that, shift to the **EECE Community Project Study Guide (due 17 June)** since it's only 3 days away and will require solid preparation time.",
+  "generated_at": "2026-06-14T13:00:03.337291+00:00",
+  "generated_at_human": "14 June 2026 at 13:00 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou need to prepare for the Mark Query Session with Mr Luthuli **tomorrow (15 June)** \u2014 that's your most urgent deadline. After that, shift your attention to the EECE Community Project Study Guide due Wednesday; you've got breathing room until then, but don't leave it for last minute.",
   "total_upcoming_deadlines": 14,
   "courses": {
     "_190939_1": {
@@ -182,7 +182,7 @@
       "url": null
     },
     {
-      "title": "WTW 258 S1 2026: Supplementary Examination",
+      "title": "WTW 258: Supplementary Examination",
       "due_date": "2026-06-24",
       "due_time": "11:30",
       "course_id": "WTW 258 S1 2026",
