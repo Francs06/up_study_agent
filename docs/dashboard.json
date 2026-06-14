@@ -1,34 +1,14 @@
 {
-  "generated_at": "2026-06-13T12:25:30.525289+00:00",
-  "generated_at_human": "13 June 2026 at 12:25 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have three MOW 217 exam components and your MJJ 210 technical report all due **today** \u2014 these are your immediate priority. Knock out whatever parts you haven't submitted yet, then shift to prepping for your mark query session with Mr Luthuli on Monday (June 15).",
-  "total_upcoming_deadlines": 19,
+  "generated_at": "2026-06-14T08:08:44.027930+00:00",
+  "generated_at_human": "14 June 2026 at 08:08 SAST",
+  "focus_today": "# Focus for Today\n\nYou have **MJJ 210 Mark Query due tomorrow (15 June)** \u2014 this is your most urgent deadline and needs to be handled first thing. After that, shift to the **EECE Community Project Study Guide (due 17 June)** since it's only 3 days away and will require solid preparation time.",
+  "total_upcoming_deadlines": 14,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: MOW 217 Exam Part 2: Shaft Design & Detailed Drawing [10]",
-          "due_date": "2026-06-13",
-          "due_time": "13:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: MOW 217 Exam Part 4: Calculations and Selection [25]",
-          "due_date": "2026-06-13",
-          "due_time": "13:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
         {
           "title": "MOW 217 S1 2026: MOW 217 Exam Part 2: Shaft Design & Detailed Drawing [10]",
           "due_date": "2026-06-13",
@@ -172,46 +152,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: MOW 217 Exam Part 2: Shaft Design & Detailed Drawing [10]",
-      "due_date": "2026-06-13",
-      "due_time": "13:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: MOW 217 Exam Part 4: Calculations and Selection [25]",
-      "due_date": "2026-06-13",
-      "due_time": "13:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: MOW 217 Exam Part 2: Shaft Design & Detailed Drawing [10]",
-      "due_date": "2026-06-13",
-      "due_time": "13:20",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MJJ 210 S1 2026: Technical Report : Final Marks",
-      "due_date": "2026-06-13",
-      "due_time": "17:30",
-      "course_id": "_189590_1",
-      "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
-    },
-    {
       "title": "MJJ 210: Mark Query Session with Mr Luthuli",
       "due_date": "2026-06-15",
       "due_time": "10:00",
@@ -245,16 +185,6 @@
       "title": "WTW 258 S1 2026: Supplementary Examination",
       "due_date": "2026-06-24",
       "due_time": "11:30",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Sick Examination",
-      "due_date": "2026-06-27",
-      "due_time": "09:00",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
