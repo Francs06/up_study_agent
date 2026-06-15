@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-15T09:52:04.719357+00:00",
-  "generated_at_human": "15 June 2026 at 09:52 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have 2 days to finish the EECE Community Project Study Guide\u2014that's your closest deadline and it needs to be done by Wednesday night. Knock that out today or tomorrow morning so it's completely off your plate.",
-  "total_upcoming_deadlines": 13,
+  "generated_at": "2026-06-15T16:18:18.433123+00:00",
+  "generated_at_human": "15 June 2026 at 16:18 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got 2 days to submit the EECE Community Project Study Guide\u2014that's your most immediate deadline. Knock that out today or tomorrow morning so it's not hanging over you while you're dealing with all these exam perusal and supplementary exam dates coming up.",
+  "total_upcoming_deadlines": 20,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -137,6 +137,76 @@
       "course_name": "EECE Community Project",
       "label": "GB:DUE",
       "event_type": "GB:DUE",
+      "url": null
+    },
+    {
+      "title": "WTW 256: Final Marks Perusal",
+      "due_date": "2026-06-17",
+      "due_time": "08:00",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD210 Exam Perusal",
+      "due_date": "2026-06-18",
+      "due_time": "13:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MPR 213: Exam Perusal Session",
+      "due_date": "2026-06-18",
+      "due_time": "16:00",
+      "course_id": "MPR 213 S1 2026",
+      "course_name": "MPR 213 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD210 Exam Perusal",
+      "due_date": "2026-06-19",
+      "due_time": "13:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256: Supplementary Exam",
+      "due_date": "2026-06-22",
+      "due_time": "13:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MJJ 210: Lecturer consultation - Mark queries",
+      "due_date": "2026-06-22",
+      "due_time": "10:00",
+      "course_id": "MJJ 210 S1 2026",
+      "course_name": "MJJ 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MPR 213: Supplementary/Aegrotat/Sick & Special Examination",
+      "due_date": "2026-06-23",
+      "due_time": "09:30",
+      "course_id": "MPR 213 S1 2026",
+      "course_name": "MPR 213 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
