@@ -1,25 +1,14 @@
 {
-  "generated_at": "2026-06-14T13:00:03.337291+00:00",
-  "generated_at_human": "14 June 2026 at 13:00 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou need to prepare for the Mark Query Session with Mr Luthuli **tomorrow (15 June)** \u2014 that's your most urgent deadline. After that, shift your attention to the EECE Community Project Study Guide due Wednesday; you've got breathing room until then, but don't leave it for last minute.",
-  "total_upcoming_deadlines": 14,
+  "generated_at": "2026-06-15T09:52:04.719357+00:00",
+  "generated_at_human": "15 June 2026 at 09:52 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have 2 days to finish the EECE Community Project Study Guide\u2014that's your closest deadline and it needs to be done by Wednesday night. Knock that out today or tomorrow morning so it's completely off your plate.",
+  "total_upcoming_deadlines": 13,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
-      "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: MOW 217 Exam Part 2: Shaft Design & Detailed Drawing [10]",
-          "due_date": "2026-06-13",
-          "due_time": "13:20",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_188765_1": {
@@ -128,18 +117,7 @@
       "name": "MJJ 210",
       "full_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
       "color": "#9EA8B3",
-      "deadlines": [
-        {
-          "title": "MJJ 210 S1 2026: Technical Report : Final Marks",
-          "due_date": "2026-06-13",
-          "due_time": "17:30",
-          "course_id": "_189590_1",
-          "course_name": "MJJ 210 S1 2026 \u2014 Professional Communication",
-          "label": "GRADEBOOK:Assignment.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_189590_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_189473_1": {
@@ -151,16 +129,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MJJ 210: Mark Query Session with Mr Luthuli",
-      "due_date": "2026-06-15",
-      "due_time": "10:00",
-      "course_id": "MJJ 210 S1 2026",
-      "course_name": "MJJ 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
     {
       "title": "EECE Community Project: Study Guide - Deadline: 17 June 2026, 23:59",
       "due_date": "2026-06-17",
@@ -182,7 +150,7 @@
       "url": null
     },
     {
-      "title": "WTW 258: Supplementary Examination",
+      "title": "WTW 258 S1 2026: Supplementary Examination",
       "due_date": "2026-06-24",
       "due_time": "11:30",
       "course_id": "WTW 258 S1 2026",
