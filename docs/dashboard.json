@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-17T08:54:14.738985+00:00",
-  "generated_at_human": "17 June 2026 at 08:54 SAST",
-  "focus_today": "**Focus for today (Wednesday, 17 June):**\n\nYour WTW 256 Script Perusal Time is **due today** \u2014 make sure you've attended or confirm the exact deadline with your lecturer if you haven't yet. After that, shift your attention to MSD 210 and MPR 213 exam perusal sessions happening tomorrow and Friday.",
-  "total_upcoming_deadlines": 20,
+  "generated_at": "2026-06-17T14:26:42.356577+00:00",
+  "generated_at_human": "17 June 2026 at 14:26 SAST",
+  "focus_today": "**Focus for today:** You have two exam perusal deadlines tomorrow (MSD210 and MPR 213)\u2014prioritize reviewing those exams tonight so you can submit your queries by end of day Thursday. After that, shift to preparing for your WTW 256 supplementary exam on Monday (June 22).",
+  "total_upcoming_deadlines": 19,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,17 +130,7 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 256 S1 2026: Script Perusal Time",
-      "due_date": "2026-06-17",
-      "due_time": "11:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Exam perusal",
+      "title": "MSD210 Exam perusal",
       "due_date": "2026-06-18",
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
@@ -160,7 +150,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Exam perusal",
+      "title": "MSD210 Exam perusal",
       "due_date": "2026-06-19",
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
