@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T08:30:42.177676+00:00",
-  "generated_at_human": "18 June 2026 at 08:30 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou've got exam perusal sessions due TODAY for MSD 210, MPR 213, and WTW 256\u2014don't miss these. If there are issues with your scripts, this is your chance to flag them before supplementary exams start rolling out tomorrow.",
-  "total_upcoming_deadlines": 20,
+  "generated_at": "2026-06-18T14:10:20.650622+00:00",
+  "generated_at_human": "18 June 2026 at 14:10 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have two perusal deadlines **tomorrow (Friday)** \u2014 MSD 210 exam and WTW 256 script. Prioritize these first thing in the morning before they close. After that, start preparing for the WTW 256 supplementary exam (due Monday) since you'll need the script feedback to study effectively.",
+  "total_upcoming_deadlines": 18,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,41 +130,21 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210: Exam perusal session",
-      "due_date": "2026-06-18",
-      "due_time": "13:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MPR 213: Exam Perusal Session",
-      "due_date": "2026-06-18",
-      "due_time": "16:00",
-      "course_id": "MPR 213 S1 2026",
-      "course_name": "MPR 213 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 256: Exam script perusal time",
-      "due_date": "2026-06-18",
-      "due_time": "11:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Exam perusal session",
+      "title": "MSD 210: Exam perusal",
       "due_date": "2026-06-19",
       "due_time": "13:00",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256: Script Perusal Time",
+      "due_date": "2026-06-19",
+      "due_time": "11:00",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -180,7 +160,7 @@
       "url": null
     },
     {
-      "title": "MJJ 210: Mark Query Session with Mr Luthuli",
+      "title": "MJJ 210: Lecturer consultation - Mark queries",
       "due_date": "2026-06-22",
       "due_time": "10:00",
       "course_id": "MJJ 210 S1 2026",
