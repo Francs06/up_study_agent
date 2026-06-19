@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-19T08:58:44.573042+00:00",
-  "generated_at_human": "19 June 2026 at 08:58 SAST",
-  "focus_today": "**Focus for today:**\n\nYou've got the WTW 256 Exam Script Perusal Time **tomorrow (Saturday)** \u2014 that's your immediate priority. Use today to gather any questions or concerns about your exam performance so you're ready to review it properly tomorrow.",
-  "total_upcoming_deadlines": 21,
+  "generated_at": "2026-06-19T14:13:32.334319+00:00",
+  "generated_at_human": "19 June 2026 at 14:13 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have three deadlines hitting **tomorrow (Saturday)** \u2013 prioritize the WTW 258 exam perusal and regrading requests, plus the WTW 256 exam perusal. These close in ~24 hours, so if you need to review anything or submit requests, do it tonight. Don't let the weekend catch you off guard.",
+  "total_upcoming_deadlines": 27,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,7 +130,27 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 256: Exam Script Perusal Time",
+      "title": "WTW 258: Online Examination Perusal",
+      "due_date": "2026-06-20",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258: Online Examination Perusal & Regrading Requests",
+      "due_date": "2026-06-20",
+      "due_time": "14:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256 S1 2026: Exam Perusal Time",
       "due_date": "2026-06-20",
       "due_time": "11:00",
       "course_id": "WTW 256 S1 2026",
@@ -190,7 +210,7 @@
       "url": null
     },
     {
-      "title": "MPR 213: Supplementary/Aegrotat/Sick & Special Examination",
+      "title": "MPR213: Supplementary/Aegrotat/Sick & Special Examination",
       "due_date": "2026-06-23",
       "due_time": "09:30",
       "course_id": "MPR 213 S1 2026",
@@ -200,7 +220,7 @@
       "url": null
     },
     {
-      "title": "WTW 258: Sick Examination",
+      "title": "WTW 258 S1 2026: Sick Examination",
       "due_date": "2026-06-24",
       "due_time": "11:30",
       "course_id": "WTW 258 S1 2026",
@@ -235,6 +255,16 @@
       "due_time": "11:30",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School: Classes",
+      "due_date": "2026-06-29",
+      "due_time": "08:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -338,6 +368,36 @@
       "label": "GRADEBOOK:Test.name",
       "event_type": "GRADEBOOK",
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
+    },
+    {
+      "title": "WTW 258 Winter School: Registration Deadline",
+      "due_date": "2026-06-30",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School: Classes",
+      "due_date": "2026-07-08",
+      "due_time": "08:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School: Examination",
+      "due_date": "2026-07-11",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
     }
   ]
 }
