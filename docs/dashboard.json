@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T07:43:30.441686+00:00",
-  "generated_at_human": "20 June 2026 at 07:43 SAST",
-  "focus_today": "**Focus for Today (Saturday, 20 June):**\n\nYou have **four deadlines closing TODAY** \u2014 all related to WTW 256 and WTW 258 exam perusal and regrading. Stop what you're doing and submit any regrading requests or exam perusal forms NOW, or you lose them. After that's done, prioritize prepping for the WTW 256 supplementary exam on Monday.",
-  "total_upcoming_deadlines": 25,
+  "generated_at": "2026-06-20T12:26:44.749895+00:00",
+  "generated_at_human": "20 June 2026 at 12:26 SAST",
+  "focus_today": "Franco, you've got two days to prep for WTW 256 (supplementary/sick exams on Monday) and MOW 217's exam perusal\u2014these are your immediate priorities. Lock in study time today for WTW 256 and get your questions ready for that MOW 217 session, because everything else this week builds from how you handle these next 48 hours.",
+  "total_upcoming_deadlines": 22,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,46 +130,6 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 258: Online Examination Perusal & Regrading Requests",
-      "due_date": "2026-06-20",
-      "due_time": "14:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 256 S1 2026: Regrade Request Deadline",
-      "due_date": "2026-06-20",
-      "due_time": "12:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Exam Perusal on Gradescope",
-      "due_date": "2026-06-20",
-      "due_time": "14:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 256: Script Perusal Time",
-      "due_date": "2026-06-20",
-      "due_time": "11:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "WTW 256: Supplementary Exam",
       "due_date": "2026-06-22",
       "due_time": "13:30",
@@ -200,6 +160,16 @@
       "url": null
     },
     {
+      "title": "MOW 217: Exam Perusal Session",
+      "due_date": "2026-06-22",
+      "due_time": "08:30",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MJJ 210: Mark Query Session with Mr Luthuli",
       "due_date": "2026-06-22",
       "due_time": "10:00",
@@ -210,7 +180,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Prof. Kat Consultation (Supplementary Exam Prep)",
+      "title": "MSD 210: Consultation with Prof. Kat",
       "due_date": "2026-06-23",
       "due_time": "15:00",
       "course_id": "MSD 210 S1 2026",
@@ -220,7 +190,7 @@
       "url": null
     },
     {
-      "title": "MPR 213: Supplementary/Aegrotat/Sick & Special Examination",
+      "title": "MPR213: Supplementary/Aegrotat/Sick & Special Examination",
       "due_date": "2026-06-23",
       "due_time": "09:30",
       "course_id": "MPR 213 S1 2026",
@@ -230,7 +200,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Mr. Peenze Consultation (Supplementary Exam Prep)",
+      "title": "MSD 210: Consultation with Mr. Peenze",
       "due_date": "2026-06-24",
       "due_time": "12:00",
       "course_id": "MSD 210 S1 2026",
