@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T12:26:44.749895+00:00",
-  "generated_at_human": "20 June 2026 at 12:26 SAST",
-  "focus_today": "Franco, you've got two days to prep for WTW 256 (supplementary/sick exams on Monday) and MOW 217's exam perusal\u2014these are your immediate priorities. Lock in study time today for WTW 256 and get your questions ready for that MOW 217 session, because everything else this week builds from how you handle these next 48 hours.",
-  "total_upcoming_deadlines": 22,
+  "generated_at": "2026-06-21T08:21:20.151156+00:00",
+  "generated_at_human": "21 June 2026 at 08:21 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have 5 deadlines tomorrow (June 22) \u2014 prioritize contacting your WTW 258 and WTW 256 lecturers first thing Monday morning to confirm exam details and perusal procedures. Use today to review any exam materials or notes you need for these consultations so you're not scrambling last-minute.",
+  "total_upcoming_deadlines": 24,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,6 +130,16 @@
   },
   "all_deadlines": [
     {
+      "title": "WTW 258: Online Examination Perusal",
+      "due_date": "2026-06-22",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "WTW 256: Supplementary Exam",
       "due_date": "2026-06-22",
       "due_time": "13:30",
@@ -170,7 +180,7 @@
       "url": null
     },
     {
-      "title": "MJJ 210: Mark Query Session with Mr Luthuli",
+      "title": "MJJ 210: Lecturer consultation - Mark queries",
       "due_date": "2026-06-22",
       "due_time": "10:00",
       "course_id": "MJJ 210 S1 2026",
@@ -190,7 +200,7 @@
       "url": null
     },
     {
-      "title": "MPR213: Supplementary/Aegrotat/Sick & Special Examination",
+      "title": "MPR 213: Supplementary/Aegrotat/Sick & Special Examination",
       "due_date": "2026-06-23",
       "due_time": "09:30",
       "course_id": "MPR 213 S1 2026",
@@ -210,6 +220,16 @@
       "url": null
     },
     {
+      "title": "WTW 258: Re-examination (Supplementary exam)",
+      "due_date": "2026-06-24",
+      "due_time": "11:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210: Supplementary and Special Exam",
       "due_date": "2026-06-25",
       "due_time": "11:30",
@@ -220,7 +240,7 @@
       "url": null
     },
     {
-      "title": "WTW 258 Winter School: Classes",
+      "title": "WTW 258 Winter School - Classes",
       "due_date": "2026-06-29",
       "due_time": "08:30",
       "course_id": "WTW 258 S1 2026",
@@ -330,7 +350,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "WTW 258 Winter School: Registration Deadline",
+      "title": "WTW 258 Winter School - Registration Deadline",
       "due_date": "2026-06-30",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
@@ -340,7 +360,7 @@
       "url": null
     },
     {
-      "title": "WTW 258 Winter School: Examination",
+      "title": "WTW 258 Winter School - Examination",
       "due_date": "2026-07-11",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
