@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T13:44:14.670894+00:00",
-  "generated_at_human": "23 June 2026 at 13:44 SAST",
-  "focus_today": "**Focus for Today, Franco:**\n\nYou have **four things due tomorrow (24 June)** \u2013 prioritize the MSD 210 consultation with Mr. Peenze and the supplementary exam consultation session first, since those are with people who can directly help you. Knock out the WTW 256 script perusal today if possible so it's not competing with tomorrow's deadlines.",
-  "total_upcoming_deadlines": 19,
+  "generated_at": "2026-06-24T07:32:47.635730+00:00",
+  "generated_at_human": "24 June 2026 at 07:32 SAST",
+  "focus_today": "Franco, you have **three deadlines expiring TODAY** (24 June): submit your WTW 256 regrade requests, meet with Prof Inglis for MSD 210, and handle any WTW 258 exam arrangements. Knock these out now\u2014don't let them slip into tomorrow.",
+  "total_upcoming_deadlines": 21,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -130,19 +130,19 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "title": "WTW 256: Regrade requests deadline",
       "due_date": "2026-06-24",
-      "due_time": "08:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
+      "due_time": "12:00",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "MSD 210: Consultation with Mr. Peenze",
+      "title": "MSD 210: Consultation with Prof Helen Inglis",
       "due_date": "2026-06-24",
-      "due_time": "12:00",
+      "due_time": "14:00",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
@@ -170,16 +170,6 @@
       "url": null
     },
     {
-      "title": "WTW 256: Script Perusal Time",
-      "due_date": "2026-06-24",
-      "due_time": "11:00",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210: Supplementary and Special Exam",
       "due_date": "2026-06-25",
       "due_time": "11:30",
@@ -190,7 +180,27 @@
       "url": null
     },
     {
-      "title": "WTW 258: Winter School Classes",
+      "title": "WTW 256 S1 2026: Exam Perusal Time",
+      "due_date": "2026-06-25",
+      "due_time": "11:00",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MOW 217: Supplementary Exam",
+      "due_date": "2026-06-26",
+      "due_time": "13:30",
+      "course_id": "MOW 217 S1 2026",
+      "course_name": "MOW 217 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School - Classes",
       "due_date": "2026-06-29",
       "due_time": "08:30",
       "course_id": "WTW 258 S1 2026",
@@ -300,7 +310,17 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "WTW 258: Winter School Registration Deadline",
+      "title": "MSD 210: Consultation Session",
+      "due_date": "2026-06-30",
+      "due_time": "08:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School - Registration Deadline",
       "due_date": "2026-06-30",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
@@ -310,11 +330,11 @@
       "url": null
     },
     {
-      "title": "WTW 258: Winter School Examination",
-      "due_date": "2026-07-11",
-      "due_time": "08:30",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
+      "title": "MSD 210: Consultation Session",
+      "due_date": "2026-07-01",
+      "due_time": "08:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
