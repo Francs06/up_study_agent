@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T13:15:52.568922+00:00",
-  "generated_at_human": "25 June 2026 at 13:15 SAST",
-  "focus_today": "**Focus for today:** You've got three exam perusals closing tomorrow (MOW 217, WTW 258, MPR 213, WTW 256)\u2014review those scripts now while feedback is fresh. Start prepping for WTW 258 Winter School (starts Monday) and lock down your MSD 210 ST2 answers before the June 30 deadline.",
-  "total_upcoming_deadlines": 16,
+  "generated_at": "2026-06-26T07:42:47.013387+00:00",
+  "generated_at_human": "26 June 2026 at 07:42 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou have **three exam perusal deadlines TODAY** (MOW 217, MPR 213, WTW 256)\u2014handle these immediately before they close. Then pivot to **MSD 210 ST2 questions**, which are due tomorrow and will take significant time to work through properly.",
+  "total_upcoming_deadlines": 19,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -140,17 +140,7 @@
       "url": null
     },
     {
-      "title": "WTW 258 S1 2026: Online Examination Perusal",
-      "due_date": "2026-06-26",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MPR 213: Supplementary/Aegrotat/Sick & Special Exam Perusal",
+      "title": "MPR 213: Supplementary/Aegrotat/Sick Exam Results Perusal",
       "due_date": "2026-06-26",
       "due_time": "11:00",
       "course_id": "MPR 213 S1 2026",
@@ -160,7 +150,7 @@
       "url": null
     },
     {
-      "title": "WTW 256: Script Perusal Time",
+      "title": "WTW 256: Exam Script Perusal",
       "due_date": "2026-06-26",
       "due_time": "11:00",
       "course_id": "WTW 256 S1 2026",
@@ -170,7 +160,17 @@
       "url": null
     },
     {
-      "title": "WTW 258 Winter School Classes",
+      "title": "WTW 258: Online Examination Perusal",
+      "due_date": "2026-06-27",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School: Classes",
       "due_date": "2026-06-29",
       "due_time": "08:30",
       "course_id": "WTW 258 S1 2026",
@@ -280,7 +280,37 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "WTW 258 Winter School Examination",
+      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "due_date": "2026-06-30",
+      "due_time": "08:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School: Registration Deadline",
+      "due_date": "2026-06-30",
+      "due_time": "08:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "due_date": "2026-07-01",
+      "due_time": "08:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School: Examination",
       "due_date": "2026-07-11",
       "due_time": "08:30",
       "course_id": "WTW 258 S1 2026",
