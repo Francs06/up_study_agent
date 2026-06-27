@@ -1,55 +1,14 @@
 {
-  "generated_at": "2026-06-26T13:11:35.856196+00:00",
-  "generated_at_human": "26 June 2026 at 13:11 SAST",
-  "focus_today": "**Focus for today:**\n\nYou have MOW 217 Part 2 and Part 3 due **today (26 June)** \u2014 these are your immediate priority and can't wait. Confirm both are submitted before end of day, then shift to MSD 210 ST2 questions which are due tomorrow (30 June) and will need serious prep time.",
-  "total_upcoming_deadlines": 20,
+  "generated_at": "2026-06-27T12:09:09.787251+00:00",
+  "generated_at_human": "27 June 2026 at 12:09 SAST",
+  "focus_today": "Franco, you've got 3 days to prep for the WTW 258 exam perusal (due tomorrow), but your real priority is MSD 210 \u2014 you have 10 submissions all due Tuesday the 30th. Start with the MSD 210 questions today so you're not scrambling at the last minute.",
+  "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
-      "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: Part 2: Calculation and Selection [12.5]",
-          "due_date": "2026-06-26",
-          "due_time": "13:10",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "TE:TE_AVAIL",
-          "event_type": "TE:TE_AVAIL",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Part 3: Part Design and Manufacturing Drawing [7.5]",
-          "due_date": "2026-06-26",
-          "due_time": "13:10",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "UA:DUE",
-          "event_type": "UA:DUE",
-          "url": null
-        },
-        {
-          "title": "MOW 217 S1 2026: Part 2: Calculation and Selection [12.5]",
-          "due_date": "2026-06-26",
-          "due_time": "13:10",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Exam.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        },
-        {
-          "title": "MOW 217 S1 2026: Part 3: Part Design and Manufacturing Drawing [7.5]",
-          "due_date": "2026-06-26",
-          "due_time": "13:10",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-          "label": "GRADEBOOK:Exam.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_188765_1": {
@@ -171,48 +130,8 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: Part 2: Calculation and Selection [12.5]",
-      "due_date": "2026-06-26",
-      "due_time": "13:10",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Part 3: Part Design and Manufacturing Drawing [7.5]",
-      "due_date": "2026-06-26",
-      "due_time": "13:10",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
-      "title": "MOW 217 S1 2026: Part 2: Calculation and Selection [12.5]",
-      "due_date": "2026-06-26",
-      "due_time": "13:10",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Exam.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Part 3: Part Design and Manufacturing Drawing [7.5]",
-      "due_date": "2026-06-26",
-      "due_time": "13:10",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Exam.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
       "title": "WTW 258: Online Examination Perusal",
-      "due_date": "2026-06-27",
+      "due_date": "2026-06-28",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
@@ -331,7 +250,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "title": "MSD 210: Consultation Session",
       "due_date": "2026-06-30",
       "due_time": "08:00",
       "course_id": "MSD 210 S1 2026",
@@ -341,21 +260,21 @@
       "url": null
     },
     {
-      "title": "WTW 258 Winter School: Registration Deadline",
-      "due_date": "2026-06-30",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "title": "MSD 210: Consultation Session",
       "due_date": "2026-07-01",
       "due_time": "08:00",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School: Classes",
+      "due_date": "2026-07-08",
+      "due_time": "08:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
