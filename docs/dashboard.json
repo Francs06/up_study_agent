@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T07:43:54.925187+00:00",
-  "generated_at_human": "28 June 2026 at 07:43 SAST",
-  "focus_today": "Franco, you've got **WTW 258 perusal and winter school due tomorrow** \u2014 knock those out today since they're closest. After that, shift full focus to **MSD 210 ST1 and ST2** (all questions and totals due **tomorrow by end of day**) \u2014 these are your priority since there are 10 submissions stacked for one subject.",
-  "total_upcoming_deadlines": 16,
+  "generated_at": "2026-06-28T12:16:36.184210+00:00",
+  "generated_at_human": "28 June 2026 at 12:16 SAST",
+  "focus_today": "Franco, you've got two days to finish WTW 258 (perusal + winter school classes) and then MSD 210 hits hard on Tuesday with 10 different submissions due. Start WTW 258 today so it's locked down by tomorrow\u2014then you can focus fully on MSD 210 without scrambling Monday night.",
+  "total_upcoming_deadlines": 17,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -250,7 +250,7 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
-      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "title": "MSD 210: Consultation Session",
       "due_date": "2026-06-30",
       "due_time": "08:00",
       "course_id": "MSD 210 S1 2026",
@@ -270,11 +270,21 @@
       "url": null
     },
     {
-      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "title": "MSD 210: Consultation Session",
       "due_date": "2026-07-01",
       "due_time": "08:00",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 258 Winter School - Classes",
+      "due_date": "2026-07-08",
+      "due_time": "08:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
