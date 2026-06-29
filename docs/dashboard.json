@@ -1,14 +1,35 @@
 {
-  "generated_at": "2026-06-29T08:50:37.486434+00:00",
-  "generated_at_human": "29 June 2026 at 08:50 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou have TWO critical deadlines tomorrow (June 30): all those MSD 210 submissions (ST1 and ST2 questions). Those need to be your priority right now\u2014get them done today if possible.\n\nAlso finish the MOW 217 exam perusal today since it's due *today* (June 29).",
-  "total_upcoming_deadlines": 19,
+  "generated_at": "2026-06-29T14:51:50.765998+00:00",
+  "generated_at_human": "29 June 2026 at 14:51 SAST",
+  "focus_today": "Franco, you've got exactly one day to submit all your MSD 210 exam marks and the MOW 217 supplementary exam mark\u2014that's 10 deadlines hitting tomorrow. Focus entirely on getting those grades entered into the system today; nothing else matters until those are done.",
+  "total_upcoming_deadlines": 20,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
-      "deadlines": [],
+      "deadlines": [
+        {
+          "title": "MOW 217 S1 2026: Supp Exam Mark",
+          "due_date": "2026-06-30",
+          "due_time": "10:16",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026",
+          "label": "GB:DUE",
+          "event_type": "GB:DUE",
+          "url": null
+        },
+        {
+          "title": "MOW 217 S1 2026: Supp Exam Mark",
+          "due_date": "2026-06-30",
+          "due_time": "10:16",
+          "course_id": "_190939_1",
+          "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+          "label": "GRADEBOOK:Assignment.name",
+          "event_type": "GRADEBOOK",
+          "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+        }
+      ],
       "new_documents": []
     },
     "_188765_1": {
@@ -110,31 +131,8 @@
       "name": "WTW 258",
       "full_name": "WTW 258 S1 2026 \u2014 Calculus",
       "color": "#F4736A",
-      "deadlines": [
-        {
-          "title": "Monday 29 June: Tutorial worksheet due - Complete problems 2, 3(e), 4(b), 5(d), 6(c), 7(b), 7(c), 8(a), 9(b), 9(c), 10(c), 11(b), 11(d), 12",
-          "due_date": "2026-07-08",
-          "due_time": null,
-          "course_id": "_190953_1",
-          "course_name": "WTW 258 S1 2026 \u2014 Calculus",
-          "label": "From document",
-          "event_type": "DOCUMENT"
-        }
-      ],
-      "new_documents": [
-        {
-          "filename": "Monday 29 June",
-          "type": "tutorial_info",
-          "summary": "Tutorial worksheet for Monday 08 July with specific practice problems from learning units 2.1 and 2.2.",
-          "key_requirements": [
-            "Complete problems: 2, 3(e), 4(b), 5(d), 6(c), 7(b), 7(c), 8(a), 9(b), 9(c), 10(c), 11(b), 11(d), 12",
-            "Review learning units 2.1 and 2.2 from provided PDF"
-          ],
-          "important_notes": [
-            "Only specific problem parts are assigned - ensure you complete exactly the listed questions"
-          ]
-        }
-      ]
+      "deadlines": [],
+      "new_documents": []
     },
     "_189590_1": {
       "name": "MJJ 210",
@@ -153,13 +151,13 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217: Supplementary Exam Perusal",
-      "due_date": "2026-06-29",
-      "due_time": "15:30",
-      "course_id": "MOW 217 S1 2026",
+      "title": "MOW 217 S1 2026: Supp Exam Mark",
+      "due_date": "2026-06-30",
+      "due_time": "10:16",
+      "course_id": "_190939_1",
       "course_name": "MOW 217 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "label": "GB:DUE",
+      "event_type": "GB:DUE",
       "url": null
     },
     {
@@ -263,6 +261,26 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
     },
     {
+      "title": "MOW 217 S1 2026: Supp Exam Mark",
+      "due_date": "2026-06-30",
+      "due_time": "10:16",
+      "course_id": "_190939_1",
+      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
+      "label": "GRADEBOOK:Assignment.name",
+      "event_type": "GRADEBOOK",
+      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
+    },
+    {
+      "title": "WTW 256: Winter School - Tuesday Lecture (Theme 2, Online)",
+      "due_date": "2026-06-30",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "WTW 258: Online Examination Perusal",
       "due_date": "2026-06-30",
       "due_time": "08:00",
@@ -273,7 +291,7 @@
       "url": null
     },
     {
-      "title": "WTW 258 Winter School - Registration Deadline",
+      "title": "WTW 258 Winter School: Registration Deadline",
       "due_date": "2026-06-30",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
@@ -283,7 +301,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Consultation session",
+      "title": "MSD 210: Consultation Session",
       "due_date": "2026-07-01",
       "due_time": "08:00",
       "course_id": "MSD 210 S1 2026",
@@ -293,7 +311,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Consultation session",
+      "title": "MSD 210: Consultation Session",
       "due_date": "2026-07-02",
       "due_time": "08:00",
       "course_id": "MSD 210 S1 2026",
@@ -303,16 +321,7 @@
       "url": null
     },
     {
-      "title": "Monday 29 June: Tutorial worksheet due - Complete problems 2, 3(e), 4(b), 5(d), 6(c), 7(b), 7(c), 8(a), 9(b), 9(c), 10(c), 11(b), 11(d), 12",
-      "due_date": "2026-07-08",
-      "due_time": null,
-      "course_id": "_190953_1",
-      "course_name": "WTW 258 S1 2026 \u2014 Calculus",
-      "label": "From document",
-      "event_type": "DOCUMENT"
-    },
-    {
-      "title": "WTW 258 Winter School - Examination",
+      "title": "WTW 258 Winter School: Examination",
       "due_date": "2026-07-11",
       "due_time": "08:00",
       "course_id": "WTW 258 S1 2026",
@@ -322,7 +331,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Supplementary and Special Exam Scripts Perusal",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -332,7 +341,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Supplementary and Special Exam Scripts Perusal",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
