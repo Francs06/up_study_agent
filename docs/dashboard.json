@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29T14:51:50.765998+00:00",
-  "generated_at_human": "29 June 2026 at 14:51 SAST",
-  "focus_today": "Franco, you've got exactly one day to submit all your MSD 210 exam marks and the MOW 217 supplementary exam mark\u2014that's 10 deadlines hitting tomorrow. Focus entirely on getting those grades entered into the system today; nothing else matters until those are done.",
-  "total_upcoming_deadlines": 20,
+  "generated_at": "2026-06-30T07:42:35.326371+00:00",
+  "generated_at_human": "30 June 2026 at 07:42 SAST",
+  "focus_today": "Franco, you have multiple MSD 210 exam components due **today** (ST1 and ST2 questions plus totals) along with your MOW 217 supplementary exam mark. These are your priority right now\u2014get these submissions in before end of day. No time to waste.",
+  "total_upcoming_deadlines": 19,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -271,19 +271,9 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "WTW 256: Winter School - Tuesday Lecture (Theme 2, Online)",
+      "title": "WTW 258 S1: A1-WS Submission",
       "due_date": "2026-06-30",
-      "due_time": "12:30",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Online Examination Perusal",
-      "due_date": "2026-06-30",
-      "due_time": "08:00",
+      "due_time": "09:45",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
@@ -291,9 +281,9 @@
       "url": null
     },
     {
-      "title": "WTW 258 Winter School: Registration Deadline",
+      "title": "WTW 258: Extra Problems Session (Day 2)",
       "due_date": "2026-06-30",
-      "due_time": "08:00",
+      "due_time": "10:00",
       "course_id": "WTW 258 S1 2026",
       "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
@@ -311,6 +301,16 @@
       "url": null
     },
     {
+      "title": "WTW 258: Perusal Supplementary/Sick Examination",
+      "due_date": "2026-07-01",
+      "due_time": "13:00",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210: Consultation Session",
       "due_date": "2026-07-02",
       "due_time": "08:00",
@@ -321,17 +321,7 @@
       "url": null
     },
     {
-      "title": "WTW 258 Winter School: Examination",
-      "due_date": "2026-07-11",
-      "due_time": "08:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts (Slot 1)",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -341,7 +331,7 @@
       "url": null
     },
     {
-      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts (Slot 2)",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
