@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-06-30T07:42:35.326371+00:00",
-  "generated_at_human": "30 June 2026 at 07:42 SAST",
-  "focus_today": "Franco, you have multiple MSD 210 exam components due **today** (ST1 and ST2 questions plus totals) along with your MOW 217 supplementary exam mark. These are your priority right now\u2014get these submissions in before end of day. No time to waste.",
-  "total_upcoming_deadlines": 19,
+  "generated_at": "2026-06-30T13:09:55.763965+00:00",
+  "generated_at_human": "30 June 2026 at 13:09 SAST",
+  "focus_today": "Franco, you have multiple MSD 210 submissions due **today** (ST1 and ST2 components). Focus on completing and submitting all these items before the deadline ends\u2014this is your priority right now, nothing else.",
+  "total_upcoming_deadlines": 17,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
       "full_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
       "color": "#F5C518",
       "deadlines": [
-        {
-          "title": "MOW 217 S1 2026: Supp Exam Mark",
-          "due_date": "2026-06-30",
-          "due_time": "10:16",
-          "course_id": "_190939_1",
-          "course_name": "MOW 217 S1 2026",
-          "label": "GB:DUE",
-          "event_type": "GB:DUE",
-          "url": null
-        },
         {
           "title": "MOW 217 S1 2026: Supp Exam Mark",
           "due_date": "2026-06-30",
@@ -151,16 +141,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 217 S1 2026: Supp Exam Mark",
-      "due_date": "2026-06-30",
-      "due_time": "10:16",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026",
-      "label": "GB:DUE",
-      "event_type": "GB:DUE",
-      "url": null
-    },
-    {
       "title": "MSD 210 S1 2026: ST2 Total",
       "due_date": "2026-06-30",
       "due_time": "13:29",
@@ -271,26 +251,6 @@
       "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
     },
     {
-      "title": "WTW 258 S1: A1-WS Submission",
-      "due_date": "2026-06-30",
-      "due_time": "09:45",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 258: Extra Problems Session (Day 2)",
-      "due_date": "2026-06-30",
-      "due_time": "10:00",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MSD 210: Consultation Session",
       "due_date": "2026-07-01",
       "due_time": "08:00",
@@ -301,7 +261,7 @@
       "url": null
     },
     {
-      "title": "WTW 258: Perusal Supplementary/Sick Examination",
+      "title": "WTW 258: Perusal of Supplementary/Sick Examination",
       "due_date": "2026-07-01",
       "due_time": "13:00",
       "course_id": "WTW 258 S1 2026",
@@ -321,7 +281,7 @@
       "url": null
     },
     {
-      "title": "MSD210: Perusal of Supplementary and Special Exam scripts (Slot 1)",
+      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -331,11 +291,21 @@
       "url": null
     },
     {
-      "title": "MSD210: Perusal of Supplementary and Special Exam scripts (Slot 2)",
+      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "EBIT House Executive Committee nominations close",
+      "due_date": "2026-07-23",
+      "due_time": "08:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
