@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T13:09:55.763965+00:00",
-  "generated_at_human": "30 June 2026 at 13:09 SAST",
-  "focus_today": "Franco, you have multiple MSD 210 submissions due **today** (ST1 and ST2 components). Focus on completing and submitting all these items before the deadline ends\u2014this is your priority right now, nothing else.",
-  "total_upcoming_deadlines": 17,
+  "generated_at": "2026-07-01T08:03:17.396284+00:00",
+  "generated_at_human": "01 July 2026 at 08:03 SAST",
+  "focus_today": "Franco, the WTW 258 supplementary/sick exam perusal deadline is **today** \u2014 check your results immediately if you haven't already. After that, lock in your WTW 256 winter school prep since the Monday lecture is in 5 days.",
+  "total_upcoming_deadlines": 8,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -78,29 +78,9 @@
           "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
         },
         {
-          "title": "MSD 210 S1 2026: ST1 Total",
+          "title": "MSD 210 S1 2026: ST1 Q4",
           "due_date": "2026-06-30",
-          "due_time": "05:53",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: ST1 Q2",
-          "due_date": "2026-06-30",
-          "due_time": "05:52",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        },
-        {
-          "title": "MSD 210 S1 2026: ST1 Q1",
-          "due_date": "2026-06-30",
-          "due_time": "05:52",
+          "due_time": "08:22",
           "course_id": "_188765_1",
           "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
           "label": "GRADEBOOK:Test.name",
@@ -141,126 +121,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210 S1 2026: ST2 Total",
-      "due_date": "2026-06-30",
-      "due_time": "13:29",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST2 Q4",
-      "due_date": "2026-06-30",
-      "due_time": "18:53",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST2 Q3",
-      "due_date": "2026-06-30",
-      "due_time": "13:29",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST2 Q2",
-      "due_date": "2026-06-30",
-      "due_time": "13:28",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST2 Q1",
-      "due_date": "2026-06-30",
-      "due_time": "13:27",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST1 Total",
-      "due_date": "2026-06-30",
-      "due_time": "05:53",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST1 Q2",
-      "due_date": "2026-06-30",
-      "due_time": "05:52",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST1 Q1",
-      "due_date": "2026-06-30",
-      "due_time": "05:52",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST1 Q3",
-      "due_date": "2026-06-30",
-      "due_time": "05:52",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MSD 210 S1 2026: ST1 Q4",
-      "due_date": "2026-06-30",
-      "due_time": "08:22",
-      "course_id": "_188765_1",
-      "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-      "label": "GRADEBOOK:Test.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-    },
-    {
-      "title": "MOW 217 S1 2026: Supp Exam Mark",
-      "due_date": "2026-06-30",
-      "due_time": "10:16",
-      "course_id": "_190939_1",
-      "course_name": "MOW 217 S1 2026 \u2014 Manufacturing & Design",
-      "label": "GRADEBOOK:Assignment.name",
-      "event_type": "GRADEBOOK",
-      "url": "https://clickup.up.ac.za/ultra/courses/_190939_1/outline"
-    },
-    {
-      "title": "MSD 210: Consultation Session",
-      "due_date": "2026-07-01",
-      "due_time": "08:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "WTW 258: Perusal of Supplementary/Sick Examination",
       "due_date": "2026-07-01",
       "due_time": "13:00",
@@ -271,8 +131,38 @@
       "url": null
     },
     {
-      "title": "MSD 210: Consultation Session",
-      "due_date": "2026-07-02",
+      "title": "WTW 256 Winter School - Monday Lecture",
+      "due_date": "2026-07-06",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256 Winter School - Tuesday Lecture (Online)",
+      "due_date": "2026-07-07",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "due_date": "2026-07-07",
+      "due_time": "08:00",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Supplementary Exam Consultation Session",
+      "due_date": "2026-07-08",
       "due_time": "08:00",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
@@ -301,7 +191,7 @@
       "url": null
     },
     {
-      "title": "EBIT House Executive Committee nominations close",
+      "title": "EBIT House Executive Committee Nominations Close",
       "due_date": "2026-07-23",
       "due_time": "08:00",
       "course_id": "_192832_1",
