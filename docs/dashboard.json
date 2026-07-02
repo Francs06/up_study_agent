@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T13:34:28.302317+00:00",
-  "generated_at_human": "01 July 2026 at 13:34 SAST",
-  "focus_today": "Your MSD 210 consultation sessions start in 6 days\u2014make sure you're prepped with specific questions or problem areas you want to discuss, since these are your chance to clarify things before perusal starts. Beyond that, keep your eye on EBIT nominations closing on July 23 if you're interested in getting involved.",
-  "total_upcoming_deadlines": 5,
+  "generated_at": "2026-07-02T07:00:32.732496+00:00",
+  "generated_at_human": "02 July 2026 at 07:00 SAST",
+  "focus_today": "**Focus for Today:**\n\nYour WTW 258 A1-WS submission is due TODAY (2026-07-02)\u2014get that submitted immediately if you haven't already. After that's done, start prepping for the WTW 256 Winter School Monday Lecture coming up in 4 days.",
+  "total_upcoming_deadlines": 8,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -15,18 +15,7 @@
       "name": "MSD 210",
       "full_name": "MSD 210 S1 2026 \u2014 Dynamics",
       "color": "#3B6EC4",
-      "deadlines": [
-        {
-          "title": "MSD 210 S1 2026: ST2 Q4",
-          "due_date": "2026-06-30",
-          "due_time": "18:53",
-          "course_id": "_188765_1",
-          "course_name": "MSD 210 S1 2026 \u2014 Dynamics",
-          "label": "GRADEBOOK:Test.name",
-          "event_type": "GRADEBOOK",
-          "url": "https://clickup.up.ac.za/ultra/courses/_188765_1/outline"
-        }
-      ],
+      "deadlines": [],
       "new_documents": []
     },
     "_191012_1": {
@@ -59,6 +48,36 @@
     }
   },
   "all_deadlines": [
+    {
+      "title": "WTW 258 S1: A1-WS Submission",
+      "due_date": "2026-07-02",
+      "due_time": "09:45",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256 Winter School - Monday Lecture",
+      "due_date": "2026-07-06",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256 Winter School - Tuesday Lecture (Online)",
+      "due_date": "2026-07-07",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
     {
       "title": "MSD 210: Consultation Session",
       "due_date": "2026-07-07",
