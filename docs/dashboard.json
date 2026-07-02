@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T07:00:32.732496+00:00",
-  "generated_at_human": "02 July 2026 at 07:00 SAST",
-  "focus_today": "**Focus for Today:**\n\nYour WTW 258 A1-WS submission is due TODAY (2026-07-02)\u2014get that submitted immediately if you haven't already. After that's done, start prepping for the WTW 256 Winter School Monday Lecture coming up in 4 days.",
-  "total_upcoming_deadlines": 8,
+  "generated_at": "2026-07-02T12:58:22.667149+00:00",
+  "generated_at_human": "02 July 2026 at 12:58 SAST",
+  "focus_today": "**Focus for today:** You've got the WTW 256 Winter School Monday lecture due in 4 days\u2014start working through that content now so you're not cramming over the weekend. Also, block out time this week for the MSD 210 consultation sessions (Tuesday and Wednesday)\u2014these are back-to-back and you'll want to be prepared.",
+  "total_upcoming_deadlines": 7,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,16 +49,6 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 258 S1: A1-WS Submission",
-      "due_date": "2026-07-02",
-      "due_time": "09:45",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "WTW 256 Winter School - Monday Lecture",
       "due_date": "2026-07-06",
       "due_time": "12:30",
@@ -99,7 +89,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -109,7 +99,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
