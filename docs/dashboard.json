@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T12:58:22.667149+00:00",
-  "generated_at_human": "02 July 2026 at 12:58 SAST",
-  "focus_today": "**Focus for today:** You've got the WTW 256 Winter School Monday lecture due in 4 days\u2014start working through that content now so you're not cramming over the weekend. Also, block out time this week for the MSD 210 consultation sessions (Tuesday and Wednesday)\u2014these are back-to-back and you'll want to be prepared.",
-  "total_upcoming_deadlines": 7,
+  "generated_at": "2026-07-03T06:54:31.038832+00:00",
+  "generated_at_human": "03 July 2026 at 06:54 SAST",
+  "focus_today": "**Focus for Today:**\n\nYour WTW 258 A1-WS submission is due **today** \u2014 make sure it's submitted before the deadline closes. After that's done, start prepping for the WTW 256 Winter School lectures coming Monday and Tuesday, since those are your next immediate tasks.",
+  "total_upcoming_deadlines": 6,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,6 +49,16 @@
   },
   "all_deadlines": [
     {
+      "title": "WTW 258: A1-WS Submission Deadline",
+      "due_date": "2026-07-03",
+      "due_time": "09:45",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "WTW 256 Winter School - Monday Lecture",
       "due_date": "2026-07-06",
       "due_time": "12:30",
@@ -59,31 +69,11 @@
       "url": null
     },
     {
-      "title": "WTW 256 Winter School - Tuesday Lecture (Online)",
+      "title": "WTW 256 Winter School - Tuesday Lecture",
       "due_date": "2026-07-07",
       "due_time": "12:30",
       "course_id": "WTW 256 S1 2026",
       "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Consultation Session",
-      "due_date": "2026-07-07",
-      "due_time": "08:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Consultation Session",
-      "due_date": "2026-07-08",
-      "due_time": "08:00",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -109,7 +99,7 @@
       "url": null
     },
     {
-      "title": "EBIT House Executive Committee Nominations Close",
+      "title": "EBIT House Executive Committee Nominations Deadline",
       "due_date": "2026-07-23",
       "due_time": "08:00",
       "course_id": "_192832_1",
