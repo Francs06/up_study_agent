@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T06:39:59.307104+00:00",
-  "generated_at_human": "04 July 2026 at 06:39 SAST",
-  "focus_today": "**Focus for Today:**\n\nFranco, you have **WTW 258: A1-WS due TODAY** \u2014 this is your immediate priority. Get that submission in before the deadline passes. After that, start prepping for the WTW 256 Winter School lectures coming Monday and Tuesday.",
-  "total_upcoming_deadlines": 7,
+  "generated_at": "2026-07-04T12:07:17.968179+00:00",
+  "generated_at_human": "04 July 2026 at 12:07 SAST",
+  "focus_today": "Franco, you've got two WTW 256 Winter School lectures due in the next 2 days\u2014Monday and Tuesday\u2014so that's your immediate priority. Knock out the Monday lecture today if you can, so you're not scrambling Sunday night.",
+  "total_upcoming_deadlines": 5,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,16 +49,6 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 258: A1-WS Submission Deadline",
-      "due_date": "2026-07-04",
-      "due_time": "09:45",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "WTW 256 Winter School - Monday Lecture",
       "due_date": "2026-07-06",
       "due_time": "12:30",
@@ -69,7 +59,7 @@
       "url": null
     },
     {
-      "title": "WTW 256 Winter School - Tuesday Lecture",
+      "title": "WTW 256 Winter School - Tuesday Lecture (Online)",
       "due_date": "2026-07-07",
       "due_time": "12:30",
       "course_id": "WTW 256 S1 2026",
@@ -79,7 +69,7 @@
       "url": null
     },
     {
-      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -89,21 +79,11 @@
       "url": null
     },
     {
-      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "EBIT House Executive Committee Nominations Deadline",
-      "due_date": "2026-07-23",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
