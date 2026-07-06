@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T08:10:47.391739+00:00",
-  "generated_at_human": "06 July 2026 at 08:10 SAST",
-  "focus_today": "# Focus for Today\n\nYou've got breathing room on both upcoming deadlines (nominations close in 17 days, study abroad fair in 24), so use today to knock out any pending coursework or lab reports before they pile up. If you're even remotely interested in EBIT House leadership or studying abroad, jot down quick notes on what you'd want to pursue\u2014waiting until the last week always adds unnecessary stress.",
-  "total_upcoming_deadlines": 2,
+  "generated_at": "2026-07-06T14:25:04.808378+00:00",
+  "generated_at_human": "06 July 2026 at 14:25 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got breathing room this week before those MSD 210 scripts are due on the 21st\u2014use today to map out when you'll tackle that perusal work so it doesn't pile up. If you're interested in the EBIT House nominations (closing the 23rd), jot down your decision now so it doesn't sneak up on you.",
+  "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,7 +49,27 @@
   },
   "all_deadlines": [
     {
-      "title": "EBIT House Executive Committee Nominations Close",
+      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
+      "due_date": "2026-07-21",
+      "due_time": "15:30",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
+      "due_date": "2026-07-22",
+      "due_time": "10:30",
+      "course_id": "MSD 210 S1 2026",
+      "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "EBIT House Executive Committee nominations close",
       "due_date": "2026-07-23",
       "due_time": "08:00",
       "course_id": "_192832_1",
