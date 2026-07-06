@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T12:16:27.756979+00:00",
-  "generated_at_human": "05 July 2026 at 12:16 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou've got the WTW 256 Winter School Monday lecture due *tomorrow* \u2013 that's your immediate priority. Knock that out today so you're not scrambling Monday morning. After that, you're clear until mid-July, so use the rest of your time to get ahead on anything else.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-07-06T08:10:47.391739+00:00",
+  "generated_at_human": "06 July 2026 at 08:10 SAST",
+  "focus_today": "# Focus for Today\n\nYou've got breathing room on both upcoming deadlines (nominations close in 17 days, study abroad fair in 24), so use today to knock out any pending coursework or lab reports before they pile up. If you're even remotely interested in EBIT House leadership or studying abroad, jot down quick notes on what you'd want to pursue\u2014waiting until the last week always adds unnecessary stress.",
+  "total_upcoming_deadlines": 2,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,47 +49,7 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 256 Winter School - Monday Lecture",
-      "due_date": "2026-07-06",
-      "due_time": "12:30",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 256 Winter School - Tuesday Lecture (Online)",
-      "due_date": "2026-07-07",
-      "due_time": "12:30",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
-      "due_date": "2026-07-21",
-      "due_time": "15:30",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
-      "due_date": "2026-07-22",
-      "due_time": "10:30",
-      "course_id": "MSD 210 S1 2026",
-      "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "EBIT House Executive Committee Nominations Deadline",
+      "title": "EBIT House Executive Committee Nominations Close",
       "due_date": "2026-07-23",
       "due_time": "08:00",
       "course_id": "_192832_1",
