@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T14:25:04.808378+00:00",
-  "generated_at_human": "06 July 2026 at 14:25 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou've got breathing room this week before those MSD 210 scripts are due on the 21st\u2014use today to map out when you'll tackle that perusal work so it doesn't pile up. If you're interested in the EBIT House nominations (closing the 23rd), jot down your decision now so it doesn't sneak up on you.",
-  "total_upcoming_deadlines": 4,
+  "generated_at": "2026-07-07T07:28:38.289216+00:00",
+  "generated_at_human": "07 July 2026 at 07:28 SAST",
+  "focus_today": "**Focus for Today (Tuesday, 07 July):**\n\nYour WTW 258 A1-WS submission is **due today** \u2014 prioritize finishing and uploading it now if you haven't already. After that's handled, start preparing for the WTW 256 Winter School lectures coming up Monday and Tuesday next week.",
+  "total_upcoming_deadlines": 6,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,6 +49,36 @@
   },
   "all_deadlines": [
     {
+      "title": "WTW 258: A1-WS Submission",
+      "due_date": "2026-07-07",
+      "due_time": "09:45",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256 Winter School - Monday Lecture",
+      "due_date": "2026-07-13",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 256 Winter School - Tuesday Lecture (Online)",
+      "due_date": "2026-07-14",
+      "due_time": "12:30",
+      "course_id": "WTW 256 S1 2026",
+      "course_name": "WTW 256 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-21",
       "due_time": "15:30",
@@ -64,16 +94,6 @@
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "EBIT House Executive Committee nominations close",
-      "due_date": "2026-07-23",
-      "due_time": "08:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
