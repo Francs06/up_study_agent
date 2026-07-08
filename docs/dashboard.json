@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T13:21:05.372028+00:00",
-  "generated_at_human": "07 July 2026 at 13:21 SAST",
-  "focus_today": "Franco, your immediate priority is the WTW 256 Winter School lectures\u2014the Monday one drops in 6 days (July 13), so you need to start reviewing the material now rather than cramming last-minute. Block out time today or tomorrow to assess what you're working with so you're not scrambling mid-week.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-07-08T06:21:54.387075+00:00",
+  "generated_at_human": "08 July 2026 at 06:21 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have two deadlines TODAY: submit A1-WS for WTW 258 and attend the first WS class. Get the submission done first thing\u2014don't let the class creep up on you. After that, you've got breathing room until the academic appeal (Sunday) and the exam script perusal next week.",
+  "total_upcoming_deadlines": 7,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,21 +49,31 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 256 Winter School - Monday Lecture",
-      "due_date": "2026-07-13",
-      "due_time": "12:30",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
+      "title": "WTW 258: A1-WS Submission",
+      "due_date": "2026-07-08",
+      "due_time": "09:45",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "WTW 256 Winter School - Tuesday Lecture (Online)",
-      "due_date": "2026-07-14",
-      "due_time": "12:30",
-      "course_id": "WTW 256 S1 2026",
-      "course_name": "WTW 256 S1 2026",
+      "title": "WTW 258 WS: First class",
+      "due_date": "2026-07-08",
+      "due_time": "08:30",
+      "course_id": "WTW 258 S1 2026",
+      "course_name": "WTW 258 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Academic Appeal Deadline",
+      "due_date": "2026-07-12",
+      "due_time": "08:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
