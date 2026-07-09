@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T07:28:56.733730+00:00",
-  "generated_at_human": "09 July 2026 at 07:28 SAST",
-  "focus_today": "**Focus for Today:**\n\nYour WTW 258 A1-WS submission is due **today** \u2013 get that done immediately if you haven't already. After that, start preparing for the Winter School lectures beginning Monday; Theme 1 content should be your next priority since it kicks off in just 4 days.",
-  "total_upcoming_deadlines": 7,
+  "generated_at": "2026-07-09T13:50:10.497007+00:00",
+  "generated_at_human": "09 July 2026 at 13:50 SAST",
+  "focus_today": "**Focus for today:**\n\nYou've got 3 days to submit your Academic Appeal (due July 12)\u2014this is your priority. Confirm you have all required documents ready and submit early rather than waiting until Sunday.",
+  "total_upcoming_deadlines": 9,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,16 +49,6 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 258: A1-WS Submission Deadline",
-      "due_date": "2026-07-09",
-      "due_time": "09:45",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "Academic Appeal Deadline",
       "due_date": "2026-07-12",
       "due_time": "08:00",
@@ -69,7 +59,7 @@
       "url": null
     },
     {
-      "title": "Winter School - Monday Lecture (Theme 1)",
+      "title": "WTW 256: Winter School - Monday Lecture (In-person)",
       "due_date": "2026-07-13",
       "due_time": "12:30",
       "course_id": "WTW 256 S1 2026",
@@ -79,7 +69,7 @@
       "url": null
     },
     {
-      "title": "Winter School - Tuesday Lecture (Theme 2, Online)",
+      "title": "WTW 256: Winter School - Tuesday Lecture (Online)",
       "due_date": "2026-07-14",
       "due_time": "12:30",
       "course_id": "WTW 256 S1 2026",
@@ -89,7 +79,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -99,11 +89,41 @@
       "url": null
     },
     {
-      "title": "MSD 210: Perusal of Supplementary and Special Exam scripts",
+      "title": "MSD210: Perusal of Supplementary and Special Exam scripts",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "SRC Quarter 2 Student Forum",
+      "due_date": "2026-07-23",
+      "due_time": "18:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "SRC Quarter 2 Student Forum",
+      "due_date": "2026-07-23",
+      "due_time": "18:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "EBIT House Executive Committee Nominations Deadline",
+      "due_date": "2026-07-23",
+      "due_time": "08:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
