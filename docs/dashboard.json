@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T07:26:54.142696+00:00",
-  "generated_at_human": "10 July 2026 at 07:26 SAST",
-  "focus_today": "**Focus for today:**\n\nYou have a WTW 258 S1 assignment (A1-WS) due **today** \u2013 submit it before the deadline closes. After that's handled, you've got until Sunday to decide if you need to file an Academic Appeal. Get the assignment done first, then assess whether an appeal is necessary.",
-  "total_upcoming_deadlines": 5,
+  "generated_at": "2026-07-10T13:11:43.137502+00:00",
+  "generated_at_human": "10 July 2026 at 13:11 SAST",
+  "focus_today": "# Focus for Today\n\nYour Academic Appeal deadline is in 2 days (July 12)\u2014this is your priority. Get that submitted today or tomorrow at the latest; don't let this slip into the weekend. Everything else can wait.",
+  "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,16 +48,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "WTW 258 S1: A1-WS Submission",
-      "due_date": "2026-07-10",
-      "due_time": "09:45",
-      "course_id": "WTW 258 S1 2026",
-      "course_name": "WTW 258 S1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
     {
       "title": "Academic Appeal Deadline",
       "due_date": "2026-07-12",
