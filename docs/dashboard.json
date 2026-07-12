@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-11T11:52:02.825301+00:00",
-  "generated_at_human": "11 July 2026 at 11:52 SAST",
-  "focus_today": "**Focus for Today:**\n\nYour Academic Appeal is due **tomorrow (July 12)** \u2014 this is your immediate priority. Get that submitted before anything else. After that's handled, start reviewing for MTX 221 since your first class is in 9 days.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-07-12T06:25:58.670265+00:00",
+  "generated_at_human": "12 July 2026 at 06:25 SAST",
+  "focus_today": "# Focus for Today\n\nYou've got breathing room until Wednesday, so use it: start reviewing MTX 221 material now so Class Test 1 (July 28) doesn't sneak up on you. Get ahead this week and you'll have options later.",
+  "total_upcoming_deadlines": 5,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,17 +49,7 @@
   },
   "all_deadlines": [
     {
-      "title": "Academic Appeal Deadline",
-      "due_date": "2026-07-12",
-      "due_time": "23:59",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MTX 221 Thermodynamics: First Class",
+      "title": "MTX 221: First Class - Orientation and Lecture 1",
       "due_date": "2026-07-20",
       "due_time": "09:30",
       "course_id": "_189368_1",
@@ -89,9 +79,9 @@
       "url": null
     },
     {
-      "title": "MTX 221 Thermodynamics: First Class Test",
+      "title": "MTX 221: Class Test 1",
       "due_date": "2026-07-28",
-      "due_time": "09:00",
+      "due_time": "08:00",
       "course_id": "_189368_1",
       "course_name": "_189368_1",
       "label": "ANNOUNCEMENT",
