@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T12:11:47.164617+00:00",
-  "generated_at_human": "14 July 2026 at 12:11 SAST",
-  "focus_today": "Your MTX 221 orientation and first lecture are due in 6 days\u2014that's your immediate priority since it's foundational for the quizzes and class test coming up later that week. Start that today so you're not cramming while juggling multiple quizzes on the 27th-28th.",
-  "total_upcoming_deadlines": 16,
+  "generated_at": "2026-07-15T06:07:31.825868+00:00",
+  "generated_at_human": "15 July 2026 at 06:07 SAST",
+  "focus_today": "**Focus for today:** Get through MTX 221's orientation and Lecture 1 by Monday (07-20)\u2014that's your entry point to everything else. Once you've got that done, you can map out a study plan for the quiz gauntlet starting 07-27, since you've got 5 quizzes + a class test hitting back-to-back at the end of the month.",
+  "total_upcoming_deadlines": 12,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -62,8 +62,8 @@
       "title": "SRC Quarter 2 Student Forum",
       "due_date": "2026-07-23",
       "due_time": "18:00",
-      "course_id": "SRC Elections UG 2026",
-      "course_name": "SRC Elections UG 2026",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -72,8 +72,8 @@
       "title": "SRC Quarter 2 Student Forum",
       "due_date": "2026-07-23",
       "due_time": "18:00",
-      "course_id": "SRC Elections UG 2026",
-      "course_name": "SRC Elections UG 2026",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -86,26 +86,6 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:TE_AVAIL",
       "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "Afrikaans (Klets!) - Beginner Course starts",
-      "due_date": "2026-07-27",
-      "due_time": "18:00",
-      "course_id": "UP UG 2026",
-      "course_name": "UP UG 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Sepedi - Intermediate Course starts",
-      "due_date": "2026-07-27",
-      "due_time": "17:00",
-      "course_id": "UP UG 2026",
-      "course_name": "UP UG 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -139,16 +119,6 @@
       "url": null
     },
     {
-      "title": "Sepedi (Re a bolela) - Beginner Course starts",
-      "due_date": "2026-07-28",
-      "due_time": "10:00",
-      "course_id": "UP UG 2026",
-      "course_name": "UP UG 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MTX 221 S2 2026: Session 04 (2C) - Quiz",
       "due_date": "2026-07-29",
       "due_time": "21:59",
@@ -156,16 +126,6 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
-      "url": null
-    },
-    {
-      "title": "Afrikaans - Intermediate Course starts",
-      "due_date": "2026-07-29",
-      "due_time": "18:00",
-      "course_id": "UP UG 2026",
-      "course_name": "UP UG 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
