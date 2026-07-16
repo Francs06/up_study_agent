@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T06:10:20.030382+00:00",
-  "generated_at_human": "16 July 2026 at 06:10 SAST",
-  "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 30,
+  "generated_at": "2026-07-16T12:20:41.633786+00:00",
+  "generated_at_human": "16 July 2026 at 12:20 SAST",
+  "focus_today": "**Focus for today:** Get started on MTX 221's orientation and first lecture before Monday's deadline\u2014this is your entry point to the course. After that, prioritize the SRC Student Forum by Thursday since it's due the same day as your first quiz barrage.",
+  "total_upcoming_deadlines": 43,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,6 +49,36 @@
   },
   "all_deadlines": [
     {
+      "title": "MTX 221: First Class - Orientation and Lecture 1",
+      "due_date": "2026-07-20",
+      "due_time": "09:30",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "SRC Quarter 2 Student Forum",
+      "due_date": "2026-07-23",
+      "due_time": "18:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "SRC Quarter 2 Student Forum",
+      "due_date": "2026-07-23",
+      "due_time": "18:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MTX 221 S2 2026: Session 01 (1A): Quiz",
       "due_date": "2026-07-27",
       "due_time": "21:59",
@@ -76,6 +106,16 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221: First Class Test",
+      "due_date": "2026-07-28",
+      "due_time": "08:00",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -341,6 +381,96 @@
     {
       "title": "MTX 221 S2 2026: Session 30 (7E) - Quiz",
       "due_date": "2026-10-08",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 31 (7F) - Quiz",
+      "due_date": "2026-10-09",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 32 (7G) - Quiz",
+      "due_date": "2026-10-20",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 33 (7H) - Quiz",
+      "due_date": "2026-10-21",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 34 (7I) - Quiz",
+      "due_date": "2026-10-22",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 35 (8A) - Quiz",
+      "due_date": "2026-10-23",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 36 (8B) - Quiz",
+      "due_date": "2026-10-28",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 37 (8C) - Quiz",
+      "due_date": "2026-10-29",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 38 (8D) - Quiz",
+      "due_date": "2026-10-30",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 39 (8E) - Quiz",
+      "due_date": "2026-11-03",
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
