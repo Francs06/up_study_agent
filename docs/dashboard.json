@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T06:09:03.019261+00:00",
-  "generated_at_human": "17 July 2026 at 06:09 SAST",
-  "focus_today": "**Focus for Today**\n\nYou've got 3 days until the MTX 221 orientation and first lecture drop on Monday\u2014get that watched and noted so you're not scrambling. After that, the quiz gauntlet starts immediately (5 quizzes in 4 days, plus a class test), so use this weekend to preview the session materials and identify what you don't understand yet.",
-  "total_upcoming_deadlines": 45,
+  "generated_at": "2026-07-17T12:09:15.615303+00:00",
+  "generated_at_human": "17 July 2026 at 12:09 SAST",
+  "focus_today": "**Focus for today:**\n\nYou've got 3 days to complete the MTX 221 orientation and trial run before Monday\u2014don't push this to the weekend. Knock out both of these first, then map out a study plan for the quizzes and class test hitting you hard next week (July 27-28).",
+  "total_upcoming_deadlines": 50,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,7 +49,17 @@
   },
   "all_deadlines": [
     {
-      "title": "MTX 221: First Class - Orientation & Lecture 1",
+      "title": "MTX 221: First Lecture and Orientation",
+      "due_date": "2026-07-20",
+      "due_time": "09:30",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MTX 221: Trial Run Class Test",
       "due_date": "2026-07-20",
       "due_time": "09:30",
       "course_id": "MTX 221 S2 2026",
@@ -89,6 +99,26 @@
       "url": null
     },
     {
+      "title": "Afrikaans (Klets!) - Beginner Course starts",
+      "due_date": "2026-07-27",
+      "due_time": "18:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Sepedi (Re a bolela) - Intermediate Course starts",
+      "due_date": "2026-07-27",
+      "due_time": "17:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MTX 221 S2 2026: Session 02 (2A) - Quiz",
       "due_date": "2026-07-28",
       "due_time": "21:59",
@@ -119,6 +149,16 @@
       "url": null
     },
     {
+      "title": "Sepedi (Re a bolela) - Beginner Course starts",
+      "due_date": "2026-07-28",
+      "due_time": "10:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MTX 221 S2 2026: Session 04 (2C) - Quiz",
       "due_date": "2026-07-29",
       "due_time": "21:59",
@@ -126,6 +166,16 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "Afrikaans (Klets!) - Intermediate Course starts",
+      "due_date": "2026-07-29",
+      "due_time": "18:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
