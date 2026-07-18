@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T12:09:15.615303+00:00",
-  "generated_at_human": "17 July 2026 at 12:09 SAST",
-  "focus_today": "**Focus for today:**\n\nYou've got 3 days to complete the MTX 221 orientation and trial run before Monday\u2014don't push this to the weekend. Knock out both of these first, then map out a study plan for the quizzes and class test hitting you hard next week (July 27-28).",
-  "total_upcoming_deadlines": 50,
+  "generated_at": "2026-07-18T05:57:14.828086+00:00",
+  "generated_at_human": "18 July 2026 at 05:57 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got two days to nail the MTX 221 orientation, lecture, and trial test\u2014both due Monday. Start with the orientation and lecture 1 content today, then run through the trial test to see what you're actually dealing with. Everything else can wait until you've locked these down.",
+  "total_upcoming_deadlines": 51,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,7 +49,7 @@
   },
   "all_deadlines": [
     {
-      "title": "MTX 221: First Lecture and Orientation",
+      "title": "MTX 221: First Class - Orientation and Lecture 1",
       "due_date": "2026-07-20",
       "due_time": "09:30",
       "course_id": "MTX 221 S2 2026",
@@ -84,6 +84,16 @@
       "due_time": "18:00",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW238: Compulsory clickUP test (Limits and L'Hospital's rule)",
+      "due_date": "2026-07-24",
+      "due_time": "17:30",
+      "course_id": "_190957_1",
+      "course_name": "_190957_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
