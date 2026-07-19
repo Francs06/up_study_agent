@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T06:23:06.822047+00:00",
-  "generated_at_human": "19 July 2026 at 06:23 SAST",
-  "focus_today": "# Focus for Today\n\nYou've got **MTX 221 orientation and trial test due tomorrow** \u2013 these are your immediate priority since they're first-thing deadlines. Knock those out today so you're not scrambling Monday morning and can properly prepare for the quiz gauntlet hitting you later this week (27-29 July).",
+  "generated_at": "2026-07-19T11:57:53.346802+00:00",
+  "generated_at_human": "19 July 2026 at 11:57 SAST",
+  "focus_today": "**Focus for today:**\n\nGet through MTX 221's orientation and Lecture 1 by tomorrow\u2014this is your immediate gate. Skim the WTW238 Limits and L'Hospital's rule content tonight so the clickUP test on the 25th isn't a surprise.",
   "total_upcoming_deadlines": 47,
   "courses": {
     "_190939_1": {
@@ -90,7 +90,7 @@
     },
     {
       "title": "WTW238: Compulsory clickUP test (Limits and L'Hospital's rule)",
-      "due_date": "2026-07-24",
+      "due_date": "2026-07-25",
       "due_time": "17:30",
       "course_id": "_190957_1",
       "course_name": "_190957_1",
