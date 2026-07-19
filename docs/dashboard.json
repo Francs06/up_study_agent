@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T11:53:06.841181+00:00",
-  "generated_at_human": "18 July 2026 at 11:53 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou've got 2 days until MTX 221's orientation/Lecture 1 and trial test are due\u2014that's your immediate priority. Get through those first, then tackle the WTW 238 clickUP test by Friday since it's foundational math you'll need for everything else.",
+  "generated_at": "2026-07-19T06:23:06.822047+00:00",
+  "generated_at_human": "19 July 2026 at 06:23 SAST",
+  "focus_today": "# Focus for Today\n\nYou've got **MTX 221 orientation and trial test due tomorrow** \u2013 these are your immediate priority since they're first-thing deadlines. Knock those out today so you're not scrambling Monday morning and can properly prepare for the quiz gauntlet hitting you later this week (27-29 July).",
   "total_upcoming_deadlines": 47,
   "courses": {
     "_190939_1": {
@@ -72,8 +72,8 @@
       "title": "SRC Quarter 2 Student Forum",
       "due_date": "2026-07-23",
       "due_time": "18:00",
-      "course_id": "SRC Elections UG 2026",
-      "course_name": "SRC Elections UG 2026",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -82,18 +82,18 @@
       "title": "SRC Quarter 2 Student Forum",
       "due_date": "2026-07-23",
       "due_time": "18:00",
-      "course_id": "SRC Elections UG 2026",
-      "course_name": "SRC Elections UG 2026",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "WTW 238: Compulsory clickUP test (Limits and L'Hospital's rule)",
+      "title": "WTW238: Compulsory clickUP test (Limits and L'Hospital's rule)",
       "due_date": "2026-07-24",
       "due_time": "17:30",
-      "course_id": "WTW 238 S2 2026",
-      "course_name": "WTW 238 S2 2026",
+      "course_id": "_190957_1",
+      "course_name": "_190957_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -129,9 +129,9 @@
       "url": null
     },
     {
-      "title": "MTX 221: First Class Test",
+      "title": "MTX 221: Class Test 1",
       "due_date": "2026-07-28",
-      "due_time": "08:00",
+      "due_time": "09:00",
       "course_id": "MTX 221 S2 2026",
       "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
