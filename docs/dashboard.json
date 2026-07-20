@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T11:57:53.346802+00:00",
-  "generated_at_human": "19 July 2026 at 11:57 SAST",
-  "focus_today": "**Focus for today:**\n\nGet through MTX 221's orientation and Lecture 1 by tomorrow\u2014this is your immediate gate. Skim the WTW238 Limits and L'Hospital's rule content tonight so the clickUP test on the 25th isn't a surprise.",
-  "total_upcoming_deadlines": 47,
+  "generated_at": "2026-07-20T06:38:16.987455+00:00",
+  "generated_at_human": "20 July 2026 at 06:38 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou have two MTX 221 tasks due *today* \u2013 knock out the Orientation/Lecture 1 and Trial Run Class Test first thing so they're off your plate. Once those are done, start reviewing limits and L'Hospital's rule for the WTW238 clickUP test on Friday; don't leave that until the last minute.",
+  "total_upcoming_deadlines": 45,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -69,28 +69,8 @@
       "url": null
     },
     {
-      "title": "SRC Quarter 2 Student Forum",
-      "due_date": "2026-07-23",
-      "due_time": "18:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "SRC Quarter 2 Student Forum",
-      "due_date": "2026-07-23",
-      "due_time": "18:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "WTW238: Compulsory clickUP test (Limits and L'Hospital's rule)",
-      "due_date": "2026-07-25",
+      "due_date": "2026-07-24",
       "due_time": "17:30",
       "course_id": "_190957_1",
       "course_name": "_190957_1",
@@ -129,9 +109,9 @@
       "url": null
     },
     {
-      "title": "MTX 221: Class Test 1",
+      "title": "MTX 221: First Class Test",
       "due_date": "2026-07-28",
-      "due_time": "09:00",
+      "due_time": "08:00",
       "course_id": "MTX 221 S2 2026",
       "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
