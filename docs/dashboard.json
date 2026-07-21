@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-21T06:22:16.151859+00:00",
-  "generated_at_human": "21 July 2026 at 06:22 SAST",
-  "focus_today": "**Focus for today (Tuesday, 21 July):**\n\nYou have two MSD210 exam perusal deadlines today and tomorrow\u2014handle the first one immediately if you haven't already. After that, prioritize the WTW 238 clickUP test (due Friday) since it covers specific concepts you need to nail down before the MTX 221 quizzes start ramping up on Monday.",
-  "total_upcoming_deadlines": 47,
+  "generated_at": "2026-07-21T12:24:11.903223+00:00",
+  "generated_at_human": "21 July 2026 at 12:24 SAST",
+  "focus_today": "**Focus for today, Franco:**\n\nYou have TWO MSD 210 perusal deadlines ending today and tomorrow\u2014knock out the first one immediately if you haven't already. After that, shift to WTW 238: review limits and L'H\u00f4pital's rule before Friday's TT0 and clickUP test.",
+  "total_upcoming_deadlines": 51,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,7 +49,7 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD210 Supplementary and Special Exam Perusal",
+      "title": "MSD 210: Supplementary and Special Exam Perusal",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -59,13 +59,23 @@
       "url": null
     },
     {
-      "title": "MSD210 Supplementary and Special Exam Perusal",
+      "title": "MSD 210: Supplementary and Special Exam Perusal",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
       "course_name": "MSD 210 S1 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 238 S2 2026: TT0",
+      "due_date": "2026-07-24",
+      "due_time": "15:30",
+      "course_id": "_190957_1",
+      "course_name": "WTW 238 S2 2026",
+      "label": "SU:DUE",
+      "event_type": "SU:DUE",
       "url": null
     },
     {
@@ -89,11 +99,21 @@
       "url": null
     },
     {
-      "title": "MTX 221: Trial Class Test",
+      "title": "Afrikaans (Klets!) - Beginner Course starts",
       "due_date": "2026-07-27",
-      "due_time": "09:30",
-      "course_id": "MTX 221 S2 2026",
-      "course_name": "MTX 221 S2 2026",
+      "due_time": "18:00",
+      "course_id": "UP UG 2026",
+      "course_name": "UP UG 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Sepedi - Intermediate Course starts",
+      "due_date": "2026-07-27",
+      "due_time": "17:00",
+      "course_id": "UP UG 2026",
+      "course_name": "UP UG 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -119,6 +139,16 @@
       "url": null
     },
     {
+      "title": "Sepedi (Re a bolela) - Beginner Course starts",
+      "due_date": "2026-07-28",
+      "due_time": "10:00",
+      "course_id": "UP UG 2026",
+      "course_name": "UP UG 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "MTX 221 S2 2026: Session 04 (2C) - Quiz",
       "due_date": "2026-07-29",
       "due_time": "21:59",
@@ -126,6 +156,16 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "Afrikaans - Intermediate Course starts",
+      "due_date": "2026-07-29",
+      "due_time": "18:00",
+      "course_id": "UP UG 2026",
+      "course_name": "UP UG 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
