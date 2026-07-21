@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T13:05:38.396815+00:00",
-  "generated_at_human": "20 July 2026 at 13:05 SAST",
-  "focus_today": "**Focus for Today (Monday, 20 July)**\n\nYou have two MSD 210 perusal deadlines tomorrow and Wednesday\u2014handle those first thing to clear them off your plate. Then shift to WTW238 (Limits and L'Hospital's rule clickUP test due Friday) since that's your next real deadline with breathing room.",
+  "generated_at": "2026-07-21T06:22:16.151859+00:00",
+  "generated_at_human": "21 July 2026 at 06:22 SAST",
+  "focus_today": "**Focus for today (Tuesday, 21 July):**\n\nYou have two MSD210 exam perusal deadlines today and tomorrow\u2014handle the first one immediately if you haven't already. After that, prioritize the WTW 238 clickUP test (due Friday) since it covers specific concepts you need to nail down before the MTX 221 quizzes start ramping up on Monday.",
   "total_upcoming_deadlines": 47,
   "courses": {
     "_190939_1": {
@@ -49,7 +49,7 @@
   },
   "all_deadlines": [
     {
-      "title": "MSD 210: Supplementary and Special Exam Perusal",
+      "title": "MSD210 Supplementary and Special Exam Perusal",
       "due_date": "2026-07-21",
       "due_time": "15:30",
       "course_id": "MSD 210 S1 2026",
@@ -59,7 +59,7 @@
       "url": null
     },
     {
-      "title": "MSD 210: Supplementary and Special Exam Perusal",
+      "title": "MSD210 Supplementary and Special Exam Perusal",
       "due_date": "2026-07-22",
       "due_time": "10:30",
       "course_id": "MSD 210 S1 2026",
@@ -69,11 +69,11 @@
       "url": null
     },
     {
-      "title": "WTW238: Compulsory clickUP test (Limits and L'Hospital's rule)",
+      "title": "WTW 238: Compulsory clickUP test (Limits and L'Hospital's rule)",
       "due_date": "2026-07-24",
       "due_time": "17:30",
-      "course_id": "_190957_1",
-      "course_name": "_190957_1",
+      "course_id": "WTW 238 S2 2026",
+      "course_name": "WTW 238 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -86,6 +86,16 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:TE_AVAIL",
       "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MTX 221: Trial Class Test",
+      "due_date": "2026-07-27",
+      "due_time": "09:30",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -106,16 +116,6 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
-      "url": null
-    },
-    {
-      "title": "MTX 221: First Class Test",
-      "due_date": "2026-07-28",
-      "due_time": "08:00",
-      "course_id": "MTX 221 S2 2026",
-      "course_name": "MTX 221 S2 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -152,8 +152,8 @@
       "title": "SRC Elections 2026: Candidate Application Deadline",
       "due_date": "2026-08-03",
       "due_time": "16:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
+      "course_id": "SRC Elections UG 2026",
+      "course_name": "SRC Elections UG 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -252,8 +252,8 @@
       "title": "SRC Elections 2026: Voting",
       "due_date": "2026-08-19",
       "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
+      "course_id": "SRC Elections UG 2026",
+      "course_name": "SRC Elections UG 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
