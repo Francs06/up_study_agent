@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T06:23:59.055505+00:00",
-  "generated_at_human": "23 July 2026 at 06:23 SAST",
-  "focus_today": "Focus on **_190957_1 TT0, G01 Lecture, and T06-T08 Tutorials**\u2014all due tomorrow (Friday). These are your immediate priorities and you've got less than 24 hours. Knock these out today so you're clear for the WTW238 test on Saturday and the MTX 221 quizzes next week.",
-  "total_upcoming_deadlines": 49,
+  "generated_at": "2026-07-23T12:24:03.615761+00:00",
+  "generated_at_human": "23 July 2026 at 12:24 SAST",
+  "focus_today": "**Focus for Today:**\n\nGet _190957_1 TT0 submitted by tomorrow\u2014that's your immediate priority and it's due in less than 24 hours. After that's done, start reviewing MTX 221 Session 01 material since the quiz drops in 4 days and you've got a packed week of quizzes ahead.",
+  "total_upcoming_deadlines": 44,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -54,58 +54,8 @@
       "due_time": "15:30",
       "course_id": "_190957_1",
       "course_name": "_190957_1",
-      "label": "SU:DUE",
-      "event_type": "SU:DUE",
-      "url": null
-    },
-    {
-      "title": "G01 Lecture (b3m3B2, Dr Wannenburg)",
-      "due_date": "2026-07-24",
-      "due_time": "08:30",
-      "course_id": "_190957_1",
-      "course_name": "_190957_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "T06 Tutorial",
-      "due_date": "2026-07-24",
-      "due_time": "14:30",
-      "course_id": "_190957_1",
-      "course_name": "_190957_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "T07 Tutorial",
-      "due_date": "2026-07-24",
-      "due_time": "14:30",
-      "course_id": "_190957_1",
-      "course_name": "_190957_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "T08 Tutorial",
-      "due_date": "2026-07-24",
-      "due_time": "14:30",
-      "course_id": "_190957_1",
-      "course_name": "_190957_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW238: Compulsory clickUP test (Limits and L'Hospital's rule)",
-      "due_date": "2026-07-25",
-      "due_time": "17:30",
-      "course_id": "_190957_1",
-      "course_name": "_190957_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "label": "SU:SU_AVAIL",
+      "event_type": "SU:SU_AVAIL",
       "url": null
     },
     {
@@ -169,7 +119,17 @@
       "url": null
     },
     {
-      "title": "2026 SRC Elections: Candidate Application Deadline",
+      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment - Due",
+      "due_date": "2026-07-31",
+      "due_time": "23:59",
+      "course_id": "JCP 203 Y1 2026",
+      "course_name": "JCP 203 Y1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "SRC Elections 2026: Candidate Application Deadline",
       "due_date": "2026-08-03",
       "due_time": "16:00",
       "course_id": "_195115_1",
@@ -224,8 +184,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
@@ -234,8 +194,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
@@ -269,23 +229,13 @@
       "url": null
     },
     {
-      "title": "2026 SRC Elections Voting",
-      "due_date": "2026-08-19",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MTX 221 S2 2026: Session 16 (5D) - Quiz",
       "due_date": "2026-08-20",
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
@@ -294,8 +244,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
@@ -304,8 +254,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
       "url": null
     },
     {
@@ -334,8 +284,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
@@ -354,8 +304,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
       "url": null
     },
     {
@@ -384,22 +334,22 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
-      "url": null
-    },
-    {
-      "title": "MTX 221 S2 2026: Session 27 (7B) - Quiz",
-      "due_date": "2026-10-06",
-      "due_time": "21:59",
-      "course_id": "_189368_1",
-      "course_name": "MTX 221 S2 2026",
       "label": "TE:TE_AVAIL",
       "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
       "title": "MTX 221 S2 2026: Session 28 (7C) - Quiz",
+      "due_date": "2026-10-06",
+      "due_time": "21:59",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Session 27 (7B) - Quiz",
       "due_date": "2026-10-06",
       "due_time": "21:59",
       "course_id": "_189368_1",
@@ -484,8 +434,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
@@ -524,8 +474,8 @@
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
