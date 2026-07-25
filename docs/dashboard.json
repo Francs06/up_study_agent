@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T06:09:31.298300+00:00",
-  "generated_at_human": "25 July 2026 at 06:09 SAST",
-  "focus_today": "**Focus for today (Saturday, 25 July):**\n\nYou've got 5 MTX 221 quizzes due in the next 7 days starting Monday\u2014that's your immediate priority. Knock out Session 01 quiz today or tomorrow morning to build momentum, then tackle Sessions 02 & 03 before Tuesday's class test.",
-  "total_upcoming_deadlines": 48,
+  "generated_at": "2026-07-25T12:02:38.596621+00:00",
+  "generated_at_human": "25 July 2026 at 12:02 SAST",
+  "focus_today": "**Focus for Today:**\n\nYour MTX 221 Session 01 quiz is due Monday\u2014start reviewing that material today so you're not cramming Sunday night before Class Test 1 hits Tuesday. You've got a heavy week ahead with back-to-back quizzes, so getting ahead now on the first session will make everything else manageable.",
+  "total_upcoming_deadlines": 47,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -119,7 +119,7 @@
       "url": null
     },
     {
-      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment - Due",
+      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment",
       "due_date": "2026-07-31",
       "due_time": "23:59",
       "course_id": "JCP 203 Y1 2026",
@@ -129,7 +129,7 @@
       "url": null
     },
     {
-      "title": "2026 SRC Elections: Application Deadline",
+      "title": "SRC Elections 2026: Candidate Application Deadline",
       "due_date": "2026-08-03",
       "due_time": "16:00",
       "course_id": "_195115_1",
@@ -246,16 +246,6 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:TE_AVAIL",
       "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "2026 SRC Elections: Voting Period",
-      "due_date": "2026-08-19",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
