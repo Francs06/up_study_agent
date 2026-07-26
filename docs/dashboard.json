@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26T06:29:05.598507+00:00",
-  "generated_at_human": "26 July 2026 at 06:29 SAST",
-  "focus_today": "# Focus for Today\n\nYou've got **MTX 221 Session 01 Quiz due tomorrow (Monday)** \u2014 that's your immediate priority. Spend tonight reviewing the 1A material so you can knock it out first thing tomorrow, then you'll be in better shape to tackle Sessions 02-03 before Wednesday. The other quizzes will keep coming fast after that, so getting ahead on the first one matters.",
-  "total_upcoming_deadlines": 47,
+  "generated_at": "2026-07-26T12:02:54.071093+00:00",
+  "generated_at_human": "26 July 2026 at 12:02 SAST",
+  "focus_today": "**Focus for Today (Sunday, 26 July)**\n\nYou have 4 MTX 221 quizzes due in the next 4 days starting tomorrow\u2014tackle Session 01 tonight so you're not cramming all week. Block out 2-3 hours now to review and knock out that first quiz before Monday.",
+  "total_upcoming_deadlines": 46,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -109,7 +109,7 @@
       "url": null
     },
     {
-      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment",
+      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment - Due",
       "due_date": "2026-07-31",
       "due_time": "23:59",
       "course_id": "JCP 203 Y1 2026",
@@ -236,16 +236,6 @@
       "course_name": "MTX 221 S2 2026",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
-      "url": null
-    },
-    {
-      "title": "SRC Elections 2026: Voting",
-      "due_date": "2026-08-19",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
