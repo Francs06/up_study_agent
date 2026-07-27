@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T06:55:01.080236+00:00",
-  "generated_at_human": "27 July 2026 at 06:55 SAST",
-  "focus_today": "**Focus for Today (Monday, 27 July):**\n\nYour JCP R2 assignment is due Friday\u2014that's your nearest hard deadline, so block time today or tomorrow to draft it. After that, start reviewing MTX 221 Sessions 3C and 3D since those quizzes hit back-to-back on Aug 4-5, which'll come fast.",
-  "total_upcoming_deadlines": 39,
+  "generated_at": "2026-07-27T13:39:07.358355+00:00",
+  "generated_at_human": "27 July 2026 at 13:39 SAST",
+  "focus_today": "**Focus for today:** Your JCP deadlines are in 4 days (July 31)\u2014prioritize finishing those Final Project Videos and Evidence Document to lock in the 3% early submission bonus, then tackle the R2 Self & Peer Evaluation. Once JCP is squared away, start reviewing MTX 221 material since quizzes start dropping August 4th.",
+  "total_upcoming_deadlines": 42,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,6 +48,26 @@
     }
   },
   "all_deadlines": [
+    {
+      "title": "JCP Final Project Videos & Evidence Document - Early Submission Deadline (3% incentive)",
+      "due_date": "2026-07-31",
+      "due_time": "08:00",
+      "course_id": "JCP 203 Y1 2026",
+      "course_name": "JCP 203 Y1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "JCP Reflection 2 (R2) Self & Peer Evaluation - Due",
+      "due_date": "2026-07-31",
+      "due_time": "08:00",
+      "course_id": "JCP 203 Y1 2026",
+      "course_name": "JCP 203 Y1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
     {
       "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment",
       "due_date": "2026-07-31",
@@ -159,7 +179,7 @@
       "url": null
     },
     {
-      "title": "SRC Elections 2026: Voting Period",
+      "title": "SRC Elections 2026: Voting",
       "due_date": "2026-08-19",
       "due_time": "08:00",
       "course_id": "_195115_1",
@@ -276,6 +296,16 @@
       "course_name": "JCP 203 Y1 2026",
       "label": "UA:UA_AVAIL",
       "event_type": "UA:UA_AVAIL",
+      "url": null
+    },
+    {
+      "title": "JCP Final Project Videos & Evidence Document - Final Submission Deadline",
+      "due_date": "2026-10-02",
+      "due_time": "08:00",
+      "course_id": "JCP 203 Y1 2026",
+      "course_name": "JCP 203 Y1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
