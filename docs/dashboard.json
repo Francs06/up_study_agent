@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-28T06:18:29.598819+00:00",
-  "generated_at_human": "28 July 2026 at 06:18 SAST",
-  "focus_today": "**Focus for Today, Franco:**\n\nYou have **JCP Consultation Hours due TODAY (28 July)** \u2014 make sure you've attended or scheduled this if you haven't already. After that, prioritize the **JCP R2 Self & Peer Evaluation and Reflection Assignment (due 31 July)** since you've got only 3 days and it overlaps with the final project videos deadline with the 3% early submission incentive.",
-  "total_upcoming_deadlines": 43,
+  "generated_at": "2026-07-28T12:53:05.654226+00:00",
+  "generated_at_human": "28 July 2026 at 12:53 SAST",
+  "focus_today": "**Focus for Today, Franco:**\n\nYou have 3 days to submit JCP's final project videos, evidence document, and all reflection/peer evaluation work\u2014don't push this to the last minute. Start on these today so you can lock in that 3% early submission bonus, then move into prepping for the MTX 221 quizzes that start Friday.",
+  "total_upcoming_deadlines": 42,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,17 +49,7 @@
   },
   "all_deadlines": [
     {
-      "title": "JCP Consultation Hours",
-      "due_date": "2026-07-28",
-      "due_time": "13:30",
-      "course_id": "JCP 203 Y1 2026",
-      "course_name": "JCP 203 Y1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "JCP Final Project Videos & Evidence Document - Early Submission Deadline (3% incentive)",
+      "title": "JCP Final Project Videos & Evidence Document - Early Submission (3% incentive)",
       "due_date": "2026-07-31",
       "due_time": "08:00",
       "course_id": "JCP 203 Y1 2026",
@@ -79,7 +69,7 @@
       "url": null
     },
     {
-      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment - Due",
+      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment - DUE",
       "due_date": "2026-07-31",
       "due_time": "23:59",
       "course_id": "JCP 203 Y1 2026",
@@ -209,7 +199,7 @@
       "url": null
     },
     {
-      "title": "JCP Final Project Videos & Evidence Document - Second Deadline (2% incentive)",
+      "title": "JCP Final Project Videos & Evidence Document - Standard Submission (2% incentive)",
       "due_date": "2026-08-31",
       "due_time": "08:00",
       "course_id": "JCP 203 Y1 2026",
