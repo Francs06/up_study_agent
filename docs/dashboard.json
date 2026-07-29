@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T06:24:12.158777+00:00",
-  "generated_at_human": "29 July 2026 at 06:24 SAST",
-  "focus_today": "**Focus for today:** Both morning and afternoon Semester Planning Workshop sessions are due TODAY\u2014complete these first if you haven't already. After that, prioritize the JCP Final Project Videos & Evidence Document for the 3% early submission bonus (due tomorrow), since that's tangible points you can secure right now.",
+  "generated_at": "2026-07-29T12:59:54.926818+00:00",
+  "generated_at_human": "29 July 2026 at 12:59 SAST",
+  "focus_today": "You've got **Class Test 1 tomorrow**\u2014that's your priority today. Everything else (Study Abroad Fair, planning sessions) is secondary; nail this test first, then tackle the JCP submissions due tomorrow evening if time allows.",
   "total_upcoming_deadlines": 46,
   "courses": {
     "_190939_1": {
@@ -49,27 +49,27 @@
   },
   "all_deadlines": [
     {
-      "title": "Semester Planning Workshop - Morning Session",
-      "due_date": "2026-07-29",
-      "due_time": "10:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
+      "title": "_190881_1: Class Test 1",
+      "due_date": "2026-07-30",
+      "due_time": "21:59",
+      "course_id": "_190881_1",
+      "course_name": "_190881_1",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
+      "url": null
+    },
+    {
+      "title": "2nd Annual Study Abroad Fair 2026",
+      "due_date": "2026-07-30",
+      "due_time": "12:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
-      "title": "Semester Planning Workshop - Afternoon Session",
-      "due_date": "2026-07-29",
-      "due_time": "14:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Semester Planning Workshop - Morning Session",
+      "title": "Semester Planning Session - Morning",
       "due_date": "2026-07-30",
       "due_time": "09:30",
       "course_id": "_192835_1",
@@ -79,7 +79,7 @@
       "url": null
     },
     {
-      "title": "Semester Planning Workshop - Afternoon Session",
+      "title": "Semester Planning Session - Afternoon",
       "due_date": "2026-07-30",
       "due_time": "13:30",
       "course_id": "_192835_1",
@@ -109,7 +109,7 @@
       "url": null
     },
     {
-      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment - Due",
+      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment",
       "due_date": "2026-07-31",
       "due_time": "23:59",
       "course_id": "JCP 203 Y1 2026",
@@ -239,7 +239,7 @@
       "url": null
     },
     {
-      "title": "JCP Final Project Videos & Evidence Document - 2% Incentive Deadline",
+      "title": "JCP Final Project Videos & Evidence Document - Standard Submission (2% incentive)",
       "due_date": "2026-08-31",
       "due_time": "08:00",
       "course_id": "JCP 203 Y1 2026",
