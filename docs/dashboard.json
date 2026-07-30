@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-29T12:59:54.926818+00:00",
-  "generated_at_human": "29 July 2026 at 12:59 SAST",
-  "focus_today": "You've got **Class Test 1 tomorrow**\u2014that's your priority today. Everything else (Study Abroad Fair, planning sessions) is secondary; nail this test first, then tackle the JCP submissions due tomorrow evening if time allows.",
-  "total_upcoming_deadlines": 46,
+  "generated_at": "2026-07-30T06:18:31.859891+00:00",
+  "generated_at_human": "30 July 2026 at 06:18 SAST",
+  "focus_today": "**Focus for Today (Thursday, 30 July):**\n\nYou have two deadlines TODAY: _190881_1 Class Test 1 and the Study Abroad Fair. Prioritize the class test first since it's exam-based, then handle the fair registration. After that, shift to the MTX 221 CT1 (due tomorrow) and JCP reflection/evaluation work\u2014these pile up by Friday.",
+  "total_upcoming_deadlines": 45,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -69,23 +69,13 @@
       "url": null
     },
     {
-      "title": "Semester Planning Session - Morning",
-      "due_date": "2026-07-30",
-      "due_time": "09:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Semester Planning Session - Afternoon",
-      "due_date": "2026-07-30",
-      "due_time": "13:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "title": "MTX 221 S2 2026: CT1",
+      "due_date": "2026-07-31",
+      "due_time": "03:10",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "GB:DUE",
+      "event_type": "GB:DUE",
       "url": null
     },
     {
@@ -239,7 +229,7 @@
       "url": null
     },
     {
-      "title": "JCP Final Project Videos & Evidence Document - Standard Submission (2% incentive)",
+      "title": "JCP Final Project Videos & Evidence Document - 2% Incentive Deadline",
       "due_date": "2026-08-31",
       "due_time": "08:00",
       "course_id": "JCP 203 Y1 2026",
@@ -339,7 +329,7 @@
       "url": null
     },
     {
-      "title": "JCP Final Project Videos & Evidence Document - Official Deadline",
+      "title": "JCP Final Project - Official Submission Deadline",
       "due_date": "2026-10-02",
       "due_time": "08:00",
       "course_id": "JCP 203 Y1 2026",
