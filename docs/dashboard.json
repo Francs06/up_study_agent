@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T06:18:31.859891+00:00",
-  "generated_at_human": "30 July 2026 at 06:18 SAST",
-  "focus_today": "**Focus for Today (Thursday, 30 July):**\n\nYou have two deadlines TODAY: _190881_1 Class Test 1 and the Study Abroad Fair. Prioritize the class test first since it's exam-based, then handle the fair registration. After that, shift to the MTX 221 CT1 (due tomorrow) and JCP reflection/evaluation work\u2014these pile up by Friday.",
-  "total_upcoming_deadlines": 45,
+  "generated_at": "2026-07-30T12:28:49.266348+00:00",
+  "generated_at_human": "30 July 2026 at 12:28 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have a Class Test 1 due TODAY (_190881_1) \u2013 make sure it's submitted before the deadline closes. After that, shift your attention to MTX 221's CT1 due tomorrow (2026-07-31), which should be your priority for the rest of the day.",
+  "total_upcoming_deadlines": 39,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -59,16 +59,6 @@
       "url": null
     },
     {
-      "title": "2nd Annual Study Abroad Fair 2026",
-      "due_date": "2026-07-30",
-      "due_time": "12:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MTX 221 S2 2026: CT1",
       "due_date": "2026-07-31",
       "due_time": "03:10",
@@ -76,36 +66,6 @@
       "course_name": "MTX 221 S2 2026",
       "label": "GB:DUE",
       "event_type": "GB:DUE",
-      "url": null
-    },
-    {
-      "title": "JCP Final Project Videos & Evidence Document - Early Submission (3% incentive)",
-      "due_date": "2026-07-31",
-      "due_time": "08:00",
-      "course_id": "JCP 203 Y1 2026",
-      "course_name": "JCP 203 Y1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "JCP Reflection 2 (R2) Self & Peer Evaluation - Due",
-      "due_date": "2026-07-31",
-      "due_time": "08:00",
-      "course_id": "JCP 203 Y1 2026",
-      "course_name": "JCP 203 Y1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "JCP R2 Self & Peer Evaluation and Reflection Assignment",
-      "due_date": "2026-07-31",
-      "due_time": "23:59",
-      "course_id": "JCP 203 Y1 2026",
-      "course_name": "JCP 203 Y1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -119,21 +79,21 @@
       "url": null
     },
     {
-      "title": "JCP Consultation Hours",
-      "due_date": "2026-08-04",
-      "due_time": "13:30",
-      "course_id": "JCP 203 Y1 2026",
-      "course_name": "JCP 203 Y1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MTX 221 S2 2026: Session 09 (4A) - Quiz",
       "due_date": "2026-08-06",
       "due_time": "21:59",
       "course_id": "_189368_1",
       "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "_187482_1: Assignment 1: Introduction to data",
+      "due_date": "2026-08-07",
+      "due_time": "15:00",
+      "course_id": "_187482_1",
+      "course_name": "_187482_1",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
       "url": null
@@ -229,16 +189,6 @@
       "url": null
     },
     {
-      "title": "JCP Final Project Videos & Evidence Document - 2% Incentive Deadline",
-      "due_date": "2026-08-31",
-      "due_time": "08:00",
-      "course_id": "JCP 203 Y1 2026",
-      "course_name": "JCP 203 Y1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "MTX 221 S2 2026: Session 18 (5F) - Quiz",
       "due_date": "2026-09-07",
       "due_time": "21:59",
@@ -326,16 +276,6 @@
       "course_name": "JCP 203 Y1 2026",
       "label": "UA:UA_AVAIL",
       "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "JCP Final Project - Official Submission Deadline",
-      "due_date": "2026-10-02",
-      "due_time": "08:00",
-      "course_id": "JCP 203 Y1 2026",
-      "course_name": "JCP 203 Y1 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
