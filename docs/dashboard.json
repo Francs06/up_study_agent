@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T06:37:03.373605+00:00",
-  "generated_at_human": "31 July 2026 at 06:37 SAST",
-  "focus_today": "You've got **7 days until your data assignment is due** \u2014 that's your immediate priority. Start it today if you haven't already, especially since you have the SARAO application coming up next week. Get one of these two locked down this weekend.",
+  "generated_at": "2026-07-31T12:55:06.952964+00:00",
+  "generated_at_human": "31 July 2026 at 12:55 SAST",
+  "focus_today": "**Focus for today:**\n\nYou've got two weeks until the data assignment (Aug 7) and the SARAO application (Aug 14)\u2014both are harder to rush than they look. Pick one to make real progress on today; the assignment is probably more time-sensitive since it's due first.",
   "total_upcoming_deadlines": 15,
   "courses": {
     "_190939_1": {
@@ -59,7 +59,7 @@
       "url": null
     },
     {
-      "title": "SARAO Honours Application Deadline",
+      "title": "SARAO Honours - Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -189,7 +189,7 @@
       "url": null
     },
     {
-      "title": "DSI-NRF Honours Scholarships Application Deadline",
+      "title": "DSI-NRF Honours Scholarships - Application Closing Date",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
