@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T06:20:39.561001+00:00",
-  "generated_at_human": "01 August 2026 at 06:20 SAST",
-  "focus_today": "**Focus for Today:**\n\nMOW 227 Class Test 2 is due *today* \u2014 make sure you submit before the deadline closes. After that's done, start reviewing the data assignment brief for _187482_1 since you've got a week to complete it.",
-  "total_upcoming_deadlines": 5,
+  "generated_at": "2026-08-01T12:02:57.767044+00:00",
+  "generated_at_human": "01 August 2026 at 12:02 SAST",
+  "focus_today": "**Focus for today:**\n\nMOW 227 S2 2026: Class Test 2 is due **today (01 August)**\u2014make sure you've submitted it if you haven't already. After that, shift to MTX 221: Class Test 1 papers are due back in tutorial on Monday (03 August), so review any feedback you get and note the error reporting deadline for 17 August.",
+  "total_upcoming_deadlines": 7,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -59,6 +59,16 @@
       "url": null
     },
     {
+      "title": "MTX 221: Class Test 1 - Paper return in tutorial",
+      "due_date": "2026-08-03",
+      "due_time": "08:00",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "_187482_1: Assignment 1: Introduction to data",
       "due_date": "2026-08-07",
       "due_time": "15:00",
@@ -69,11 +79,21 @@
       "url": null
     },
     {
-      "title": "SARAO Honours Application Deadline",
+      "title": "SARAO Honours Scholarships - Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
       "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MTX 221: Class Test 1 - Error reporting deadline",
+      "due_date": "2026-08-17",
+      "due_time": "08:00",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -89,7 +109,7 @@
       "url": null
     },
     {
-      "title": "DSI-NRF Honours Scholarships Application Deadline",
+      "title": "DSI-NRF Honours Scholarships - Application Closing Date",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
