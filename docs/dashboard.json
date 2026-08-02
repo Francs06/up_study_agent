@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T12:02:57.767044+00:00",
-  "generated_at_human": "01 August 2026 at 12:02 SAST",
-  "focus_today": "**Focus for today:**\n\nMOW 227 S2 2026: Class Test 2 is due **today (01 August)**\u2014make sure you've submitted it if you haven't already. After that, shift to MTX 221: Class Test 1 papers are due back in tutorial on Monday (03 August), so review any feedback you get and note the error reporting deadline for 17 August.",
-  "total_upcoming_deadlines": 7,
+  "generated_at": "2026-08-02T06:26:26.509515+00:00",
+  "generated_at_human": "02 August 2026 at 06:26 SAST",
+  "focus_today": "**Focus for today:** Knock out _187482_1 Assignment 1 on data\u2014you've got 5 days and this is your most urgent deadline. Spend at least 2-3 hours on it today so you're not scrambling midweek.",
+  "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,26 +49,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MOW 227 S2 2026: Class Test 2",
-      "due_date": "2026-08-01",
-      "due_time": "21:59",
-      "course_id": "_190881_1",
-      "course_name": "MOW 227 S2 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MTX 221: Class Test 1 - Paper return in tutorial",
-      "due_date": "2026-08-03",
-      "due_time": "08:00",
-      "course_id": "MTX 221 S2 2026",
-      "course_name": "MTX 221 S2 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "_187482_1: Assignment 1: Introduction to data",
       "due_date": "2026-08-07",
       "due_time": "15:00",
@@ -79,21 +59,11 @@
       "url": null
     },
     {
-      "title": "SARAO Honours Scholarships - Application Closing Date",
+      "title": "SARAO Honours - Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
       "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MTX 221: Class Test 1 - Error reporting deadline",
-      "due_date": "2026-08-17",
-      "due_time": "08:00",
-      "course_id": "MTX 221 S2 2026",
-      "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
