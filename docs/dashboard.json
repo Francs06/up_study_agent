@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T13:40:43.532294+00:00",
-  "generated_at_human": "03 August 2026 at 13:40 SAST",
-  "focus_today": "# Focus for Today\n\nYour Assignment 1 on data is due Friday\u2014that's your closest deadline with only 4 days left. Start or push it forward today so you're not cramming Wednesday/Thursday. The SARAO Honours application closes next Friday too, so if you're interested, block out time this week to work on it alongside the assignment.",
+  "generated_at": "2026-08-04T06:19:45.977068+00:00",
+  "generated_at_human": "04 August 2026 at 06:19 SAST",
+  "focus_today": "You've got 3 days to submit that _187482_1 Assignment 1 on data\u2014get it done today or tomorrow so you're not scrambling Thursday. After that, the SARAO Honours deadline (Aug 14) is your next priority, so start gathering materials for that application this week.",
   "total_upcoming_deadlines": 5,
   "courses": {
     "_190939_1": {
@@ -59,7 +59,7 @@
       "url": null
     },
     {
-      "title": "SARAO Honours - Application Closing Date",
+      "title": "SARAO Honours Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -69,7 +69,7 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost or academic record impact",
+      "title": "Last day to deregister modules without cost or academic impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
@@ -84,12 +84,12 @@
       "due_time": "18:00",
       "course_id": "_193485_1",
       "course_name": "JCP 203 Y1 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
       "url": null
     },
     {
-      "title": "DSI-NRF Honours Scholarships - Application Closing Date",
+      "title": "DSI-NRF Honours Scholarships Application Closing Date",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
