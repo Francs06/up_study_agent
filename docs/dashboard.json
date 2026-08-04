@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T06:19:45.977068+00:00",
-  "generated_at_human": "04 August 2026 at 06:19 SAST",
-  "focus_today": "You've got 3 days to submit that _187482_1 Assignment 1 on data\u2014get it done today or tomorrow so you're not scrambling Thursday. After that, the SARAO Honours deadline (Aug 14) is your next priority, so start gathering materials for that application this week.",
-  "total_upcoming_deadlines": 5,
+  "generated_at": "2026-08-04T13:01:51.403392+00:00",
+  "generated_at_human": "04 August 2026 at 13:01 SAST",
+  "focus_today": "**Focus for today:** You have 3 days to submit Assignment 1 on data\u2014knock that out ASAP so it's not hanging over you. Also, mark August 7th hard: that's when both the assignment and the Class Rep training are due, so confirm you're signed up for that session if you're interested.",
+  "total_upcoming_deadlines": 6,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -59,6 +59,16 @@
       "url": null
     },
     {
+      "title": "Semester 2 Class Representative Training Session",
+      "due_date": "2026-08-07",
+      "due_time": "18:00",
+      "course_id": "_192832_1",
+      "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
       "title": "SARAO Honours Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
@@ -69,7 +79,7 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost or academic impact",
+      "title": "Last day to deregister modules without cost/impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
