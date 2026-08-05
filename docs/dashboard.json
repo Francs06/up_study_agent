@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T13:01:51.403392+00:00",
-  "generated_at_human": "04 August 2026 at 13:01 SAST",
-  "focus_today": "**Focus for today:** You have 3 days to submit Assignment 1 on data\u2014knock that out ASAP so it's not hanging over you. Also, mark August 7th hard: that's when both the assignment and the Class Rep training are due, so confirm you're signed up for that session if you're interested.",
+  "generated_at": "2026-08-05T06:19:34.610479+00:00",
+  "generated_at_human": "05 August 2026 at 06:19 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have two deadlines in 2 days (Friday) \u2014 nail down Assignment 1 on data and confirm your attendance/prep for the Class Rep training. Get the assignment submitted first, then sort the training session so you're not scrambling Thursday night.",
   "total_upcoming_deadlines": 6,
   "courses": {
     "_190939_1": {
@@ -69,7 +69,7 @@
       "url": null
     },
     {
-      "title": "SARAO Honours Application Closing Date",
+      "title": "SARAO Honours - Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -79,7 +79,7 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost/impact",
+      "title": "Last day to deregister modules without cost or academic record impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
@@ -99,7 +99,7 @@
       "url": null
     },
     {
-      "title": "DSI-NRF Honours Scholarships Application Closing Date",
+      "title": "DSI-NRF Honours Scholarships - Application Closing Date",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
