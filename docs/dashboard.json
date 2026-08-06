@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T12:51:31.216744+00:00",
-  "generated_at_human": "05 August 2026 at 12:51 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou've got two things due Friday (08 Aug): the data assignment and class rep training. Knock out the assignment first\u2014it's the harder lift\u2014then sort the training session details so you're not scrambling Friday morning.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-08-06T06:22:21.511159+00:00",
+  "generated_at_human": "06 August 2026 at 06:22 SAST",
+  "focus_today": "**Focus for today:** You have two deadlines tomorrow (Friday 07 Aug) \u2014 knock out Assignment 1 for _187482_1 and confirm your attendance/prep for the Class Rep Training. These are immediate and non-negotiable; everything else can wait until the weekend.",
+  "total_upcoming_deadlines": 7,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -69,7 +69,7 @@
       "url": null
     },
     {
-      "title": "SARAO Honours Application Deadline",
+      "title": "SARAO Honours Scholarship Application Deadline",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -79,11 +79,21 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost or academic record impact",
+      "title": "Last day to deregister modules without cost/impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
       "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Prescribed Textbook Needs Survey - Closing Date",
+      "due_date": "2026-08-21",
+      "due_time": "08:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -99,7 +109,7 @@
       "url": null
     },
     {
-      "title": "DSI-NRF Honours Scholarships Application Deadline",
+      "title": "Honours Scholarships Application Deadline",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
