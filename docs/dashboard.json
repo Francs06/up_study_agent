@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T06:22:21.511159+00:00",
-  "generated_at_human": "06 August 2026 at 06:22 SAST",
-  "focus_today": "**Focus for today:** You have two deadlines tomorrow (Friday 07 Aug) \u2014 knock out Assignment 1 for _187482_1 and confirm your attendance/prep for the Class Rep Training. These are immediate and non-negotiable; everything else can wait until the weekend.",
-  "total_upcoming_deadlines": 7,
+  "generated_at": "2026-08-06T12:55:37.715923+00:00",
+  "generated_at_human": "06 August 2026 at 12:55 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have two deadlines **tomorrow (Friday)** \u2013 knock out Assignment 1 for _187482_1 and confirm your attendance/prep for the Class Rep Training. Get Assignment 1 done first since it's coursework; the training session is non-negotiable but likely just requires you to show up.",
+  "total_upcoming_deadlines": 6,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -69,7 +69,7 @@
       "url": null
     },
     {
-      "title": "SARAO Honours Scholarship Application Deadline",
+      "title": "SARAO Honours - Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -79,21 +79,11 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost/impact",
+      "title": "Last day to deregister modules without cost or academic record impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
       "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Prescribed Textbook Needs Survey - Closing Date",
-      "due_date": "2026-08-21",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -109,7 +99,7 @@
       "url": null
     },
     {
-      "title": "Honours Scholarships Application Deadline",
+      "title": "DSI-NRF Honours Scholarships - Application Closing Date",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
