@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T05:27:37.499259+00:00",
-  "generated_at_human": "07 August 2026 at 05:27 SAST",
-  "focus_today": "**Focus for Today:**\n\nThe Class Rep Training Session is due **today** \u2013 make sure you complete it if you haven't already. Beyond that, you've got a week to decide on the SARAO Honours application (due Aug 14), so if you're interested, start gathering your materials now rather than leaving it until next week.",
-  "total_upcoming_deadlines": 5,
+  "generated_at": "2026-08-07T11:44:16.297186+00:00",
+  "generated_at_human": "07 August 2026 at 11:44 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou have the Semester 2 Class Representative Training Session due TODAY (tonight). Complete that first thing.\n\nThen start prepping for the WTW 263 Test 1 on Tuesday the 11th\u2014you've got the weekend to study, so use it.",
+  "total_upcoming_deadlines": 12,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -54,6 +54,76 @@
       "due_time": "18:00",
       "course_id": "_192832_1",
       "course_name": "_192832_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
+      "due_date": "2026-08-11",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
+      "due_date": "2026-08-11",
+      "due_time": "13:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 263 S2: ClickUP Test 1",
+      "due_date": "2026-08-11",
+      "due_time": "14:30",
+      "course_id": "WTW 263 S2 2026",
+      "course_name": "WTW 263 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
+      "due_date": "2026-08-12",
+      "due_time": "10:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
+      "due_date": "2026-08-12",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
+      "due_date": "2026-08-13",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
+      "due_date": "2026-08-13",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
