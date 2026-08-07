@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-06T12:55:37.715923+00:00",
-  "generated_at_human": "06 August 2026 at 12:55 SAST",
-  "focus_today": "**Focus for today:**\n\nYou have two deadlines **tomorrow (Friday)** \u2013 knock out Assignment 1 for _187482_1 and confirm your attendance/prep for the Class Rep Training. Get Assignment 1 done first since it's coursework; the training session is non-negotiable but likely just requires you to show up.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-08-07T05:27:37.499259+00:00",
+  "generated_at_human": "07 August 2026 at 05:27 SAST",
+  "focus_today": "**Focus for Today:**\n\nThe Class Rep Training Session is due **today** \u2013 make sure you complete it if you haven't already. Beyond that, you've got a week to decide on the SARAO Honours application (due Aug 14), so if you're interested, start gathering your materials now rather than leaving it until next week.",
+  "total_upcoming_deadlines": 5,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,16 +48,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "_187482_1: Assignment 1: Introduction to data",
-      "due_date": "2026-08-07",
-      "due_time": "15:00",
-      "course_id": "_187482_1",
-      "course_name": "_187482_1",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
-      "url": null
-    },
     {
       "title": "Semester 2 Class Representative Training Session",
       "due_date": "2026-08-07",
