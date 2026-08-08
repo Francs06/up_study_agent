@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T11:44:16.297186+00:00",
-  "generated_at_human": "07 August 2026 at 11:44 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have the Semester 2 Class Representative Training Session due TODAY (tonight). Complete that first thing.\n\nThen start prepping for the WTW 263 Test 1 on Tuesday the 11th\u2014you've got the weekend to study, so use it.",
-  "total_upcoming_deadlines": 12,
+  "generated_at": "2026-08-08T04:46:10.421187+00:00",
+  "generated_at_human": "08 August 2026 at 04:46 SAST",
+  "focus_today": "**Focus for Today:**\n\nMOW 227 Class Test 3 is due **today** \u2014 submit it immediately if you haven't already. After that, shift your attention to WTW 263 ClickUP Test 1 (due Tuesday), which gives you the next 3 days to prepare.",
+  "total_upcoming_deadlines": 6,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,33 +49,13 @@
   },
   "all_deadlines": [
     {
-      "title": "Semester 2 Class Representative Training Session",
-      "due_date": "2026-08-07",
-      "due_time": "18:00",
-      "course_id": "_192832_1",
-      "course_name": "_192832_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
-      "due_date": "2026-08-11",
-      "due_time": "09:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
-      "due_date": "2026-08-11",
-      "due_time": "13:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "title": "MOW 227 S2 2026: Class Test 3",
+      "due_date": "2026-08-08",
+      "due_time": "21:59",
+      "course_id": "_190881_1",
+      "course_name": "MOW 227 S2 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     },
     {
@@ -89,47 +69,7 @@
       "url": null
     },
     {
-      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
-      "due_date": "2026-08-12",
-      "due_time": "10:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
-      "due_date": "2026-08-12",
-      "due_time": "14:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
-      "due_date": "2026-08-13",
-      "due_time": "09:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
-      "due_date": "2026-08-13",
-      "due_time": "14:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "SARAO Honours - Application Closing Date",
+      "title": "SARAO Honours Application Deadline",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -139,7 +79,7 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost or academic record impact",
+      "title": "Last day to deregister modules without cost/impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
@@ -159,7 +99,7 @@
       "url": null
     },
     {
-      "title": "DSI-NRF Honours Scholarships - Application Closing Date",
+      "title": "DSI-NRF Honours Scholarships Application Deadline",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
