@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T04:46:10.421187+00:00",
-  "generated_at_human": "08 August 2026 at 04:46 SAST",
-  "focus_today": "**Focus for Today:**\n\nMOW 227 Class Test 3 is due **today** \u2014 submit it immediately if you haven't already. After that, shift your attention to WTW 263 ClickUP Test 1 (due Tuesday), which gives you the next 3 days to prepare.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-08-08T11:27:22.274694+00:00",
+  "generated_at_human": "08 August 2026 at 11:27 SAST",
+  "focus_today": "**Focus for Today:**\n\nMOW 227 Class Test 3 is due **today** \u2013 make sure you've completed and submitted it if you haven't already. After that's done, start prepping for WTW 263's ClickUP Test 1 (due Tuesday), since that's your next immediate priority.",
+  "total_upcoming_deadlines": 16,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -59,7 +59,27 @@
       "url": null
     },
     {
-      "title": "WTW 263 S2: ClickUP Test 1",
+      "title": "Test Preparation and Consultation Tips Workshop (Morning)",
+      "due_date": "2026-08-11",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop (Afternoon)",
+      "due_date": "2026-08-11",
+      "due_time": "13:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 263: ClickUP Test 1",
       "due_date": "2026-08-11",
       "due_time": "14:30",
       "course_id": "WTW 263 S2 2026",
@@ -69,7 +89,57 @@
       "url": null
     },
     {
-      "title": "SARAO Honours Application Deadline",
+      "title": "Test Preparation and Consultation Tips Workshop (Morning)",
+      "due_date": "2026-08-12",
+      "due_time": "10:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop (Afternoon)",
+      "due_date": "2026-08-12",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop (Morning)",
+      "due_date": "2026-08-13",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop (Afternoon)",
+      "due_date": "2026-08-13",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program Information Session",
+      "due_date": "2026-08-13",
+      "due_time": "17:30",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "SARAO Honours Application Closing Date",
       "due_date": "2026-08-14",
       "due_time": "08:00",
       "course_id": "_192867_1",
@@ -79,11 +149,41 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost/impact",
+      "title": "Last day to deregister modules without cost or academic record impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
       "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Prescribed Textbook Needs Survey - Closing Date",
+      "due_date": "2026-08-21",
+      "due_time": "08:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Mastercard Foundation Scholars - Undergraduate Application Deadline",
+      "due_date": "2026-08-31",
+      "due_time": "08:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Mastercard Foundation Scholars - Postgraduate Application Deadline",
+      "due_date": "2026-09-30",
+      "due_time": "08:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -99,7 +199,7 @@
       "url": null
     },
     {
-      "title": "DSI-NRF Honours Scholarships Application Deadline",
+      "title": "DSI-NRF Honours Scholarships Application Closing Date",
       "due_date": "2026-11-23",
       "due_time": "08:00",
       "course_id": "_192867_1",
