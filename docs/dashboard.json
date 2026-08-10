@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T11:27:53.758283+00:00",
-  "generated_at_human": "09 August 2026 at 11:27 SAST",
-  "focus_today": "**Focus for Today:**\n\nYour WTW 263 ClickUP Test 1 is due in 2 days\u2014that's your immediate priority. Block out study time today to review the material and do practice problems so you're not cramming Tuesday morning.",
-  "total_upcoming_deadlines": 8,
+  "generated_at": "2026-08-10T05:16:17.982049+00:00",
+  "generated_at_human": "10 August 2026 at 05:16 SAST",
+  "focus_today": "**Focus for Today:**\n\nYour Test Preparation Workshops start **tomorrow morning** \u2014 get ahead by reviewing the content tonight so you can hit the ground running. Also, mark your calendar for the Mastercard Foundation info session on August 13th if you're interested in that scholarship application (deadline is August 31st for undergrad).",
+  "total_upcoming_deadlines": 10,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,11 +49,61 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 263: ClickUP Test 1",
+      "title": "Test Preparation Workshop - Morning Session",
       "due_date": "2026-08-11",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation Workshop - Afternoon Session",
+      "due_date": "2026-08-11",
+      "due_time": "13:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation Workshop - Morning Session",
+      "due_date": "2026-08-12",
+      "due_time": "10:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation Workshop - Afternoon Session",
+      "due_date": "2026-08-12",
       "due_time": "14:30",
-      "course_id": "WTW 263 S2 2026",
-      "course_name": "WTW 263 S2 2026",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation Workshop - Morning Session",
+      "due_date": "2026-08-13",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation Workshop - Afternoon Session",
+      "due_date": "2026-08-13",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -69,31 +119,11 @@
       "url": null
     },
     {
-      "title": "SARAO Honours - Application Closing Date",
-      "due_date": "2026-08-14",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
       "title": "Last day to deregister modules without cost or academic record impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
       "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Prescribed Textbook Needs Survey - Closing Date",
-      "due_date": "2026-08-21",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -114,16 +144,6 @@
       "due_time": "08:00",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "DSI-NRF Honours Scholarships - Application Closing Date",
-      "due_date": "2026-11-23",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
