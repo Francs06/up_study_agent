@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T11:46:28.640791+00:00",
-  "generated_at_human": "10 August 2026 at 11:46 SAST",
-  "focus_today": "**Focus for today:** Attend the Mastercard Foundation info session (due Thursday) \u2013 you need the details before deciding whether to apply for the undergrad deadline on Aug 31. After that, review your current modules and decide if you need to deregister by Aug 17.",
-  "total_upcoming_deadlines": 5,
+  "generated_at": "2026-08-11T04:58:02.970136+00:00",
+  "generated_at_human": "11 August 2026 at 04:58 SAST",
+  "focus_today": "**Focus for Today**\n\nYou have the morning and afternoon Semester Test Prep Workshop sessions due today \u2014 make sure you complete both before the day ends. These wrap up today's workshops, with more sessions continuing through Thursday, so treat this as non-negotiable prep work.",
+  "total_upcoming_deadlines": 11,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,6 +48,66 @@
     }
   },
   "all_deadlines": [
+    {
+      "title": "Semester Test Prep Workshop - Morning Session",
+      "due_date": "2026-08-11",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Semester Test Prep Workshop - Afternoon Session",
+      "due_date": "2026-08-11",
+      "due_time": "13:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Semester Test Prep Workshop - Morning Session",
+      "due_date": "2026-08-12",
+      "due_time": "10:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Semester Test Prep Workshop - Afternoon Session",
+      "due_date": "2026-08-12",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Semester Test Prep Workshop - Morning Session",
+      "due_date": "2026-08-13",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Semester Test Prep Workshop - Afternoon Session",
+      "due_date": "2026-08-13",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
     {
       "title": "Mastercard Foundation Scholars Program Information Session",
       "due_date": "2026-08-13",
