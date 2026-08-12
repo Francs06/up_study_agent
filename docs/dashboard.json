@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T11:42:58.462225+00:00",
-  "generated_at_human": "11 August 2026 at 11:42 SAST",
-  "focus_today": "Focus on **WTW 238 S2 2026: CT01** \u2013 it's due in 3 days (Friday, Aug 14). Attend one of the Test Prep workshops tomorrow or Thursday to get your strategy locked in, then dedicate the next couple of days to studying. Everything else can wait.",
-  "total_upcoming_deadlines": 9,
+  "generated_at": "2026-08-12T05:23:45.957528+00:00",
+  "generated_at_human": "12 August 2026 at 05:23 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have two deadlines tomorrow (Thursday): WTW 263 ClickUP test 1 and the Mastercard Foundation info session. Prioritize studying for the WTW 263 test first\u2014it's examinable content. If you haven't registered for the info session yet, do that now so it doesn't slip your mind.",
+  "total_upcoming_deadlines": 7,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,43 +49,13 @@
   },
   "all_deadlines": [
     {
-      "title": "Test Preparation and Consultation Tips Workshop (Morning)",
-      "due_date": "2026-08-12",
-      "due_time": "10:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop (Afternoon)",
-      "due_date": "2026-08-12",
-      "due_time": "14:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop (Morning)",
+      "title": "WTW 263 S2 2026: ClickUP test 1",
       "due_date": "2026-08-13",
-      "due_time": "09:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop (Afternoon)",
-      "due_date": "2026-08-13",
-      "due_time": "14:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
+      "due_time": "15:00",
+      "course_id": "_191017_1",
+      "course_name": "WTW 263 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
@@ -109,11 +79,21 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost/impact",
+      "title": "Last day to deregister modules without cost or academic record impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
       "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Prescribed Textbook Needs Survey - Closing Date",
+      "due_date": "2026-08-21",
+      "due_time": "08:00",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
