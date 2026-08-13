@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T11:44:36.318150+00:00",
-  "generated_at_human": "12 August 2026 at 11:44 SAST",
-  "focus_today": "**Focus for today, Franco:**\n\nYou have two deadlines tomorrow (Aug 13)\u2014the WTW 263 ClickUP test and the Mastercard Foundation info session. Prioritize studying for the test since it's assessed work; attend the info session if you're interested in the scholarship, but don't let it cut into your prep time.",
-  "total_upcoming_deadlines": 7,
+  "generated_at": "2026-08-13T05:27:19.698276+00:00",
+  "generated_at_human": "13 August 2026 at 05:27 SAST",
+  "focus_today": "**Focus for Today**\n\nYou have the WTW 263 ClickUP test 1 due TODAY (Aug 13)\u2014make sure it's submitted before the deadline closes. Also attend at least one of the test prep workshops today if you haven't already; the tips will help you prepare for WTW 238's CT01 tomorrow.",
+  "total_upcoming_deadlines": 6,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -59,11 +59,21 @@
       "url": null
     },
     {
-      "title": "Mastercard Foundation Scholars Program Information Session",
+      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
       "due_date": "2026-08-13",
-      "due_time": "17:30",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
+      "due_time": "09:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
+      "due_date": "2026-08-13",
+      "due_time": "14:30",
+      "course_id": "_192835_1",
+      "course_name": "_192835_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -79,7 +89,7 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost/impact",
+      "title": "Last day to deregister modules without cost or academic record impact",
       "due_date": "2026-08-17",
       "due_time": "08:00",
       "course_id": "_192835_1",
@@ -91,26 +101,6 @@
     {
       "title": "Prescribed Textbook Needs Survey - Closing Date",
       "due_date": "2026-08-21",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Mastercard Foundation Scholars - Undergraduate Application Deadline",
-      "due_date": "2026-08-31",
-      "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Mastercard Foundation Scholars - Postgraduate Application Deadline",
-      "due_date": "2026-09-30",
       "due_time": "08:00",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
