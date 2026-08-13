@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T05:27:19.698276+00:00",
-  "generated_at_human": "13 August 2026 at 05:27 SAST",
-  "focus_today": "**Focus for Today**\n\nYou have the WTW 263 ClickUP test 1 due TODAY (Aug 13)\u2014make sure it's submitted before the deadline closes. Also attend at least one of the test prep workshops today if you haven't already; the tips will help you prepare for WTW 238's CT01 tomorrow.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-08-13T11:45:06.371894+00:00",
+  "generated_at_human": "13 August 2026 at 11:45 SAST",
+  "focus_today": "**Focus for today:**\n\nYou have two deadlines TODAY: MTX 221 Session 16 attendance and WTW 263 ClickUP test 1. Knock these out first, then tackle WTW 238 CT01 tomorrow. After that, you've got breathing room until test week hits\u2014use it to start prepping.",
+  "total_upcoming_deadlines": 9,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,6 +49,16 @@
   },
   "all_deadlines": [
     {
+      "title": "MTX 221 S2 2026: Attendance: Session 16",
+      "due_date": "2026-08-13",
+      "due_time": "09:50",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
       "title": "WTW 263 S2 2026: ClickUP test 1",
       "due_date": "2026-08-13",
       "due_time": "15:00",
@@ -56,26 +66,6 @@
       "course_name": "WTW 263 S2 2026",
       "label": "TE:TE_AVAIL",
       "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop - Morning Session",
-      "due_date": "2026-08-13",
-      "due_time": "09:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "Test Preparation and Consultation Tips Workshop - Afternoon Session",
-      "due_date": "2026-08-13",
-      "due_time": "14:30",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
       "url": null
     },
     {
@@ -99,11 +89,51 @@
       "url": null
     },
     {
-      "title": "Prescribed Textbook Needs Survey - Closing Date",
-      "due_date": "2026-08-21",
+      "title": "UP Test Week",
+      "due_date": "2026-08-22",
       "due_time": "08:00",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "UP Test Week",
+      "due_date": "2026-08-29",
+      "due_time": "08:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "UP Test Week",
+      "due_date": "2026-09-05",
+      "due_time": "08:00",
+      "course_id": "_192867_1",
+      "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MTX 221: Industry Talk 5",
+      "due_date": "2026-09-11",
+      "due_time": "11:30",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MTX 221: Class Test 6",
+      "due_date": "2026-09-15",
+      "due_time": "11:30",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
