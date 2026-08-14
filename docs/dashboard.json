@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T11:45:06.371894+00:00",
-  "generated_at_human": "13 August 2026 at 11:45 SAST",
-  "focus_today": "**Focus for today:**\n\nYou have two deadlines TODAY: MTX 221 Session 16 attendance and WTW 263 ClickUP test 1. Knock these out first, then tackle WTW 238 CT01 tomorrow. After that, you've got breathing room until test week hits\u2014use it to start prepping.",
-  "total_upcoming_deadlines": 9,
+  "generated_at": "2026-08-14T05:25:04.844137+00:00",
+  "generated_at_human": "14 August 2026 at 05:25 SAST",
+  "focus_today": "**Focus for Today:**\n\nCT01 for WTW 238 is due **today** \u2014 make sure you've submitted it if you haven't already. Once that's done, shift your attention to prepping for Test Week starting tomorrow (Aug 22), which includes your WTW 238 Semester Test 1.",
+  "total_upcoming_deadlines": 8,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,26 +49,6 @@
   },
   "all_deadlines": [
     {
-      "title": "MTX 221 S2 2026: Attendance: Session 16",
-      "due_date": "2026-08-13",
-      "due_time": "09:50",
-      "course_id": "_189368_1",
-      "course_name": "MTX 221 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "WTW 263 S2 2026: ClickUP test 1",
-      "due_date": "2026-08-13",
-      "due_time": "15:00",
-      "course_id": "_191017_1",
-      "course_name": "WTW 263 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
       "title": "WTW 238 S2 2026: CT01",
       "due_date": "2026-08-14",
       "due_time": "15:30",
@@ -79,11 +59,11 @@
       "url": null
     },
     {
-      "title": "Last day to deregister modules without cost or academic record impact",
-      "due_date": "2026-08-17",
+      "title": "Prescribed Textbook Needs Survey - Closing Date",
+      "due_date": "2026-08-21",
       "due_time": "08:00",
-      "course_id": "_192835_1",
-      "course_name": "_192835_1",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -94,6 +74,16 @@
       "due_time": "08:00",
       "course_id": "_192867_1",
       "course_name": "_192867_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 238: Semester Test 1",
+      "due_date": "2026-08-22",
+      "due_time": "15:00",
+      "course_id": "WTW 238 S2 2026",
+      "course_name": "WTW 238 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
