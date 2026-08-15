@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T11:42:33.951665+00:00",
-  "generated_at_human": "14 August 2026 at 11:42 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou have two assessments due TODAY \u2014 WTW 238 CT01 and MOW 227 Class Test 4. Finish these now; don't let them slip into tonight. Once those are locked in, you've got breathing room until test week hits on the 22nd.",
-  "total_upcoming_deadlines": 7,
+  "generated_at": "2026-08-15T04:20:07.062348+00:00",
+  "generated_at_human": "15 August 2026 at 04:20 SAST",
+  "focus_today": "**Focus for Today**\n\nMOW 227 Class Test 4 is due TODAY\u2014that's your immediate priority. Finish it before the deadline if you haven't already, then shift your attention to prepping for UP Test Week starting next Saturday (22 Aug). You've got one week to get your materials organized and study plan locked in.",
+  "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,19 +49,9 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 238 S2 2026: CT01",
-      "due_date": "2026-08-14",
-      "due_time": "15:30",
-      "course_id": "_190957_1",
-      "course_name": "WTW 238 S2 2026",
-      "label": "UA:DUE",
-      "event_type": "UA:DUE",
-      "url": null
-    },
-    {
       "title": "MOW 227: Class Test 4",
-      "due_date": "2026-08-14",
-      "due_time": "15:00",
+      "due_date": "2026-08-15",
+      "due_time": "14:00",
       "course_id": "MOW 227 S2 2026",
       "course_name": "MOW 227 S2 2026",
       "label": "ANNOUNCEMENT",
@@ -94,26 +84,6 @@
       "due_time": "08:00",
       "course_id": "_192867_1",
       "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MTX 221: Industry Talk 5",
-      "due_date": "2026-09-11",
-      "due_time": "11:30",
-      "course_id": "MTX 221 S2 2026",
-      "course_name": "MTX 221 S2 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MTX 221: Class Test 6",
-      "due_date": "2026-09-15",
-      "due_time": "11:30",
-      "course_id": "MTX 221 S2 2026",
-      "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
