@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T11:24:24.202804+00:00",
-  "generated_at_human": "18 August 2026 at 11:24 SAST",
-  "focus_today": "**Focus for Today**\n\nMOW 227's Class Test 4 is due *today* \u2014 make sure you submit before the deadline closes. After that, start reviewing WTW 263 material since Semester Test 1 is in a week and you'll want solid prep time.",
-  "total_upcoming_deadlines": 2,
+  "generated_at": "2026-08-19T04:26:43.883147+00:00",
+  "generated_at_human": "19 August 2026 at 04:26 SAST",
+  "focus_today": "# Focus for Today\n\n**MOW 227: Class Test 4 is due TODAY.** Lock in your preparation immediately\u2014this is your priority right now. After you've tackled that, shift attention to WTW 263 (Semester Test 1 is in 6 days), since that's your next major assessment.",
+  "total_upcoming_deadlines": 3,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -50,10 +50,20 @@
   "all_deadlines": [
     {
       "title": "MOW 227: Class Test 4",
-      "due_date": "2026-08-18",
+      "due_date": "2026-08-19",
       "due_time": "14:00",
       "course_id": "MOW 227 S2 2026",
       "course_name": "MOW 227 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "NRF Information Session for Prospective Postgraduate Students",
+      "due_date": "2026-08-24",
+      "due_time": "12:40",
+      "course_id": "_195115_1",
+      "course_name": "_195115_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
