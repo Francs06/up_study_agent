@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T11:23:49.457571+00:00",
-  "generated_at_human": "19 August 2026 at 11:23 SAST",
-  "focus_today": "**Focus for Today:**\n\nMOW 227 Class Test 4 is due **today** \u2014 make sure you've submitted it if you haven't already. After that, shift your attention to preparing for UP Test Week starting tomorrow (Aug 22), since you've got back-to-back exam blocks through early September.",
-  "total_upcoming_deadlines": 6,
+  "generated_at": "2026-08-20T04:26:36.159851+00:00",
+  "generated_at_human": "20 August 2026 at 04:26 SAST",
+  "focus_today": "**Focus for Today**\n\nMOW 227's Class Test 4 is due *today* \u2013 make sure you've submitted it before the deadline closes. After that, start reviewing the NRF information session details for Monday so you can decide if postgrad research is worth your time.",
+  "total_upcoming_deadlines": 2,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -50,20 +50,10 @@
   "all_deadlines": [
     {
       "title": "MOW 227: Class Test 4",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "due_time": "14:00",
       "course_id": "MOW 227 S2 2026",
       "course_name": "MOW 227 S2 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "UP Test Week",
-      "due_date": "2026-08-22",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
@@ -74,36 +64,6 @@
       "due_time": "12:40",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "WTW 263 S2: Semester Test 1",
-      "due_date": "2026-08-25",
-      "due_time": "12:30",
-      "course_id": "WTW 263 S2 2026",
-      "course_name": "WTW 263 S2 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "UP Test Week",
-      "due_date": "2026-08-29",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "UP Test Week - Final Day",
-      "due_date": "2026-09-05",
-      "due_time": "08:00",
-      "course_id": "_192867_1",
-      "course_name": "_192867_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
