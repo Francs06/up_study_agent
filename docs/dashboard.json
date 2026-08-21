@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T11:25:30.993973+00:00",
-  "generated_at_human": "20 August 2026 at 11:25 SAST",
-  "focus_today": "**Focus for Today:**\n\nMOW 227 Class Test 4 is due **today** \u2014 make sure you've submitted it if you haven't already. After that's done, start prepping for the NRF Information Session on Monday (Aug 24) if you're thinking about postgrad; grab the session details and see if there's anything you need to prepare.",
-  "total_upcoming_deadlines": 2,
+  "generated_at": "2026-08-21T04:28:42.132988+00:00",
+  "generated_at_human": "21 August 2026 at 04:28 SAST",
+  "focus_today": "**Focus for Today:**\n\nMOW 227: Class Test 4 is due **today** \u2014 make sure you sit it if you haven't already. After that's done, shift your attention to MTX 221 since Semester Test 1 is only 5 days away on the 26th.",
+  "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -50,7 +50,7 @@
   "all_deadlines": [
     {
       "title": "MOW 227: Class Test 4",
-      "due_date": "2026-08-20",
+      "due_date": "2026-08-21",
       "due_time": "14:00",
       "course_id": "MOW 227 S2 2026",
       "course_name": "MOW 227 S2 2026",
@@ -64,6 +64,26 @@
       "due_time": "12:40",
       "course_id": "_195115_1",
       "course_name": "_195115_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MTX 221: Semester Test 1",
+      "due_date": "2026-08-26",
+      "due_time": "07:30",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MTX 221: Test Script Perusal (Compulsory)",
+      "due_date": "2026-09-01",
+      "due_time": "08:00",
+      "course_id": "MTX 221 S2 2026",
+      "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
