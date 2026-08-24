@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T04:35:25.242239+00:00",
-  "generated_at_human": "24 August 2026 at 04:35 SAST",
-  "focus_today": "**Focus for Today:**\n\nThe NRF Information Session registration closes **today** \u2013 sign up now if you're considering postgrad studies. This is your chance to explore funding options and research opportunities directly relevant to your ME career path.",
-  "total_upcoming_deadlines": 1,
+  "generated_at": "2026-08-24T11:27:16.802943+00:00",
+  "generated_at_human": "24 August 2026 at 11:27 SAST",
+  "focus_today": "# Focus for Today\n\nHey Franco\u2014no immediate deadlines, so this is your window to get ahead. Pick one problem set or lab report that's been sitting around and push it to completion or near-completion; staying ahead now means less stress later. Use this breathing room strategically.",
+  "total_upcoming_deadlines": 0,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -47,16 +47,5 @@
       "new_documents": []
     }
   },
-  "all_deadlines": [
-    {
-      "title": "NRF Information Session for Prospective Postgraduate Students",
-      "due_date": "2026-08-24",
-      "due_time": "12:40",
-      "course_id": "_195115_1",
-      "course_name": "_195115_1",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    }
-  ]
+  "all_deadlines": []
 }
