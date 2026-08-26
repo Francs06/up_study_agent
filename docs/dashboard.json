@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T11:26:26.960941+00:00",
-  "generated_at_human": "25 August 2026 at 11:26 SAST",
-  "focus_today": "# Focus for Today\n\nNo urgent deadlines looming, so this is a solid day to **get ahead on upcoming coursework or lab reports** before they pile up. Use the breathing room to review notes from recent classes or start prep work that'll make next week easier.",
-  "total_upcoming_deadlines": 0,
+  "generated_at": "2026-08-26T04:29:49.006932+00:00",
+  "generated_at_human": "26 August 2026 at 04:29 SAST",
+  "focus_today": "**Focus for Today:**\n\nBES 220's test is in 2 days\u2014this is your priority. Identify the key topics/chapters covered and work through practice problems or past exams if available. Two days is tight enough that every study hour counts, so focus on understanding concepts rather than passive review.",
+  "total_upcoming_deadlines": 1,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -47,5 +47,16 @@
       "new_documents": []
     }
   },
-  "all_deadlines": []
+  "all_deadlines": [
+    {
+      "title": "BES 220: Semester 1 Test",
+      "due_date": "2026-08-28",
+      "due_time": "12:30",
+      "course_id": "BES 220 S2 2026",
+      "course_name": "BES 220 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    }
+  ]
 }
