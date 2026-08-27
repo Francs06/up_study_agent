@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T11:34:08.763137+00:00",
-  "generated_at_human": "26 August 2026 at 11:34 SAST",
-  "focus_today": "**Focus for Today**\n\nYou've got 2 days until your BES 220 test on Friday\u2014that's your priority. Block out time today to review the material and identify weak spots; Friday will come fast. Hit the practice problems and past exams if available.",
+  "generated_at": "2026-08-27T14:51:57.169719+00:00",
+  "generated_at_human": "27 August 2026 at 14:51 SAST",
+  "focus_today": "**Focus for Today**\n\nYou've got 6 days until the WTW 238 S2 Sick Test 1 \u2013 that's your only deadline on the horizon, so lock in on review material today. Figure out what topics are actually on this test and identify 1-2 weak spots to drill down on before the weekend.",
   "total_upcoming_deadlines": 1,
   "courses": {
     "_190939_1": {
@@ -49,11 +49,11 @@
   },
   "all_deadlines": [
     {
-      "title": "BES 220: Semester 1 Test",
-      "due_date": "2026-08-28",
-      "due_time": "12:30",
-      "course_id": "BES 220 S2 2026",
-      "course_name": "BES 220 S2 2026",
+      "title": "WTW 238 S2: Sick Test 1",
+      "due_date": "2026-09-02",
+      "due_time": "08:30",
+      "course_id": "WTW 238 S2 2026",
+      "course_name": "WTW 238 S2 2026",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
       "url": null
