@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T15:47:08.829432+00:00",
-  "generated_at_human": "28 August 2026 at 15:47 SAST",
-  "focus_today": "# Focus for Today\n\nYou've got 3 days to nail the MTX 221 theory session due Monday\u2014start that tonight so you're not scrambling. Also use this weekend to prep for the WTW 238 Sick Test on Wednesday; waiting until Tuesday will leave you stressed.",
-  "total_upcoming_deadlines": 5,
+  "generated_at": "2026-08-28T21:19:38.614817+00:00",
+  "generated_at_human": "28 August 2026 at 21:19 SAST",
+  "focus_today": "**Focus for today:**\n\nYou've got two MTX 221 deadlines in 3 days (Sept 1) \u2014 nail down your Discussion Session D1 participation and Theory Session prep first, those are compulsory and non-negotiable. After that, start studying for your WTW 238 Sick Test on Sept 2 so you're not cramming between two deadlines back-to-back.",
+  "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,9 +49,9 @@
   },
   "all_deadlines": [
     {
-      "title": "MTX 221: Theory session",
-      "due_date": "2026-08-31",
-      "due_time": "09:30",
+      "title": "MTX 221: Discussion Session D1 (Compulsory)",
+      "due_date": "2026-09-01",
+      "due_time": "14:30",
       "course_id": "MTX 221 S2 2026",
       "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
@@ -59,9 +59,9 @@
       "url": null
     },
     {
-      "title": "MTX 221: Discussion session D1 (collect graded ST1 script)",
+      "title": "MTX 221: Theory Session",
       "due_date": "2026-09-01",
-      "due_time": "14:30",
+      "due_time": "09:30",
       "course_id": "MTX 221 S2 2026",
       "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
@@ -79,17 +79,7 @@
       "url": null
     },
     {
-      "title": "MTX 221: Theory session (complete next theme)",
-      "due_date": "2026-09-04",
-      "due_time": "09:30",
-      "course_id": "MTX 221 S2 2026",
-      "course_name": "MTX 221 S2 2026",
-      "label": "ANNOUNCEMENT",
-      "event_type": "ANNOUNCEMENT",
-      "url": null
-    },
-    {
-      "title": "MTX 221: Practical submission deadline",
+      "title": "MTX 221: Practical Submission Deadline",
       "due_date": "2026-09-07",
       "due_time": "12:00",
       "course_id": "MTX 221 S2 2026",
