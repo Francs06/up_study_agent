@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T15:30:28.858082+00:00",
-  "generated_at_human": "29 August 2026 at 15:30 SAST",
-  "focus_today": "**Focus for Today:**\n\nYou've got 3 days until MTX 221 theory resumes\u2014use today to review the material so you're not scrambling Monday. More urgent: WTW 238's Sick Test 1 is in 4 days, so get a study plan locked in now rather than cramming mid-week.",
+  "generated_at": "2026-08-30T09:34:22.257120+00:00",
+  "generated_at_human": "30 August 2026 at 09:34 SAST",
+  "focus_today": "# Focus for Today\n\nYou've got two days until MTX 221's discussion session and theory session both hit\u2014make sure you've actually reviewed the ST1 content you'll be collecting on Tuesday, or you'll walk in unprepared. Start prepping for WTW 238's Sick Test 1 (due Wednesday) today so you're not cramming it in between your MTX commitments.",
   "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
@@ -49,9 +49,9 @@
   },
   "all_deadlines": [
     {
-      "title": "MTX 221: Theory Session Resumes",
-      "due_date": "2026-08-31",
-      "due_time": "09:30",
+      "title": "MTX 221: Discussion Session D1 (Compulsory) - Collect graded ST1 script",
+      "due_date": "2026-09-01",
+      "due_time": "14:30",
       "course_id": "MTX 221 S2 2026",
       "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
@@ -59,9 +59,9 @@
       "url": null
     },
     {
-      "title": "MTX 221: Discussion Session D1 (Compulsory)",
+      "title": "MTX 221: Theory session",
       "due_date": "2026-09-01",
-      "due_time": "14:30",
+      "due_time": "09:30",
       "course_id": "MTX 221 S2 2026",
       "course_name": "MTX 221 S2 2026",
       "label": "ANNOUNCEMENT",
@@ -79,7 +79,7 @@
       "url": null
     },
     {
-      "title": "MTX 221: Practical Submission Deadline",
+      "title": "MTX 221: Practical submission deadline",
       "due_date": "2026-09-07",
       "due_time": "12:00",
       "course_id": "MTX 221 S2 2026",
