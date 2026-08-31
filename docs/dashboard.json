@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T15:10:55.073387+00:00",
-  "generated_at_human": "30 August 2026 at 15:10 SAST",
-  "focus_today": "# Focus for Today\n\nHey Franco \u2014 with no urgent deadlines looming, this is your window to get ahead on anything from your courses that's been piling up or to deepen your understanding of tough concepts from recent classes. Use Sunday strategically: knock out one solid study block on whatever's been nagging at you, then you'll start the week clean.",
-  "total_upcoming_deadlines": 0,
+  "generated_at": "2026-08-31T10:14:53.211279+00:00",
+  "generated_at_human": "31 August 2026 at 10:14 SAST",
+  "focus_today": "**Focus for Today:**\n\nSRC Funday is due tomorrow\u2014if you haven't submitted yet, that's your priority. After that's done, start thinking about what you need to prep for JCP consultation hours (due Sept 14), since you've got breathing room there.",
+  "total_upcoming_deadlines": 2,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -47,5 +47,26 @@
       "new_documents": []
     }
   },
-  "all_deadlines": []
+  "all_deadlines": [
+    {
+      "title": "SRC FUNDAY 2026",
+      "due_date": "2026-09-01",
+      "due_time": "11:00",
+      "course_id": "_192873_1",
+      "course_name": "_192873_1",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "JCP Consultation Hours Resume",
+      "due_date": "2026-09-14",
+      "due_time": "13:30",
+      "course_id": "JCP 203 Y1 2026",
+      "course_name": "JCP 203 Y1 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    }
+  ]
 }
