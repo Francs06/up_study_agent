@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T10:14:53.211279+00:00",
-  "generated_at_human": "31 August 2026 at 10:14 SAST",
-  "focus_today": "**Focus for Today:**\n\nSRC Funday is due tomorrow\u2014if you haven't submitted yet, that's your priority. After that's done, start thinking about what you need to prep for JCP consultation hours (due Sept 14), since you've got breathing room there.",
-  "total_upcoming_deadlines": 2,
+  "generated_at": "2026-08-31T17:54:29.326380+00:00",
+  "generated_at_human": "31 August 2026 at 17:54 SAST",
+  "focus_today": "**Focus for Today:**\n\nYou've got SRC FUNDAY tomorrow and WTW 238's Sick Test on Wednesday \u2014 prioritize prepping for that exam first since it's a formal assessment. Squeeze in some WTW 263 review tonight if you have time, since that ClickUP test is Thursday and you'll want momentum going into the week.",
+  "total_upcoming_deadlines": 8,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -56,6 +56,66 @@
       "course_name": "_192873_1",
       "label": "ANNOUNCEMENT",
       "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 238: Sick Test Venue",
+      "due_date": "2026-09-02",
+      "due_time": "08:00",
+      "course_id": "WTW 238 S2 2026",
+      "course_name": "WTW 238 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "WTW 263 S2 2026: ClickUP test 2",
+      "due_date": "2026-09-03",
+      "due_time": "15:00",
+      "course_id": "_191017_1",
+      "course_name": "WTW 263 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "WTW 238: Tutorial Test - Unit 3.3",
+      "due_date": "2026-09-04",
+      "due_time": "08:00",
+      "course_id": "WTW 238 S2 2026",
+      "course_name": "WTW 238 S2 2026",
+      "label": "ANNOUNCEMENT",
+      "event_type": "ANNOUNCEMENT",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: STEP 1: Practical Data and Analysis Input",
+      "due_date": "2026-09-07",
+      "due_time": "10:00",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: STEP 2: Practical PDF hand-written workings",
+      "due_date": "2026-09-07",
+      "due_time": "10:00",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: STEP 3: Online test about what you learned in the practical",
+      "due_date": "2026-09-07",
+      "due_time": "10:00",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
