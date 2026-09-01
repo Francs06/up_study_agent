@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T08:59:58.254143+00:00",
-  "generated_at_human": "01 September 2026 at 08:59 SAST",
+  "generated_at": "2026-09-01T15:23:36.331415+00:00",
+  "generated_at_human": "01 September 2026 at 15:23 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
   "total_upcoming_deadlines": 4,
   "courses": {
@@ -49,13 +49,13 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 263 S2 2026: ClickUP test 2",
-      "due_date": "2026-09-03",
-      "due_time": "15:00",
-      "course_id": "_191017_1",
-      "course_name": "WTW 263 S2 2026",
-      "label": "TE:DUE",
-      "event_type": "TE:DUE",
+      "title": "MTX 221 S2 2026: Attendance: Session D1",
+      "due_date": "2026-09-01",
+      "due_time": "13:30",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
