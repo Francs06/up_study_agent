@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T15:23:36.331415+00:00",
-  "generated_at_human": "01 September 2026 at 15:23 SAST",
+  "generated_at": "2026-09-02T08:13:48.860233+00:00",
+  "generated_at_human": "02 September 2026 at 08:13 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 4,
+  "total_upcoming_deadlines": 3,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,16 +48,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MTX 221 S2 2026: Attendance: Session D1",
-      "due_date": "2026-09-01",
-      "due_time": "13:30",
-      "course_id": "_189368_1",
-      "course_name": "MTX 221 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
     {
       "title": "MTX 221 S2 2026: STEP 1: Practical Data and Analysis Input",
       "due_date": "2026-09-07",
