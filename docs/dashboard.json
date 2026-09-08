@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T16:17:40.368994+00:00",
-  "generated_at_human": "07 September 2026 at 16:17 SAST",
+  "generated_at": "2026-09-08T08:25:36.369936+00:00",
+  "generated_at_human": "08 September 2026 at 08:25 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 2,
+  "total_upcoming_deadlines": 1,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,16 +48,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MTX 221 S2 2026: Attendance: Tut05",
-      "due_date": "2026-09-07",
-      "due_time": "08:30",
-      "course_id": "_189368_1",
-      "course_name": "MTX 221 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
     {
       "title": "BES 220 S2 2026: Assignment 3",
       "due_date": "2026-09-11",
