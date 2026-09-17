@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T09:00:21.915853+00:00",
-  "generated_at_human": "17 September 2026 at 09:00 SAST",
+  "generated_at": "2026-09-17T15:26:39.717423+00:00",
+  "generated_at_human": "17 September 2026 at 15:26 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 2,
+  "total_upcoming_deadlines": 3,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -66,6 +66,16 @@
       "course_name": "WTW 238 S2 2026",
       "label": "TE:TE_AVAIL",
       "event_type": "TE:TE_AVAIL",
+      "url": null
+    },
+    {
+      "title": "JCP 203 Y1 2026: Final Video Report and Evidence Document",
+      "due_date": "2026-10-02",
+      "due_time": "18:00",
+      "course_id": "_193485_1",
+      "course_name": "JCP 203 Y1 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
       "url": null
     }
   ]
