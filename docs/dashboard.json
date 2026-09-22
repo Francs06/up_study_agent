@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T16:48:07.613270+00:00",
-  "generated_at_human": "21 September 2026 at 16:48 SAST",
+  "generated_at": "2026-09-22T08:53:43.752607+00:00",
+  "generated_at_human": "22 September 2026 at 08:53 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
   "total_upcoming_deadlines": 2,
   "courses": {
@@ -64,8 +64,8 @@
       "due_time": "21:59",
       "course_id": "_190957_1",
       "course_name": "WTW 238 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
+      "label": "TE:DUE",
+      "event_type": "TE:DUE",
       "url": null
     }
   ]
