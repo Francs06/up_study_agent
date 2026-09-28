@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T15:32:16.111084+00:00",
-  "generated_at_human": "27 September 2026 at 15:32 SAST",
+  "generated_at": "2026-09-28T10:17:58.604060+00:00",
+  "generated_at_human": "28 September 2026 at 10:17 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 1,
+  "total_upcoming_deadlines": 2,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -49,11 +49,21 @@
   },
   "all_deadlines": [
     {
-      "title": "WTW 238 S2 2026: Example of Old Class test on Unit 1.2",
-      "due_date": "2026-09-27",
+      "title": "MOW 227 S2 2026: Practical 1 submission",
+      "due_date": "2026-09-28",
       "due_time": "21:59",
-      "course_id": "_190957_1",
-      "course_name": "WTW 238 S2 2026",
+      "course_id": "_190881_1",
+      "course_name": "MOW 227 S2 2026",
+      "label": "UA:DUE",
+      "event_type": "UA:DUE",
+      "url": null
+    },
+    {
+      "title": "BES 220 S2 2026: Assignment 4",
+      "due_date": "2026-10-05",
+      "due_time": "15:00",
+      "course_id": "_187482_1",
+      "course_name": "BES 220 S2 2026",
       "label": "TE:DUE",
       "event_type": "TE:DUE",
       "url": null
