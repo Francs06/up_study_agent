@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T17:20:33.271477+00:00",
-  "generated_at_human": "19 October 2026 at 17:20 SAST",
+  "generated_at": "2026-10-20T09:00:07.235383+00:00",
+  "generated_at_human": "20 October 2026 at 09:00 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 4,
+  "total_upcoming_deadlines": 2,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,26 +48,6 @@
     }
   },
   "all_deadlines": [
-    {
-      "title": "MTX 221 S2 2026: Attendance: Tut 08",
-      "due_date": "2026-10-19",
-      "due_time": "08:30",
-      "course_id": "_189368_1",
-      "course_name": "MTX 221 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
-      "url": null
-    },
-    {
-      "title": "MTX 221 S2 2026: Practical Resubmission (deadline: 12:00 19 October 2026)",
-      "due_date": "2026-10-19",
-      "due_time": "10:00",
-      "course_id": "_189368_1",
-      "course_name": "MTX 221 S2 2026",
-      "label": "UA:UA_AVAIL",
-      "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
     {
       "title": "WTW 263 S2 2026: CT9: ClickUP test 3",
       "due_date": "2026-10-22",
