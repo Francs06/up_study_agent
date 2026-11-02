@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T17:00:26.275170+00:00",
-  "generated_at_human": "01 November 2026 at 17:00 SAST",
+  "generated_at": "2026-11-02T11:48:57.550139+00:00",
+  "generated_at_human": "02 November 2026 at 11:48 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 3,
+  "total_upcoming_deadlines": 4,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -56,6 +56,16 @@
       "course_name": "MOW 227 S2 2026",
       "label": "UA:UA_AVAIL",
       "event_type": "UA:UA_AVAIL",
+      "url": null
+    },
+    {
+      "title": "MTX 221 S2 2026: Attendance: Tut 10",
+      "due_date": "2026-11-02",
+      "due_time": "09:30",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "TE:TE_AVAIL",
+      "event_type": "TE:TE_AVAIL",
       "url": null
     },
     {
