@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T11:41:28.671857+00:00",
-  "generated_at_human": "06 November 2026 at 11:41 SAST",
+  "generated_at": "2026-11-06T17:49:00.339809+00:00",
+  "generated_at_human": "06 November 2026 at 17:49 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 2,
+  "total_upcoming_deadlines": 1,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -56,16 +56,6 @@
       "course_name": "MTX 221 S2 2026",
       "label": "UA:UA_AVAIL",
       "event_type": "UA:UA_AVAIL",
-      "url": null
-    },
-    {
-      "title": "BES 220 S2 2026: Assignment 6",
-      "due_date": "2026-11-06",
-      "due_time": "14:00",
-      "course_id": "_187482_1",
-      "course_name": "BES 220 S2 2026",
-      "label": "TE:TE_AVAIL",
-      "event_type": "TE:TE_AVAIL",
       "url": null
     }
   ]
