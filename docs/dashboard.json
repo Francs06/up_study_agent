@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T18:32:12.067772+00:00",
-  "generated_at_human": "05 November 2026 at 18:32 SAST",
+  "generated_at": "2026-11-06T11:41:28.671857+00:00",
+  "generated_at_human": "06 November 2026 at 11:41 SAST",
   "focus_today": "Check your upcoming deadlines and stay on top of reading assignments.",
-  "total_upcoming_deadlines": 1,
+  "total_upcoming_deadlines": 2,
   "courses": {
     "_190939_1": {
       "name": "MOW 217",
@@ -48,6 +48,16 @@
     }
   },
   "all_deadlines": [
+    {
+      "title": "MTX 221 S2 2026: 3): Assignment PDF upload LATE",
+      "due_date": "2026-11-06",
+      "due_time": "10:00",
+      "course_id": "_189368_1",
+      "course_name": "MTX 221 S2 2026",
+      "label": "UA:UA_AVAIL",
+      "event_type": "UA:UA_AVAIL",
+      "url": null
+    },
     {
       "title": "BES 220 S2 2026: Assignment 6",
       "due_date": "2026-11-06",
